@@ -1,5 +1,5 @@
 {% assign language = page.url | slice: 1, 3 %}
-<header class="header">
+<!--<header class="header">
     <div class="banner__container">
         <div class="header__wrapper">
             <a href="/" class="header__logo">
@@ -30,7 +30,7 @@
             <div class="header__lang hide-sm-max">
                 <a data-lang="nl" class="header-lang__item {% if language == "nl" %}_active{% endif %}" href="{{site.url}}/nl/">NL</a>
                 <a data-lang="en" class="header-lang__item {% if language == "en" %}_active{% endif %}" href="{{site.url}}/en/">EN</a>
-                <!--<a data-lang="ru" class="header-lang__item">RU</a>-->
+                <!--<a data-lang="ru" class="header-lang__item">RU</a>
             </div>
             <div data-burger class="header__burger hide-s-min">
                 <div class="icon-burger"></div>
@@ -50,5 +50,35 @@
                 </div>
             </div>
         </div>
-    </div>
-
+    </div>-->
+    <header class="app app-header">
+        <div class="wrapper">
+            <a class="header-logo" ui-sref="home" href="https://nijmegen.forus.io/provider/">
+                <img class="header-logo-img" ng-src="https://nijmegen.forus.io/provider/assets/img/logo.png" src="https://nijmegen.forus.io/provider/assets/img/logo.png">
+            </a>
+            <!--<div class="header-auth ng-scope" ng-if="$root.auth_user">
+                <div class="auth-user">
+                    <div class="auth-user-name ng-binding">demo@forus.io</div>
+    
+                    <img class="auth-user-img" ng-src="./assets/img/placeholders/organization-thumbnail.png " src="./assets/img/placeholders/organization-thumbnail.png ">
+                    <div class="auth-user-menu">
+                        <a class="auth-user-menu-item ng-scope" ui-sref="organizations-edit($root.activeOrganization)" ng-if="$root.activeOrganization | hasPerm:'manage_organization'" href="/provider/organizations/1/edit">
+                            <em class="mdi mdi-settings"></em>
+                            Organisatie</a>
+                            <a class="auth-user-menu-item ng-binding" ui-sref="organizations-create" href="/provider/organizations/create">
+                                <em class="mdi mdi-plus"></em>Organisatie toevoegen</a>
+                                <div class="auth-user-menu-item" ng-click="$root.openPinCodePopup()">
+                                    <em class="mdi mdi-cellphone"></em>
+                                    <span translate="topnavbar.buttons.authorize" class="ng-scope">
+                                        Autoriseer apparaat
+                                    </span>
+                                    </div>
+                                    <div class="auth-user-menu-sep ng-scope" ng-if="$root.activeOrganization.id"></div>
+                                    <a class="auth-user-menu-item" ng-click="$root.signOut()">
+                                        <em class="mdi mdi-logout"></em>Uitloggen</a>
+                                    </div>
+                    </div>
+            </div>-->
+        </div>
+    </header>
+    <div class="page-content">

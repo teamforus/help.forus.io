@@ -1,0 +1,11 @@
+-
+  name: Aanbieder
+  icon: cog
+  description: Handleiding voor aanbieders
+  path: /nijmegen/
+  pages:
+    aanbieder: /aanbieder
+    What is Forus: /#what-is-forus
+    Main interaction: /#the-main-interaction
+    Example use case: /#example-case-of-an-implementation-of-forus
+    Roadmap: /#roadmap

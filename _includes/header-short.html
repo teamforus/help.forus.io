@@ -1,5 +1,5 @@
 {% assign language = page.url | slice: 1, 2 %}
-<header class="header">
+<!--<header class="header">
     <div class="banner__container">
         <div class="header__wrapper">
             <a href="/" class="header__logo">
@@ -30,7 +30,7 @@
             <div class="header__lang hide-sm-max">
                     <a data-lang="nl" class="header-lang__item {% if language == "nl" %}_active{% endif %}" onclick="location.href=this.href+'{{site.url}}/nl/'+baseurlwhlanguage;return false;">NL</a>
                     <a data-lang="en" class="header-lang__item {% if language == "en" %}_active{% endif %}" onclick="location.href=this.href+'{{site.url}}/en/'+baseurlwhlanguage;return false;">EN</a>
-                <!--<a data-lang="ru" class="header-lang__item">RU</a>-->
+                <!--<a data-lang="ru" class="header-lang__item">RU</a>
             </div>
             <div data-burger class="header__burger hide-s-min">
                 <div class="icon-burger"></div>
@@ -51,4 +51,12 @@
             </div>
         </div>
     </div>
+-->
+    <header class="app app-header">
+        <div class="wrapper">
+            <a class="header-logo" ui-sref="home" href="https://staging.nijmegen.forus.io/provider/">
+                <img class="header-logo-img" ng-src="https://nijmegen.forus.io/provider/assets/img/logo.png" src="https://nijmegen.forus.io/provider/assets/img/logo.png">
+            </a>
+        </div>
+    </header>
 
