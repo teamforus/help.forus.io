@@ -2,21 +2,25 @@ var baseurl = window.location.pathname;
 var baseurlwhlanguage = baseurl.substring(4, baseurl.length);
 
 // redirect people to rocket.chat/docs if they try and browse the GitHub pages version
-if(location.hostname == "rocketchat.github.io" && location.href.indexOf('?noredirect') == -1) {
-  location="https://rocket.chat" + location.pathname
+if(location.hostname == "teamforus.github.io" && location.href.indexOf('?noredirect') == -1) {
+  location="https://help.forus.io" + location.pathname
 }
 
 function scroll_toc(path) {
-  // remove base either '/docs/' or '/'
-  var base = baseurl.substring(0,4);
+  //path = path.indexOf(base) == 0? path.substring(base.length) : path.substring(1);
+  var path = baseurl.split('/');
 
-  path = path.indexOf(base) == 0? path.substring(base.length) : path.substring(1);
+  for( var i = path.length-1; i--;){
+    if ( path[i] === baseurl.split('/')[1]) path.splice(i, 1);
+    if ( path[i] === '') path.splice(i, 1);
+  }
+  path.pop(); 
 
   if(path[path.length - 1] == '/') {
     path = path.substring(0, path.length - 1);
   }
 
-  path = '.' + path.split('/').join(' .');
+  path = '.' + path.join(' .');
 
   $('.active').removeClass('active');
 
@@ -52,7 +56,7 @@ $(document).ready(function() {
   console.log(location);
 
 
-  if(location.pathname !== '/' && location.pathname !== '/docs/'){
+  if(location.pathname !== '/' && location.pathname !== '/nijmegen/'){
 
     var app = new senna.App();
 
