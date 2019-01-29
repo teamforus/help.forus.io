@@ -14,18 +14,13 @@ Om deel te nemen aan de Meedoen-regeling heeft u de Me App nodig (beschikbaar vo
 
 Wanneer u een account heeft kunt u inloggen via de Me app en op de gebruikersomgeving.
 
-De Me app heeft de volgende functionaliteiten: \
-
-
-
+De Me app heeft de volgende functionaliteiten:
 
 *   Een account aanmaken
 *   Inloggen op de gebruikersomgeving
 *   Een QR-code scanner voor het ontvangen van betalingen
 
 Via de gebruikersomgeving kunt u:
-
-
 
 *   Een vestiging toevoegen
 *   Bedrijfsinformatie toevoegen
