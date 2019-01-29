@@ -1,0 +1,7 @@
+-
+  name: Aanbieders
+  icon: support
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
+  path: /nijmegen/aanbieder
+  pages:
+    Vision: /organisatie
