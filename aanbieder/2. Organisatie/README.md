@@ -7,7 +7,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 
 ### Hoe kunt u inloggen?
 
-1.  Ga naar [https://nijmegen.forus.io/provider/#!/](https://zuidhorn.forus.io/provider/#!/) of naar [https://nijmegen.forus.io/](https://zuidhorn.nl/kindpakket), scroll helemaal naar beneden en klik op de zin: _"Bent u een aanbieder en wilt u meer informatie?"._ U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
+1.  Ga naar [https://nijmegen.forus.io/provider/#!/](https://nijmegen.forus.io/provider/#!/) of naar [https://nijmegen.forus.io/](https://nijmegen.forus.io/), scroll helemaal naar beneden en klik op de zin: _"Bent u een aanbieder en wilt u meer informatie?"._ U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
 
 2.  Klik op '**_Aanmelden_**'.
 3.  Maak een keuze om in te loggen via het e-mailadres of door gebruik te maken van de QR-code scanner van de **_Me-app_**.
@@ -16,9 +16,8 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 
     b.  **Log in via QR-code (Me app)**: Open de Me-app, ga naar het tabblad '_QR_' en scan de QR-code om in te loggen.
 
-
-[IMAGE]
-![alt_text](images/Aanbieders-Nijmegen0.png "image_tooltip")
+<img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-vestigingen.png" alt="vestigingen">
+[alt_text](https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-vestigingen.png")
 
 
 
