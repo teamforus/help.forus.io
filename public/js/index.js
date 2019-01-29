@@ -9,7 +9,6 @@ if(location.hostname == "teamforus.github.io" && location.href.indexOf('?noredir
 function scroll_toc(path) {
   //path = path.indexOf(base) == 0? path.substring(base.length) : path.substring(1);
   var path = baseurl.split('/');
-
   for( var i = path.length-1; i--;){
     if ( path[i] === baseurl.split('/')[1]) path.splice(i, 1);
     if ( path[i] === '') path.splice(i, 1);
@@ -50,10 +49,8 @@ function addAnchors(path) {
 $(document).ready(function() {
 
   scroll_toc(window.location.pathname);
-
   var path = (location.hostname == "rocketchat.github.io" || location.hostname == "rocket.chat") ? '/docs/' : '/';
 
-  console.log(location);
 
 
   if(location.pathname !== '/' && location.pathname !== '/nijmegen/'){
@@ -70,13 +67,12 @@ $(document).ready(function() {
 
     app.on('startNavigate', function(event) {
       scroll_toc(event.path);
-
     });
 
     app.on('endNavigate', function(event) {
       addAnchors(path);
+      window.location.reload()
       $('table:not(.table-wrapper table)').wrap( "<div class='table-wrapper'></div>" );
-
       var hash = event.path.indexOf('#');
       if (hash !== -1) {
         location.hash = path.substr(hash);
