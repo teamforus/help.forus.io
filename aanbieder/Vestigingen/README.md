@@ -4,15 +4,13 @@
 
 1.  Klik links bovenaan in het menu op "**_Vestigingen_**".
 
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen3.png "image_tooltip")
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-vestigingen.png" alt="vestigingen">
 
 1.  Er wordt een nieuw venster geopend waarin u een overzicht van uw organisatie en de vestigingen kan zien. \
 
 1.  Klik op "**_Voeg een nieuwe vestiging toe_**" of "**_bewerk_**".
 
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen4.png "image_tooltip")
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-vestiging-bewerk.png" alt="vestiging toevoegen of bewerken">
 
 1.  Er wordt een nieuw venster geopend waar u de vestiging kan toevoegen of bewerken. Hier heeft u de mogelijkheid om:
 

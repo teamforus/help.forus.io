@@ -1,15 +1,15 @@
 # Aanbiedingen
 
 
-### Hoe kan ik een aanbieding plaatsen of bewerken ? \
+### Hoe kan ik een aanbieding plaatsen of bewerken?
 
 1.  Klik links bovenaan op "**_Aanbiedingen_**".
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen8.png "image_tooltip")
+
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen">
 
 1.  Er wordt een nieuw venster geopend met het overzicht van al uw aanbiedingen. Klik op "**_Voeg een aanbieding toe_**".
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen9.png "image_tooltip")
+
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen">
 
 1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
     *  Een afbeelding van het aanbod plaatsen (optioneel).
@@ -36,11 +36,10 @@ Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.
 Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
 1.  Klik op "**_Aanbiedingen_**". Er wordt een nieuw venster geopend met het overzicht van uw aanbiedingen.
 
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen10.png "image_tooltip")
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-aanbieding-bewerken.png" alt="aanbieding bewerken of verwijderen">
 
 1.  Klik op '**Bewerk**' om uw aanbieding aan te passen. U kunt de prijs wijzigen en het aantal aanbiedingen aanvullen.
 
     **_LET OP!_** _Als u de prijs wijzigt terwijl er aanbiedingen gereserveerd stonden, dient u deze te leveren tegen de prijs die u voor de prijswijziging had ingesteld._
 
-1.  Klik op "**_Verwijderen_**" naast de knop "**_Bewerken_**". Het verwijderen van het aanbod kan alleen vanaf de vervaldatum of wanneer totale aanbod is uitverkocht.
+1.  Klik op "**_Verwijderen_**" naast de knop "**_Bewerken_**".
