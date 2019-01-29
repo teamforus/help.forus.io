@@ -1,6 +1,7 @@
 - nijmegen:
-  - aanbieder:
-    - Gebruikersomgeving & de Me-app
+  - Aanbieder:
+    - Gebruikersomgeving:
+      - Me-app
     - Organisatie
     - Vestigingen
     - Fonds
