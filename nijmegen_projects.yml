@@ -4,4 +4,11 @@
   description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
   path: /nijmegen/aanbieder
   pages:
-    Vision: /organisatie
+    Gebruikersomgeving: /gebruikersomgeving
+    Organisatie: /organisatie
+    Vestigingen: /vestigingen
+    Fonds: /fonds
+    Aanbiedingen: /aanbiedingen
+    Betalingen: /betalingen
+    Transactieoverzicht: /transactieoverzicht
+    Medewerkers: /medewerkers    
