@@ -1,4 +1,4 @@
-# Betalingen
+# 6. Betalingen
 
 De klant krijgt van de eigenaar van het fonds een voucher in de vorm van een QR-code. Dit is te vergelijken met een waardebon. De klant laat u de QR-code zien, deze kan u vervolgens scannen met de **_Me-app_**. Zodra u na het scannen de transactie bevestigd, wordt het geld overgemaakt naar het rekeningnummer die u heeft opgegeven bij het aanmaken van uw organisatie.
 
@@ -9,17 +9,16 @@ De klant kan u de QR-code op de volgende manieren laten zien:
 *   Een digitale versie via de Me-app op de mobiele telefoon
 
 
-### Hoe werkt het ?
+### Hoe werkt het?
 
 1.  De klant laat de QR-code zien.
 
 1.  Open de **_Me-app_** en druk op "_**QR**_" om de scanner te openen.
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen11.png "image_tooltip")
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner">
 
 1.  Scan vervolgens de QR-code van de klant.
-    [IMAGE]
-    ![alt_text](images/Aanbieders-Nijmegen12.jpg "image_tooltip")
+
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner">
 
 1.  Er wordt een nieuw venster geopend. Hier kunt u:
 
@@ -43,14 +42,12 @@ De klant kan u de QR-code op de volgende manieren laten zien:
       <tr>
        <td>
 
-    [IMAGE]
-    <img src="images/Aanbieders-Nijmegen13.png" width="" alt="alt_text" title="image_tooltip">
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-betaling-fonds.png" alt="Me app betaling fonds">
 
        </td>
        <td>
 
-    [IMAGE]
-    <img src="images/Aanbieders-Nijmegen14.png" width="" alt="alt_text" title="image_tooltip">
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-betaling-Aanbiedingen.png" alt="Me app betaling aanbieding">
 
        </td>
       </tr>

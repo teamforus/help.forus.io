@@ -7,8 +7,7 @@ Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschille
 *   Financiën
 *   Manager
 
-    [IMAGE]
-     ![alt_text](images/Aanbieders-Nijmegen18.png "image_tooltip")
+    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
 
 
 Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rechten.
