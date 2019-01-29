@@ -14,11 +14,11 @@ De klant kan u de QR-code op de volgende manieren laten zien:
 1.  De klant laat de QR-code zien.
 
 1.  Open de **_Me-app_** en druk op "_**QR**_" om de scanner te openen.
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner">
 
 1.  Scan vervolgens de QR-code van de klant.
 
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner">
 
 1.  Er wordt een nieuw venster geopend. Hier kunt u:
 
@@ -42,12 +42,12 @@ De klant kan u de QR-code op de volgende manieren laten zien:
       <tr>
        <td>
 
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-betaling-fonds.png" alt="Me app betaling fonds">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-betaling-fonds.png" alt="Me app betaling fonds">
 
        </td>
        <td>
 
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-meapp-betaling-Aanbiedingen.png" alt="Me app betaling aanbieding">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-betaling-Aanbiedingen.png" alt="Me app betaling aanbieding">
 
        </td>
       </tr>

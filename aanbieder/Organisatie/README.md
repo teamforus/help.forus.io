@@ -16,7 +16,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 
     b.  **Log in via QR-code (Me app)**: Open de Me-app, ga naar het tabblad "_**QR**_" en scan de QR-code om in te loggen.
 
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-inloggen.png" alt="inloggen">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-inloggen.png" alt="inloggen">
 
 
 
@@ -26,9 +26,9 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 
 1.  Klik rechts bovenaan op "**_Organisatie_**".
 
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
 
 1.  Een wordt een nieuw venster geopend. In dit venster kunt u de gegevens zien van de organisatie.
 1.  Het aanpassen van de gegevens kan ook in dit venster. Klik zodra u de aanpassingen heeft ingevoerd op de knop "**_Bevestig_**".
 
-    <img src="https://github.com/teamforus/manuals/blob/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
