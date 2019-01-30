@@ -19,7 +19,7 @@
     *  Een vervaldatum van het aanbod aangeven
     *  Een categorie selecteren  
 &nbsp;  
-1.  Klik op "**_Bevestig_**" om het aanbod te plaatsen of de bewerking te bevestigen.&nbsp;
+1.  Klik op "**_Bevestig_**" om het aanbod te plaatsen of de bewerking te bevestigen.<br>&nbsp;
 
 ## Hoe kan ik mijn aanbieding bewerken?
 
@@ -33,7 +33,7 @@ Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer
 
 - **_Gereserveerd_**
     Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
-&nbsp;
+<br>&nbsp;
 
 ### Aanbieding bewerken of verwijderen
 
