@@ -46,7 +46,7 @@ Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer
 
 1.  Klik op '**_Bewerk_**' om uw aanbieding aan te passen. U kunt de prijs wijzigen en het aantal aanbiedingen aanvullen.
 
-    **_<span style="color:red">LET OP!</span>_** <span style="color:red;font-style:italic">Als u de prijs wijzigt terwijl er aanbiedingen gereserveerd stonden, dient u deze te leveren tegen de prijs die u voor de prijswijziging had ingesteld.</span>
+    <span style="color:red;font-style:italic;font-weight:bold">LET OP!</span> <span style="color:red;font-style:italic">Als u de prijs wijzigt terwijl er aanbiedingen gereserveerd stonden, dient u deze te leveren tegen de prijs die u voor de prijswijziging had ingesteld.</span>
 
 1.  Klik op "**_Verwijderen_**" naast de knop "**_Bewerken_**".
 &nbsp;
