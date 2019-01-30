@@ -4,11 +4,11 @@
 
 1.  Klik links bovenaan op "**_Aanbiedingen_**".
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen" style=“max-width:500px”>
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen" style="max-width:400px">
 
 1.  Er wordt een nieuw venster geopend met het overzicht van al uw aanbiedingen. Klik op "**_Voeg een aanbieding toe_**".
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen" style=“max-width:500px”>
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen" style="max-width:500px">
 
 1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
     *  Een afbeelding van het aanbod plaatsen (optioneel).
@@ -17,13 +17,13 @@
     *  Een aanbiedingsprijs en de oude prijs aangeven.
     *  Het aantal aanbiedingen vermelden.
     *  Een vervaldatum van het aanbod aangeven
-    *  Een categorie selecteren    
+    *  Een categorie selecteren  
+&nbsp;  
 
 1.  Klik op "**_Bevestig_**" om het aanbod te plaatsen of de bewerking te bevestigen.
 &nbsp;
-&nbsp;
 
-## Hoe kan ik mijn aanbiedingen bijhouden ?
+## Hoe kan ik mijn aanbiedingen bewerken?
 
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details. Hier ziet u:
 
@@ -35,13 +35,13 @@ Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer
 
 - **_Gereserveerd_**
     Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
-
 &nbsp;
+
 ### Aanbieding bewerken of verwijderen
 
 1.  Klik op "**_Aanbiedingen_**". Er wordt een nieuw venster geopend met het overzicht van uw aanbiedingen.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-bewerken.png" alt="aanbieding bewerken of verwijderen" style=“max-width:500px”>
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-bewerken.png" alt="aanbieding bewerken of verwijderen" style="max-width:500px">
 
 1.  Klik op '**Bewerk**' om uw aanbieding aan te passen. U kunt de prijs wijzigen en het aantal aanbiedingen aanvullen.
 
