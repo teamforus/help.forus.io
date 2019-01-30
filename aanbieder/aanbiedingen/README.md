@@ -19,11 +19,9 @@
     *  Een vervaldatum van het aanbod aangeven
     *  Een categorie selecteren  
 &nbsp;  
+1.  Klik op "**_Bevestig_**" om het aanbod te plaatsen of de bewerking te bevestigen.&nbsp;
 
-1.  Klik op "**_Bevestig_**" om het aanbod te plaatsen of de bewerking te bevestigen.
-&nbsp;
-
-## Hoe kan ik mijn aanbiedingen bewerken?
+## Hoe kan ik mijn aanbieding bewerken?
 
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details. Hier ziet u:
 
