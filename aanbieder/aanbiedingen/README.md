@@ -1,7 +1,6 @@
 # Aanbiedingen
-&nbsp;
 
-### Hoe kan ik een aanbieding plaatsen of bewerken?
+## Hoe kan ik een aanbieding plaatsen of bewerken?
 
 1.  Klik links bovenaan op "**_Aanbiedingen_**".
 
@@ -24,19 +23,19 @@
 &nbsp;
 &nbsp;
 
-### Hoe kan ik mijn aanbiedingen bijhouden ?
-&nbsp;
+## Hoe kan ik mijn aanbiedingen bijhouden ?
 
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details.
 Hier ziet u:
 
-- **_De vervaldatum van het aanbod._**
-U kunt instellen wanneer uw aanbod verloopt. Deze datum kan alleen niet op een later moment dan de einddatum van het fonds eindigen.
-- **_Nog te koop / Totaal_**
-Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.
+    - **_De vervaldatum van het aanbod._**
+    U kunt instellen wanneer uw aanbod verloopt. Deze datum kan alleen niet op een later moment dan de einddatum van het fonds eindigen.
+    - **_Nog te koop / Totaal_**
+    Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.
 
-- **_Gereserveerd_**
-Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
+    - **_Gereserveerd_**
+    Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
+    
 &nbsp;
 1.  Klik op "**_Aanbiedingen_**". Er wordt een nieuw venster geopend met het overzicht van uw aanbiedingen.
 
