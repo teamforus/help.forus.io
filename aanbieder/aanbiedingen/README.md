@@ -4,13 +4,15 @@
 
 1.  Klik links bovenaan op "**_Aanbiedingen_**".
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen" style="max-width:300px">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen" style="max-width:200px">
 
-1.  Er wordt een nieuw venster geopend met het overzicht van al uw aanbiedingen. Klik op "**_Voeg een aanbieding toe_**".
+1.  Er wordt een nieuw venster geopend met het overzicht van al uw aanbiedingen.<br> 
+Klik op "**_Voeg een aanbieding toe_**".
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen" style="max-width:500px">
 
-1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
+1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken.<br>
+Bij het plaatsen of bewerken van een aanbod kunt u:
     *  Een afbeelding van het aanbod plaatsen (optioneel).
     *  Een titel aanmaken.
     *  Een omschrijving vermelden.
@@ -23,6 +25,7 @@
 
 ## Hoe kan ik mijn aanbieding bewerken?
 
+### Aanbieding details
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details. Hier ziet u:
 
 - **De vervaldatum van het aanbod.**<br>
