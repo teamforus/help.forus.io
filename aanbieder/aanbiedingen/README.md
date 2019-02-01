@@ -20,6 +20,7 @@ Bij het plaatsen of bewerken van een aanbod kunt u:
     *  Het aantal aanbiedingen vermelden.
     *  Een vervaldatum van het aanbod aangeven
     *  Een categorie selecteren  
+
 &nbsp;  
 1.  Klik op **_"Bevestig"_** om het aanbod te plaatsen of de bewerking te bevestigen.<br>&nbsp;
 
@@ -28,15 +29,15 @@ Bij het plaatsen of bewerken van een aanbod kunt u:
 ### Aanbieding details
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details. Hier ziet u:
 
-* **De vervaldatum van het aanbod.**<br>
+* **De vervaldatum van het aanbod.**<br />
     U kunt instellen wanneer uw aanbod verloopt. Deze datum kan alleen niet op een later moment dan de einddatum van het fonds eindigen.
 
-* **Nog te koop / Totaal**<br>
+* **Nog te koop / Totaal**<br />
     Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.
 
-* **Gereserveerd**<br>
+* **Gereserveerd**<br />
     Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
-<br>&nbsp;
+<br />&nbsp;
 
 ### Aanbieding bewerken of verwijderen
 
