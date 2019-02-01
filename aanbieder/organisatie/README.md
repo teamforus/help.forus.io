@@ -1,8 +1,9 @@
-# 2. Organisatie
+# Organisatie
 
 Als aanbieder kunt u deelnemen aan de Meedoen-regeling door een organisatie aan te maken en u vervolgens aan te melden voor het fonds.
 
 Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-mailadres dat gebruikt is tijdens het aanmelden wordt gezien als het hoofdaccount en vertegenwoordigt de 'beheerder' rol. De beheerder heeft de mogelijkheid om gebruik te maken van alle functionaliteiten van het dashboard.
+&nbsp;
 
 
 ### Hoe kunt u inloggen?
@@ -17,7 +18,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
     b.  **Log in via QR-code (Me app)**: Open de Me-app, ga naar het tabblad "_**QR**_" en scan de QR-code om in te loggen.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-inloggen.png" alt="inloggen">
-
+<br>&nbsp;
 
 
 ### Hoe kan ik mijn organisatie gegevens bekijken of aanpassen ?
@@ -32,3 +33,4 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 1.  Het aanpassen van de gegevens kan ook in dit venster. Klik zodra u de aanpassingen heeft ingevoerd op de knop "**_Bevestig_**".
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
+    &nbsp;
