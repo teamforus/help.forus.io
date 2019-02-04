@@ -3,7 +3,7 @@
 ## Hoe kan ik de organisatie aanmelden voor een fonds?
 
 
-1.   Klik links bovenaan in het menu op "_**Fondsen**_".
+1.   Klik links bovenaan in het menu op "**_Fondsen_**".
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-fondsen.png" alt="fondsen">
 

@@ -4,7 +4,6 @@
 
 
 1.   Klik links bovenaan in het menu op "_**Fondsen**_".
-
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-fondsen.png" alt="fondsen">
 
 1.  Er wordt een nieuw venster geopend waar u het overzicht ziet van de fondsen (Meedoen-regeling) waar u zich voor kan aanmelden.
