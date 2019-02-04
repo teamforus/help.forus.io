@@ -14,7 +14,7 @@ Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschille
 <br>
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
-    <br>&nbsp;
+    <br />&nbsp;
 
 Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rechten.
 
