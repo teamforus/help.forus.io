@@ -1,4 +1,4 @@
-# Organisatie
+# Aanvragers
 
 Als aanbieder kunt u deelnemen aan de Meedoen-regeling door een organisatie aan te maken en u vervolgens aan te melden voor het fonds.
 

@@ -1,4 +1,4 @@
-# Aanbiedingen
+# Aanbieders
 
 ## Hoe kan ik een aanbieding plaatsen of bewerken?
 
