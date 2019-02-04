@@ -1,6 +1,6 @@
-# 3. Vestigingen
+# Vestigingen
 
-### Hoe kan ik een vestiging toevoegen of bewerken ?
+## Hoe kan ik een vestiging toevoegen of bewerken ?
 
 1.  Klik links bovenaan in het menu op "**_Vestigingen_**".
 
