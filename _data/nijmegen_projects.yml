@@ -4,11 +4,33 @@
   description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
   path: /nijmegen/aanbieder
   pages:
-    Gebruikersomgeving: /gebruikersomgeving
-    Organisatie: /organisatie
-    Vestigingen: /vestigingen
-    Fonds: /fonds
-    Aanbiedingen: /aanbiedingen
-    Betalingen: /betalingen
-    Transactieoverzicht: /transactieoverzicht
-    Medewerkers: /medewerkers    
+    gebruikersomgeving: /gebruikersomgeving
+    organisatie: /organisatie
+    vestigingen: /vestigingen
+    fonds: /fonds
+    aanbiedingen: /aanbiedingen
+    betalingen: /betalingen
+    transactieoverzicht: /transactieoverzicht
+    medewerkers: /medewerkers
+
+-  
+  name: Gemeente
+  icon: support
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
+  path: /nijmegen/gemeente
+  pages:
+    gebruikersomgeving: /gebruikersomgeving
+    fonds: /fonds
+    transactieoverzicht: /transactieoverzicht
+    financien: /financien
+    medewerkers: /medewerkers
+    aanbieders: /aanbieders
+    aanvragers: /aanvragers
+
+-  
+  name: Inwoners
+  icon: support
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
+  path: /nijmegen/inwoner
+  pages:
+    hoe werkt het: /hoe werkt het
