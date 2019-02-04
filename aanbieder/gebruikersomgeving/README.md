@@ -18,14 +18,14 @@ Wanneer u een account heeft kunt u inloggen via de Me app en op de gebruikersomg
 
 De Me app heeft de volgende functionaliteiten:
 
--   Een account aanmaken
--   Inloggen op de gebruikersomgeving
--   Een QR-code scanner voor het ontvangen van betalingen
+* Een account aanmaken
+* Inloggen op de gebruikersomgeving
+* Een QR-code scanner voor het ontvangen van betalingen
 
 Via de gebruikersomgeving kunt u:
 
--   Een vestiging toevoegen
--   Bedrijfsinformatie toevoegen
--   Een financieel overzicht inzien.
--   Aanmelden voor een fonds
--   Aanbiedingen plaatsen
+* Een vestiging toevoegen
+* Bedrijfsinformatie toevoegen
+* Een financieel overzicht inzien.
+* Aanmelden voor een fonds
+* Aanbiedingen plaatsen
