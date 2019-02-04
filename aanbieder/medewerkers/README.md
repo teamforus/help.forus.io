@@ -1,4 +1,4 @@
-# 8. Medewerkers
+# Medewerkers
 
 Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschillende functie.
 
