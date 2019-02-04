@@ -4,13 +4,13 @@
 
 1.  Klik links bovenaan in het menu op "**_Vestigingen_**".
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-vestigingen.png" alt="vestigingen">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-vestigingen.png" alt="vestigingen" style="max-width:300px">
 
 1.  Er wordt een nieuw venster geopend waarin u een overzicht van uw organisatie en de vestigingen kan zien. \
 
 1.  Klik op "**_Voeg een nieuwe vestiging toe_**" of "**_bewerk_**".
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-vestiging-bewerk.png" alt="vestiging toevoegen of bewerken">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-vestiging-bewerk.png" alt="vestiging toevoegen of bewerken" style="max-width:300px">
 
 1.  Er wordt een nieuw venster geopend waar u de vestiging kan toevoegen of bewerken. Hier heeft u de mogelijkheid om:
 
