@@ -16,7 +16,7 @@ Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschille
 
 Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rechten.
 
-<table style="width:80%">
+<table>
   <tr>
    <td>
    </td>
