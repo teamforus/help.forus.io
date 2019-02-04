@@ -12,13 +12,13 @@ Klik op "**_Voeg een aanbieding toe_**".
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen" style="max-width:500px">
 
 1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
-        *  Een afbeelding van het aanbod plaatsen (optioneel).
-        *  Een titel aanmaken.
-        *  Een omschrijving vermelden.
-        *  Een aanbiedingsprijs en de oude prijs aangeven.
-        *  Het aantal aanbiedingen vermelden.
-        *  Een vervaldatum van het aanbod aangeven
-        *  Een categorie selecteren  <br />
+*  Een afbeelding van het aanbod plaatsen (optioneel).
+*  Een titel aanmaken.
+*  Een omschrijving vermelden.
+*  Een aanbiedingsprijs en de oude prijs aangeven.
+*  Het aantal aanbiedingen vermelden.
+*  Een vervaldatum van het aanbod aangeven
+*  Een categorie selecteren  <br />
 
 1.  Klik op **_"Bevestig"_** om het aanbod te plaatsen of de bewerking te bevestigen.<br>&nbsp;
 
@@ -27,13 +27,13 @@ Klik op "**_Voeg een aanbieding toe_**".
 ### Aanbieding details
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details. Hier ziet u:
 
-* **De vervaldatum van het aanbod.**<br />
+* **De vervaldatum van het aanbod.**
     U kunt instellen wanneer uw aanbod verloopt. Deze datum kan alleen niet op een later moment dan de einddatum van het fonds eindigen.
 
-* **Nog te koop / Totaal**<br />
+* **Nog te koop / Totaal**
     Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.
 
-* **Gereserveerd**<br />
+* **Gereserveerd**
     Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
 <br />&nbsp;
 
