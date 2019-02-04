@@ -1,6 +1,6 @@
-# 4. Fonds
+# Fonds
 
-### Hoe kan ik de organisatie aanmelden voor een fonds?
+## Hoe kan ik de organisatie aanmelden voor een fonds?
 
 
 1.   Klik links bovenaan in het menu op "_**Fondsen**_".
