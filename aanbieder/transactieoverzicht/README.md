@@ -1,4 +1,4 @@
-# 7.  Transactieoverzicht
+# Transactieoverzicht
 
 
 ### Hoe kan ik alle transactie bijhouden ?
