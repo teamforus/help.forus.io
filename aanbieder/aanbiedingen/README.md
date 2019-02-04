@@ -21,7 +21,7 @@ Klik op "**_Voeg een aanbieding toe_**".
  - Een vervaldatum van het aanbod aangeven
  - Een categorie selecteren
 
-4.  Klik op **_"Bevestig"_** om het aanbod te plaatsen of de bewerking te bevestigen.
+4.  Klik op "**_Bevestig_**" om het aanbod te plaatsen of de bewerking te bevestigen.
 
 ## Hoe kan ik mijn aanbieding bewerken?
 
@@ -38,7 +38,7 @@ Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-bewerken.png" alt="aanbieding bewerken of verwijderen" style="max-width:500px">
 
-2.  Klik op '**_Bewerk_**' om uw aanbieding aan te passen. U kunt de prijs wijzigen en het aantal aanbiedingen aanvullen.
+2.  Klik op "**_Bewerk_**" om uw aanbieding aan te passen. U kunt de prijs wijzigen en het aantal aanbiedingen aanvullen.
 
     <span style="color:red;font-style:italic;font-weight:bold">LET OP!</span> <span style="color:red;font-style:italic">Als u de prijs wijzigt terwijl er aanbiedingen gereserveerd stonden, dient u deze te leveren tegen de prijs die u voor de prijswijziging had ingesteld.</span>
 
