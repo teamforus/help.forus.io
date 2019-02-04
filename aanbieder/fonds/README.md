@@ -9,7 +9,7 @@
 
 1.  Er wordt een nieuw venster geopend waar u het overzicht ziet van de fondsen (Meedoen-regeling) waar u zich voor kan aanmelden.<br />
 
-    <span style="color:blue;font-style:italic;font-weight:bold">LET OP!</span> <span style="color:blue;font-style:italic">Ziet u hier niks ? Controleer dan of u bij uw organisatie een categorie heeft toegevoegd.</span>
+    <span style="font-style:italic;font-weight:bold">LET OP!</span> <span style="font-style:italic">Ziet u hier niks ? Controleer dan of u bij uw organisatie een categorie heeft toegevoegd.</span>
     <br />&nbsp;
 
 1.  Klik vervolgens op "**_Aanmelden_**".<br />
