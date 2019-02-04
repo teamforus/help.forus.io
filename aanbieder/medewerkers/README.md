@@ -13,15 +13,15 @@ Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschille
 Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rechten.
 
 
-**Beheerder:** Alle functionaliteiten
+* **Beheerder:** Alle functionaliteiten
 
-**Manager:** Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
+* **Manager:** Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
 
-**Financiën:** Transacties en financieel dashboard (statistieken).
+* **Financiën:** Transacties en financieel dashboard (statistieken).
 
-**Kassa:** Het scannen van QR-codes voor het verrichten van betalingen via Me app.
+* **Kassa:** Het scannen van QR-codes voor het verrichten van betalingen via Me app.
 
-**Validator:** Heeft geen rechten voor aanbieders.
+* **Validator:** Heeft geen rechten voor aanbieders.
 
 <table>
   <tr>
