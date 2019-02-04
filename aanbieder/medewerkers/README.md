@@ -2,17 +2,6 @@
 
 Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschillende functie.
 
-*   Beheerder
-*   Kassa
-*   Financiën
-*   Manager
-
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
-
-
-Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rechten.
-
-
 * **Beheerder:** Alle functionaliteiten
 
 * **Manager:** Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
@@ -23,7 +12,11 @@ Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rech
 
 * **Validator:** Heeft geen rechten voor aanbieders.
 
-<table>
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
+
+Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rechten.
+
+<table style="width:80%">
   <tr>
    <td>
    </td>
@@ -111,7 +104,7 @@ Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rech
 </table>
 
 
-
+## Medewerker toevoegen
 
 1.  Klik op "**_Medewerkers toevoegen_**".
 1.  Vul het e-mailadres van de medewerker in.
