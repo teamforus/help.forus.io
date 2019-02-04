@@ -11,8 +11,7 @@ Klik op "**_Voeg een aanbieding toe_**".
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen" style="max-width:500px">
 
-1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken.<br>
-Bij het plaatsen of bewerken van een aanbod kunt u:
+1.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
     *  Een afbeelding van het aanbod plaatsen (optioneel).
     *  Een titel aanmaken.
     *  Een omschrijving vermelden.
@@ -20,8 +19,7 @@ Bij het plaatsen of bewerken van een aanbod kunt u:
     *  Het aantal aanbiedingen vermelden.
     *  Een vervaldatum van het aanbod aangeven
     *  Een categorie selecteren  
-
-&nbsp;  
+ 
 1.  Klik op **_"Bevestig"_** om het aanbod te plaatsen of de bewerking te bevestigen.<br>&nbsp;
 
 ## Hoe kan ik mijn aanbieding bewerken?
