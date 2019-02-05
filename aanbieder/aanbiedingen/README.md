@@ -16,7 +16,8 @@ Klik op **_Voeg een aanbieding toe_**.
     <br />&nbsp;
 
 3.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
-<br />
+<br />&nbsp;
+
     * Een afbeelding van het aanbod plaatsen (optioneel).    
     * Een titel aanmaken.
     * Een omschrijving vermelden.
@@ -34,7 +35,7 @@ Klik op **_Voeg een aanbieding toe_**.
 ### Aanbieding details
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details. Hier ziet u:
 
-- **De vervaldatum van het aanbod.**<br />
+* De vervaldatum van het aanbod.<br />
 U kunt instellen wanneer uw aanbod verloopt. Deze datum kan alleen niet op een later moment dan de einddatum van het fonds eindigen.
 
 - **Nog te koop / Totaal.** <br />
