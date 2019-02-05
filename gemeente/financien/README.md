@@ -1,30 +1,25 @@
-# 6. Betalingen
+# Financiën
 
-De klant krijgt van de eigenaar van het fonds een voucher in de vorm van een QR-code. Dit is te vergelijken met een waardebon. De klant laat u de QR-code zien, deze kan u vervolgens scannen met de **_Me-app_**. Zodra u na het scannen de transactie bevestigd, wordt het geld overgemaakt naar het rekeningnummer die u heeft opgegeven bij het aanmaken van uw organisatie.
+Via het financiële dashboard kunt u de statistieken per week, maand, kwartaal en van alles inzien. Daarnaast is via dit dashboard het huidige saldo, totaal uitgegeven bedrag en statistieken per aanbieder.
+&nbsp;
 
-De klant kan u de QR-code op de volgende manieren laten zien:
+## Hoe werkt het?
+Wanneer een inwoner recht heeft op de Meedoen-regeling ontvangt diegene een voucher met een QR-code. Dit is te vergelijken met een waardebon. De inwoner laat aan de aanbieder de QR-code zien. De aanbieder scant deze QR-code met de **_Me-app_**. Zodra de transactie is bevestigd, wordt het budget bijgeschreven op de rekening van de aanbieder.
+
+De inwoner kan de QR-code op de volgende manieren laten zien:
 
 *   Een uitgeprinte versie op papier
 *   Een digitale versie op de mobiele telefoon
 *   Een digitale versie via de Me-app op de mobiele telefoon
 
+Een betaling werkt als volgt:
 
-### Hoe werkt het?
+De aanbieder opent de **_Me app_**, gaat naar de QR-code scanner en scant de QR-code van de inwoner.
+Er wordt een nieuw venster geopend. Hier kunt u:
 
-1.  De klant laat de QR-code zien.
+    1.  Een bedrag van de betaling invullen.
 
-1.  Open de **_Me-app_** en druk op "_**QR**_" om de scanner te openen.
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner">
-
-1.  Scan vervolgens de QR-code van de klant.
-
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner">
-
-1.  Er wordt een nieuw venster geopend. Hier kunt u:
-
-    a.  Een bedrag van de betaling invullen.
-
-    b.  Een persoonlijke notitie van de betaling vermelden.
+    2.  Een persoonlijke notitie van de betaling vermelden.
 
     _**Let op!**_ _Er wordt onderscheidt gemaakt tussen een QR-code van een aanbieding en de QR-code van het fonds zelf._
 
@@ -59,6 +54,20 @@ De klant kan u de QR-code op de volgende manieren laten zien:
       </tr>
     </table>
 
-1.  Druk vervolgens op "**_Verzoek betaling_**". U krijgt een popup venster te zien om de betaling te bevestigen. \
+Druk vervolgens op **_Verzoek betaling_**. U krijgt een popup venster te zien om de betaling te bevestigen.
+Druk op **_Bevestig_**. De betaling wordt gelijk naar u overgemaakt. Dit duurt maximaal drie werkdagen.
 
-1.  Druk op "**_Bevestig_**". De betaling wordt gelijk naar u overgemaakt. Dit duurt maximaal drie werkdagen.
+
+
+
+## Statistieken inzien
+
+1.  Klik linksboven in het menu op **_Financiën_**.
+
+2.  Het financiële dashboard opent.
+
+3.  Statistieken van het fonds en aanbieders.
+
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner">
+
+1.  
