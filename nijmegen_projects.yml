@@ -25,3 +25,10 @@
     Medewerkers: /medewerkers
     Aanbieders: /aanbieders
     Aanvragers: /aanvragers
+-
+  name: Inwoner
+  icon: support
+  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling
+  path: /nijmegen/inwoner
+  pages:
+    Instructies: /instructies
