@@ -1,8 +1,8 @@
-# Transactieoverzicht
+# Transacties
 
 U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
 
-## Transacties inzien
+## Transactieoverzicht
 
 1.  Klik linksboven op **_Transacties_**.
 
