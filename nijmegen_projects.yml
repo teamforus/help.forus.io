@@ -16,7 +16,7 @@ pages:
 name: Gemeente
 icon: support
 description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
-path: /nijmegen/aanbieder
+path: /nijmegen/gemeente
 pages:
   Gebruikersomgeving: /gebruikersomgeving
   Fonds: /fonds
