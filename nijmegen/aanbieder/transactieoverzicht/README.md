@@ -1,16 +1,20 @@
 # Transactieoverzicht
 
+U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
 
-### Hoe kan ik alle transactie bijhouden ?
+## Hoe kan ik alle transactie bijhouden ?
 
-1.  Klik linksboven op "**_Transacties_**".
+1.  Klik linksboven op **_Transacties_**.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transacties.png" alt="Transacties">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transacties.png" alt="Transacties" max-width="300px">
+    <br />&nbsp;
 
-1.  Er wordt een venster geopend met daarin een overzicht van alle transacties.
+2.  Er wordt een venster geopend met daarin een overzicht van alle transacties.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht.png" alt="Transactieoverzicht">
+    <br />&nbsp;
 
-1.  Klik op "**_Exporteren_**" om het overzicht op te slaan als .CSV bestand.
+3.  Klik op **_Exporteren_** om het overzicht op te slaan als .CSV bestand.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht-export.png" alt="Transacties overzicht export">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht-export.png" alt="Transacties overzicht export" max-width="200px">
+    <br />&nbsp;
