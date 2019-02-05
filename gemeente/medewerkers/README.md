@@ -2,15 +2,13 @@
 
 Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschillende functie.
 
-* **Beheerder:** Alle functionaliteiten
+## Rollen en rechten
 
-* **Manager:** Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
-
-* **Financiën:** Transacties en financieel dashboard (statistieken).
-
-* **Kassa:** Het scannen van QR-codes voor het verrichten van betalingen via Me app.
-
-* **Validator:** Heeft geen rechten voor aanbieders.
+* Beheerder: Alle functionaliteiten
+* Manager: Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
+* Financiën: Transacties en financieel dashboard (statistieken).
+* Kassa: Het scannen van QR-codes voor het verrichten van betalingen via Me app.
+* Validator: Heeft geen rechten voor aanbieders.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
 
@@ -107,9 +105,12 @@ Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rech
 
 ## Medewerker toevoegen
 
-1.  Klik op "**_Medewerkers toevoegen_**".
-1.  Vul het e-mailadres van de medewerker in.
+1.  Klik op **_Medewerkers toevoegen_**.
+<br />&nbsp;
+2.  Vul het e-mailadres van de medewerker in.
 
     **_LET OP!_** _Het e-mailadres kan alleen worden toegevoegd als er een profiel op de Me-app is aangemaakt._
+    <br />&nbsp;
 
-1.  Kies een rol voor de desbetreffende medewerker en klik op "**_Bevestig_**".
+3.  Kies een rol voor de desbetreffende medewerker en klik op **_Bevestig_**.
+<br />&nbsp;
