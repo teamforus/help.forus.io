@@ -47,12 +47,12 @@ De klant kan u de QR-code op de volgende manieren laten zien:
       <tr>
        <td>
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-betaling-fonds.png" alt="Me app betaling fonds" max-width="300px">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-betaling-fonds.png" alt="Me app betaling fonds" style="max-width:300px">
 
        </td>
        <td>
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-betaling-aanbieding.png" alt="Me app betaling aanbieding" max-width="300px">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-betaling-aanbieding.png" alt="Me app betaling aanbieding" style="max-width:300px">
 
        </td>
       </tr>
