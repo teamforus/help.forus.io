@@ -5,7 +5,10 @@ Daarnaast is via dit dashboard het huidige saldo, totaal uitgegeven bedrag en st
 &nbsp;
 
 ## Hoe werkt het?
-Wanneer een inwoner recht heeft op de Meedoen-regeling ontvangt diegene een voucher met een QR-code. Dit is te vergelijken met een waardebon. De inwoner laat aan de aanbieder de QR-code zien. De aanbieder scant deze QR-code met de **_Me-app_**. Zodra de transactie is bevestigd, wordt het budget bijgeschreven op de rekening van de aanbieder.
+Wanneer een inwoner recht heeft op de Meedoen-regeling ontvangt diegene een voucher met een QR-code.
+Dit is te vergelijken met een waardebon. De inwoner laat aan de aanbieder de QR-code zien.
+De aanbieder scant deze QR-code met de **_Me-app_**.
+Zodra de transactie is bevestigd, wordt het budget bijgeschreven op de rekening van de aanbieder.
 
 De inwoner kan de QR-code op de volgende manieren laten zien:
 
