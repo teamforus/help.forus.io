@@ -106,6 +106,7 @@ body {
       ul {
         li {
           list-style-type: disc;
+          list-style-position: inside;
           vertical-align: text-top;
       }
     }
@@ -160,7 +161,6 @@ blockquote {
   max-width: $content-width;
   margin: 0 auto;
   flex: 1 1 100%;
-  overflow: hidden;
 
   &.main {
     display: flex;
