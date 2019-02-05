@@ -5,7 +5,7 @@
 
 1.  Klik linksboven op **_Transacties_**.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transacties.png" alt="Transacties">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transacties.png" alt="Transacties" style="max-width:300px">
     <br />&nbsp;
 
 2.  Er wordt een venster geopend met daarin een overzicht van alle transacties.
