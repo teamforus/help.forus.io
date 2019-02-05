@@ -1,10 +1,20 @@
 - nijmegen:
-  - Aanbieder:
-    - Gebruikersomgeving
-    - Organisatie
-    - Vestigingen
-    - Fonds
-    - Aanbiedingen
-    - Betalingen
-    - Transactieoverzicht
-    - Medewerkers
+ - Aanbieder:
+  - Gebruikersomgeving
+  - Organisatie
+  - Vestigingen
+  - Fonds
+  - Aanbiedingen
+  - Betalingen
+  - Transactieoverzicht
+  - Medewerkers
+ - Gemeente:
+  - Gebruikersomgeving
+  - Fondsen
+  - Transactieoverzicht
+  - Financien
+  - Medewerkers
+  - Aanbieders
+  - Aanvragers
+ - Inwoners:
+  - Hoe werkt het
