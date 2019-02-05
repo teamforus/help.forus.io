@@ -11,14 +11,14 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 1.  Ga naar [https://nijmegen.forus.io/provider/#!/](https://nijmegen.forus.io/provider/#!/) of naar [https://nijmegen.forus.io/](https://nijmegen.forus.io/), scroll helemaal naar beneden en klik op de zin: _"Bent u een aanbieder en wilt u meer informatie?"._ U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
 &nbsp;
 
-2.  Klik op "**_Aanmelden_**".
+2.  Klik op **_Aanmelden_**.
 &nbsp;
 
 3.  Maak een keuze om in te loggen via het e-mailadres of door gebruik te maken van de QR-code scanner van de **_Me-app_**.
 
     a.   **Log in via e-mail**: Er wordt een link naar het e-mailadres toegestuurd, klik op de link in deze e-mail om in te loggen.
 
-    b.  **Log in via QR-code (Me app)**: Open de Me-app, ga naar het tabblad "_**QR**_" en scan de QR-code om in te loggen.
+    b.  **Log in via QR-code (Me app)**: Open de Me-app, ga naar het tabblad **_QR_** en scan de QR-code om in te loggen.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-inloggen.png" alt="inloggen">
 <br />&nbsp;
@@ -26,7 +26,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 
 ## Hoe kan ik mijn organisatie gegevens bekijken of aanpassen?
 
-1.  Klik rechts bovenaan op "**_Organisatie_**".
+1.  Klik rechts bovenaan op **_Organisatie_**.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie" style="max-width:200px">
     <br />&nbsp;
@@ -34,7 +34,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 2.  Een wordt een nieuw venster geopend. In dit venster kunt u de gegevens zien van de organisatie.
 &nbsp;
 
-3.  Het aanpassen van de gegevens kan ook in dit venster. Klik zodra u de aanpassingen heeft ingevoerd op de knop "**_Bevestig_**".
+3.  Het aanpassen van de gegevens kan ook in dit venster. Klik zodra u de aanpassingen heeft ingevoerd op de knop **_Bevestig_**.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
     <br />&nbsp;
