@@ -2,15 +2,15 @@
 
 Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschillende functie.
 
-* **Beheerder:** Alle functionaliteiten
+- **Beheerder:** Alle functionaliteiten
 
-* **Manager:** Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
+- **Manager:** Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
 
-* **Financiën:** Transacties en financieel dashboard (statistieken).
+- **Financiën:** Transacties en financieel dashboard (statistieken).
 
-* **Kassa:** Het scannen van QR-codes voor het verrichten van betalingen via Me app.
+- **Kassa:** Het scannen van QR-codes voor het verrichten van betalingen via Me app.
 
-* **Validator:** Heeft geen rechten voor aanbieders.
+- **Validator:** Heeft geen rechten voor aanbieders.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
 
