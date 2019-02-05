@@ -1,6 +1,6 @@
 # Fonds
 
-Uw organisatie aanmelden voor een fonds.
+U kunt uw organisatie aanmelden voor een fonds zoals de Meedoen-regeling.
 
 ## Hoe kan ik de organisatie aanmelden voor een fonds?
 
