@@ -6,7 +6,7 @@ U heeft zich aangemeld voor de Meedoen-regeling van de gemeente Nijmegen. Met de
 &nbsp;
 
 
-### Waarvoor heb ik het nodig ?
+### Waarvoor heb ik het nodig?
 
 Om deel te nemen aan de Meedoen-regeling heeft u de Me App nodig (beschikbaar voor iOS & Android) en een website die u kan bezoeken via uw webbrowser. Wanneer u bent aangemeld als organisatie kunt u betalingen van mensen die gebruik maken van de Meedoen-regeling ontvangen. Via de Me app kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling.
 &nbsp;
@@ -21,7 +21,7 @@ De Me app heeft de volgende functionaliteiten:
 * Een account aanmaken
 * Inloggen op de gebruikersomgeving
 * Een QR-code scanner voor het ontvangen van betalingen
-
+&nbsp;
 Via de gebruikersomgeving kunt u:
 
 * Een vestiging toevoegen
@@ -29,3 +29,4 @@ Via de gebruikersomgeving kunt u:
 * Een financieel overzicht inzien.
 * Aanmelden voor een fonds
 * Aanbiedingen plaatsen
+&nbsp;
