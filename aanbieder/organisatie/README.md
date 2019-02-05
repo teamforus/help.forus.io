@@ -32,7 +32,7 @@ U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
 
 1.  Klik rechts bovenaan op **_Organisatie_**.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie" style="max-width:200px">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie" style="max-width:300px">
     <br />&nbsp;&nbsp;
 
 2.  Een wordt een nieuw venster geopend. In dit venster kunt u de gegevens zien van de organisatie.
