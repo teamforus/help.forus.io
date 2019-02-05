@@ -102,7 +102,6 @@ Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rech
 </table>
 &nbsp;
 
-
 ## Medewerker toevoegen
 
 1.  Klik op **_Medewerkers toevoegen_**.
