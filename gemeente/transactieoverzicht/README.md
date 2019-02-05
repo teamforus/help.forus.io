@@ -1,7 +1,8 @@
 # Transactieoverzicht
 
+U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
 
-## Transacties inzien?
+## Transacties inzien
 
 1.  Klik linksboven op **_Transacties_**.
 
@@ -15,5 +16,5 @@
 
 3.  Klik op **_Exporteren_** om het overzicht op te slaan als .CSV bestand.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht-export.png" alt="Transacties overzicht export">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht-export.png" alt="Transacties overzicht export" style="max-width:300px">
     <br />&nbsp;
