@@ -106,12 +106,12 @@ Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rech
 ## Medewerker toevoegen
 
 1.  Klik op **_Medewerkers toevoegen_**.
-&nbsp;
+<br />&nbsp;
 
 2.  Vul het e-mailadres van de medewerker in.
 
     **_LET OP!_** _Het e-mailadres kan alleen worden toegevoegd als er een profiel op de Me-app is aangemaakt._
-    &nbsp;
+    <br />&nbsp;
 
 1.  Kies een rol voor de desbetreffende medewerker en klik op **_Bevestig_**.
 <br />&nbsp;
