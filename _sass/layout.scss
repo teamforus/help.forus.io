@@ -106,11 +106,14 @@ body {
       ul {
         li {
           list-style-type: disc;
-          list-style-position: inside;
           vertical-align: text-top;
       }
     }
   }
+}
+
+ol, ul {
+  list-style-position: inside;
 }
 
 hr {
@@ -383,7 +386,7 @@ main.home {
 }
 
 .article-toc-wrapper{
-  width: 30%;
+  width: 33%;
   height: fit-content;
   padding-left: 0.5em;
   border-left: 1px solid #ddd;
