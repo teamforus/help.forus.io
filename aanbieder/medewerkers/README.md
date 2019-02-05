@@ -8,6 +8,7 @@ Als beheerder van de organisatie kunt u medewerkers toevoegen. U kunt instlelen 
 - Financiën: Transacties en financieel dashboard (statistieken).
 - Kassa: Het scannen van QR-codes voor het verrichten van betalingen via Me app.
 - Validator: Heeft geen rechten voor aanbieders.
+<br />&nbsp;
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-medewerker-toevoegen.png" alt="Medewerker toevoegen">
     <br />&nbsp;
