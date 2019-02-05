@@ -21,7 +21,7 @@ De Me app heeft de volgende functionaliteiten:
 * Een account aanmaken
 * Inloggen op de gebruikersomgeving
 * Een QR-code scanner voor het ontvangen van betalingen
-&nbsp;
+<br />&nbsp;
 
 Via de gebruikersomgeving kunt u:
 
