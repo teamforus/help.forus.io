@@ -34,7 +34,7 @@ De Me app heeft de volgende functionaliteiten:
 &nbsp;
 -   Een account aanmaken
 -   Inloggen op de gebruikersomgeving
-&nbsp;
+<br />&nbsp;
 
 Via de gebruikersomgeving/dashboard kunt u:
 &nbsp;
@@ -44,4 +44,4 @@ Via de gebruikersomgeving/dashboard kunt u:
 - Aanbieders goedkeuren
 - Inwoners toevoegen
 - Managementinformatie inzien
-&nbsp;
+<br />&nbsp;
