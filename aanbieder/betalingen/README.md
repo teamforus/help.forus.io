@@ -16,12 +16,12 @@ De klant kan u de QR-code op de volgende manieren laten zien:
 &nbsp;
 
 2.  Open de **_Me-app_** en druk op **_QR_** om de scanner te openen.
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner" style="max-width:300px">
     <br />&nbsp;
 
 3.  Scan vervolgens de QR-code van de klant.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-scan.jpg" alt="Me app QR-code scanner" style="max-width:300px">
     <br />&nbsp;
 
 4.  Er wordt een nieuw venster geopend. Hier kunt u:
