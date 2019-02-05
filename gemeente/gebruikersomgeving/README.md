@@ -4,6 +4,7 @@ Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus 
 
 ## Wat is het?
 De Meedoen-regeling maakt gebruik van een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie.
+&nbsp;
 
 **Inwoners** <br />
 Inwoners die recht hebben op de Meedoen-regeling kunnen de activatiecode op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** activeren. Ze klikken op start en kunnen vervolgens alle stappen doorlopen. Zodra de activatie gelukt is kunnen zij zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen.
@@ -21,9 +22,8 @@ De gemeente maakt de regeling, bepaalt welke organisaties mogen deelnemen, keurt
 
 ## Hoe werkt het?
 
-Om deel te nemen aan de Meedoen-regeling heeft u de Me App nodig (beschikbaar voor iOS & Android) en een website die u kan bezoeken via uw webbrowser. Wanneer u bent aangemeld als organisatie kunt u betalingen van mensen die gebruik maken van de Meedoen-regeling ontvangen. Via de Me app kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling.
+Om de Meedoen-regeling te kunnen beheren moet u als medewerker worden toegevoegd door de beheerder van de regeling. U krijgt hierbij een rol toegewezen: beheerder, manager, financiën of validator.
 &nbsp;
-
 
 ### Functionaliteiten systeem
 
