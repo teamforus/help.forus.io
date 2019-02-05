@@ -66,7 +66,6 @@ De klant kan u de QR-code op de volgende manieren laten zien:
     <br />&nbsp;
 
 5.  Druk vervolgens op **_Verzoek betaling_**. U krijgt een popup venster te zien om de betaling te bevestigen.
-&nbsp;
-
+<br />
 6.  Druk op **_Bevestig_**. De betaling wordt gelijk naar u overgemaakt. Dit duurt maximaal drie werkdagen.
 <br />&nbsp;
