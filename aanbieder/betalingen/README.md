@@ -35,7 +35,7 @@ De klant kan u de QR-code op de volgende manieren laten zien:
     _Bij een QR-code voor een aanbieding wordt er **niet** om een bedrag gevraagd. Het bedrag dat u heeft opgegegeven bij het plaatsen van het aanbod wordt aan u overgemaakt._
     <br />&nbsp;
 
-    _Bekijk de afbeeldingen hieronder voor het verschil:_
+    Bekijk de afbeeldingen hieronder voor het verschil:
 
     <table>
       <tr>
@@ -66,6 +66,6 @@ De klant kan u de QR-code op de volgende manieren laten zien:
     <br />&nbsp;
 
 5.  Druk vervolgens op **_Verzoek betaling_**. U krijgt een popup venster te zien om de betaling te bevestigen.
-<br />
+<br />&nbsp;
 6.  Druk op **_Bevestig_**. De betaling wordt gelijk naar u overgemaakt. Dit duurt maximaal drie werkdagen.
 <br />&nbsp;
