@@ -4,8 +4,9 @@ Via **_Fondsen_** kunt u de Meedoen-regeling instellen.
 
 ## Overzicht fonds
 
-1.   Klik links bovenaan in het menu op "**_Fondsen_**".
+1.   Klik links in het menu op **_Fondsen_**.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-fondsen.png" alt="fondsen" style="max-width:300px">
+    <br />&nbsp;
 
 2.  Er wordt een nieuw venster geopend waar u het overzicht ziet van de fondsen (Meedoen-regeling). U heeft inzicht in:
 <br />
