@@ -1,9 +1,10 @@
 # Algemeen
 
 Algemene informatie over de Meedoen-regeling en het systeem.
+&nbsp;
 
 ## Wat is het?
-De Meedoen-regeling maakt gebruik van een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie.
+Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus platform. Dit is een systeem dat bestaat uit een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie. Via het systeem kunnen gemeentelijke regelingen worden uitgegeven.
 &nbsp;
 
 **Inwoners** <br />
