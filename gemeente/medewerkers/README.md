@@ -3,7 +3,6 @@
 Als beheerder van de organisatie kunt u medewerkers toevoegen met een verschillende functie.
 
 ## Rollen en rechten
-
 * Beheerder: Alle functionaliteiten
 * Manager: Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.
 * Financiën: Transacties en financieel dashboard (statistieken).
