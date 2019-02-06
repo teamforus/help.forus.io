@@ -6,7 +6,13 @@ Algemene informatie over de Meedoen-regeling en het systeem.
 ## Wat is het?
 Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus platform. Dit is een systeem dat bestaat uit een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie. Via het systeem kunnen gemeentelijke regelingen worden uitgegeven.
 &nbsp;
+Webshop: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**
+Aanmeldformulier aanbieder:**[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)**
+Dashboard aanbieder:**[https://nijmegen.forus.io/provider/](https://nijmegen.forus.io/provider/)**
+Dashboard gemeente:**[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**
+Me app: **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
 
+## Hoe werkt het?
 **Inwoners** <br />
 Inwoners die recht hebben op de Meedoen-regeling kunnen de activatiecode op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** activeren. Ze klikken op start en kunnen vervolgens alle stappen doorlopen. Zodra de activatie gelukt is kunnen zij zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen.
 &nbsp;
