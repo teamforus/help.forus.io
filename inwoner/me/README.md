@@ -12,7 +12,7 @@ De app is kunt u downloaden via de **[App Store](https://itunes.apple.com/nl/app
 
 ## Waarvoor heb ik het nodig?
 
-Wanneer u recht heeft op de Meedoen-regeling ontvangt u van de gemeente een acticatiecode. Deze code kunt u met uw e-mailadres activeren op de website van de Meedoen-regeling. Vervolgens kunt u uw profiel beheren via de app **Me** en kan u de app gebruiken om in te loggen op de website. Via de app kunt u uw profiel beheren, uw vouchers beheren en veilig betalen.
+Wanneer u recht heeft op de Meedoen-regeling ontvangt u van de gemeente een acticatiecode. Deze code kan op de website van de Meedoen-regeling activeren. Vervolgens kunt u uw profiel beheren via de app **Me** en kan u de app gebruiken om in te loggen op de website. Via de app kunt u uw profiel beheren, uw vouchers beheren en veilig betalen.
 &nbsp;
 
 De app **Me** heeft de volgende functionaliteiten:
