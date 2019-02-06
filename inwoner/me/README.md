@@ -25,8 +25,9 @@ De app **Me** heeft de volgende functionaliteiten:
 
 ## Hoe werkt het?
 
-1. Indien u de activatiecode die u in de brief van de gemeente heeft ontvangen al heeft geactiveerd kunt u
-Heeft u de activatiecode nog niet geactiveerd ga dan naar: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** en klik op **_Start_**.
+1. Indien u de Meedoen-regeling al heeft geactiveerd kan u gebruik maken van de app **Me**.
+<br />
+**_Let op:_** _Heeft u de activatiecode nog niet geactiveerd ga dan naar: [https://nijmegen.forus.io/](https://nijmegen.forus.io/) en klik op_ **_Start_**.
 <br />&nbsp;
 
 2. Ga naar **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
