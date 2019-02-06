@@ -10,6 +10,7 @@ Inwoners die recht hebben op de Meedoen-regeling kunt u met een klantnummer aan 
 &nbsp;
 <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-csvupload.png"
 alt="CSV upload">
+<br />&nbsp;
 
 ## Aanvragers toevoegen
 
