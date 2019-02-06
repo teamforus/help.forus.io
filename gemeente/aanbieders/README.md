@@ -16,7 +16,7 @@ Aanbieders die zich aanmelden voor de Meedoen-regeling moeten door de gemeente w
 
 1.  Klik links in het menu op **_Aanbieders_**.
 <br />&nbsp;
-2. U ziet een overzicht van alle Aanbieders.
+2. U ziet een overzicht van alle aanbieders.
 <br />&nbsp;
 3. Rechts bovenaan de lijst met aanbieders kan u via het zoekvenster op aanbieders zoeken.
 <br />&nbsp;
