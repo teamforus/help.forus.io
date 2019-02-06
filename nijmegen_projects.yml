@@ -4,6 +4,8 @@
   description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
   path: /nijmegen/aanbieder
   pages:
+    Algemeen: /algemeen
+    Me app: /me
     Gebruikersomgeving: /gebruikersomgeving
     Organisatie: /organisatie
     Vestigingen: /vestigingen
@@ -18,6 +20,8 @@
   description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
   path: /nijmegen/gemeente
   pages:
+    Algemeen: /algemeen
+    Me app: /me
     Gebruikersomgeving: /gebruikersomgeving
     Fonds: /fonds
     Transactieoverzicht: /transactieoverzicht

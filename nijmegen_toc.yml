@@ -1,5 +1,7 @@
 - nijmegen:
   - Aanbieder:
+    - Algemeen
+    - Me
     - Gebruikersomgeving
     - Organisatie
     - Vestigingen
@@ -9,8 +11,10 @@
     - Transactieoverzicht
     - Medewerkers
   - Gemeente:
+    - Algemeen
+    - Me
     - Gebruikersomgeving
-    - Fondsen
+    - Fonds
     - Transactieoverzicht
     - Financien
     - Medewerkers
