@@ -1,17 +1,18 @@
-# Gebruikersomgeving & de Me app
+# Me app
 
-De gebruikersomgeving en de mobiele applicatie van de Meedoen-regeling Nijmegen.
+Uw profiel voor de Meedoen-regeling van de gemeente Nijmegen kunt u veilig beheren in de mobiele applicatie **_Me_**.
 &nbsp;
 
 ## Wat is het?
 
-U heeft zich aangemeld voor de Meedoen-regeling van de gemeente Nijmegen. Met de Meedoen-regeling kunnen mensen met een laag inkomen een cursus of activiteit doen. De uitgifte van deze regeling wordt gedaan via het systeem waarop u bent ingelogd. Dit systeem bestaat uit een website (met webshop), diverse gebruikersomgevingen en een app.
+De mobiele applicatie **_Me_** is een app die u kunt downloaden op uw telefoon.
+De app is te downloaden uit de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
 
 ## Waarvoor heb ik het nodig?
 
-Om deel te nemen aan de Meedoen-regeling heeft u de Me App nodig (beschikbaar voor iOS & Android) en een website die u kan bezoeken via uw webbrowser. Wanneer u bent aangemeld als organisatie kunt u betalingen van mensen die gebruik maken van de Meedoen-regeling ontvangen. Via de Me app kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling.
+Via de app kunt u uw profiel beheren, uw vouchers beheren en veilig betalen.
 &nbsp;
 
 ## Wat kan ik ermee?
@@ -21,15 +22,7 @@ Wanneer u een account heeft kunt u inloggen via de Me app en op de gebruikersomg
 De Me app heeft de volgende functionaliteiten:
 
 * Een account aanmaken
-* Inloggen op de gebruikersomgeving
-* Een QR-code scanner voor het ontvangen van betalingen
+* Inloggen op de webshop via de Me app
+* Vouchers beheren
+* Betalen met uw vouchers
 <br />&nbsp;
-
-Via de gebruikersomgeving kunt u:
-
-* Een vestiging toevoegen
-* Bedrijfsinformatie toevoegen
-* Een financieel overzicht inzien.
-* Aanmelden voor een fonds
-* Aanbiedingen plaatsen
-&nbsp;
