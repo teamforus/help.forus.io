@@ -14,7 +14,13 @@ U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht.png" alt="Transactieoverzicht">
     <br />&nbsp;
 
-3.  Klik op **_Exporteren_** om het overzicht op te slaan als .CSV bestand.
+3.  Rechtsboven in kunnen de resultaten worden gefilterd op bedrag, status en datum.
+
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht.png" alt="Transactieoverzicht">
+    <br />&nbsp;
+
+
+4. Klik op **_Exporteren_** om het overzicht op te slaan als .CSV bestand.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht-export.png" alt="Transacties overzicht export" style="max-width:200px">
     <br />&nbsp;
