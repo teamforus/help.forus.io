@@ -22,3 +22,17 @@ De Me app heeft de volgende functionaliteiten:
 * Vouchers beheren
 * Betalen met uw vouchers
 <br />&nbsp;
+
+## Hoe werkt het?
+
+1. Indien u de activatiecode die u in de brief van de gemeente heeft ontvangen al heeft geactiveerd kunt u
+Heeft u de activatiecode nog niet geactiveerd ga dan naar: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** en klik op **_Start_**.
+
+2. Ga naar **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
+<br />&nbsp;
+
+3. Klik op de knop **_Download Me_**<br />
+<br />&nbsp;
+
+3. Koppel uw profiel aan **Me** door op de website rechts bovenaan in het menu op **_Autoriseer apparaat_** te klikken.
+<br />&nbsp;
