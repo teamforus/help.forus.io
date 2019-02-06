@@ -26,10 +26,10 @@ Om de Meedoen-regeling te kunnen beheren moet u als medewerker worden toegevoegd
 &nbsp;
 
 1. Ga naar **[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**
-&nbsp;
+<br />&nbsp;
 
 2. Klik rechts bovenaan de pagina op **_Inloggen_** en log in met uw e-mailadres of via de Me app.
-&nbsp;
+<br />&nbsp;
 
 3. U bent nu ingelogd op het dashboard en ziet afhankelijk van uw rol een aantal menu items links bovenaan de pagina.
-&nbsp;
+<br />&nbsp;
