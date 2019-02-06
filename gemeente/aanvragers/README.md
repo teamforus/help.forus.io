@@ -19,7 +19,7 @@ Inwoners die recht hebben op de Meedoen-regeling kunt u met een klantnummer aan 
 3. De nieuwe klantnummers en activatiecodes zijn toegevoegd aan de lijst. En kunnen naar de inwoners worden verstuurd.
 <br />&nbsp;
 
-## Overzicht aanvragers**
+## Overzicht aanvragers
 
 1. Op de pagina **_Aanvragers_** ziet u een overzicht van alle aanvragers die zijn toegevoegd. Het klantnummer en de daaraan gekoppelde activatiecode zijn inzichtelijk.
 
