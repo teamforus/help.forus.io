@@ -4,7 +4,7 @@ Aanbieders die zich aanmelden voor de Meedoen-regeling moeten door de gemeente w
 
 ## Accepteren en weigeren
 
-1.  Klik links bovenaan op "**_Aanbieders_**".
+1.  Klik links in het menu op **_Aanbieders_**.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen"  style="max-width:300px">
 
