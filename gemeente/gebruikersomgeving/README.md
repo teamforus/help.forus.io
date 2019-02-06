@@ -1,4 +1,4 @@
-# Gebruikersomgeving & de Me app
+# Gebruikersomgeving
 
 De meedoen-regeling kunt u beheren via de gebruikersomgeving (dashboard) voor de gemeente:
 **[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**.
@@ -8,7 +8,7 @@ De meedoen-regeling kunt u beheren via de gebruikersomgeving (dashboard) voor de
 Wanneer u een account heeft kunt u inloggen op de gebruikersomgeving.
 &nbsp;
 
-Via de gebruikersomgeving (dashboard) kunt u (afhankelijk van uw rol):
+Via de gebruikersomgeving (dashboard) kunt u, afhankelijk van uw rol die u toegewezen heeft gekregen:
 &nbsp;
 - Een regeling opzetten
 - Budget toevoegen en inzien
