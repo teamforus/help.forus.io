@@ -1,6 +1,6 @@
 # Transacties
 
-U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
+Alle transacties die hebben plaatsgevonden zijn inzichtelijk.
 
 ## Transactieoverzicht
 
