@@ -15,8 +15,7 @@ Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus 
 <br />&nbsp;
 - Dashboard voor de gemeente: **[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**
 <br />&nbsp;
-
-Informatie over de Me app: **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
+- Informatie over de Me app: **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
 <br />&nbsp;
 
 ## Hoe werkt het?
