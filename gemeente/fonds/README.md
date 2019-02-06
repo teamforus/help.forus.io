@@ -1,6 +1,6 @@
 # Fondsen
 
-Op de **_Fondsen_** pagina kunt u de Meedoen-regeling instellen.
+Op de Fondsen pagina kunt u de Meedoen-regeling instellen.
 
 ## Overzicht fonds
 
@@ -9,7 +9,7 @@ Op de **_Fondsen_** pagina kunt u de Meedoen-regeling instellen.
     <br />&nbsp;
 
 2.  Er opent een pagina met waarop een overzicht van het fonds staat. In dit geval de Meedoen-regeling. U heeft inzicht in:
-<br />&nbsp;
+<br />
     - Soort regeling
     - Categorieën
     - Aantal medewerkers, aanbieders en aanvragers
@@ -24,7 +24,7 @@ Op de **_Fondsen_** pagina kunt u de Meedoen-regeling instellen.
 <br />&nbsp;
 
 2. U komt op de pagina waar u de regeling kunt aanpassen. De volgende informatie kunt u aanpassen:
-<br />&nbsp;
+<br />
     - Naam
     - Afbeelding
     - Aanvul grens van het budget
