@@ -1,36 +1,36 @@
 # Aanvragers
 
-Als aanbieder kunt u deelnemen aan de Meedoen-regeling door een organisatie aan te maken en u vervolgens aan te melden voor het fonds.
+Inwoners die recht hebben op de Meedoen-regeling kunt u met een klantnummer aan het systeem toevoegen. Het systeem genereert automatisch een persoonlijke activatiecode per inwoner.
 
-Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-mailadres dat gebruikt is tijdens het aanmelden wordt gezien als het hoofdaccount en vertegenwoordigt de 'beheerder' rol. De beheerder heeft de mogelijkheid om gebruik te maken van alle functionaliteiten van het dashboard.
+1. Klik links in het menu op **_Aanvragers_**.
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
+&nbsp;
+
+2. U bent nu op de pagina waar u de lijst met aanvragers kunt zien en nieuwe aanvragers kan toevoegen.
 &nbsp;
 
 
-### Hoe kunt u inloggen?
+## Aanvragers toevoegen
 
-1.  Ga naar [https://nijmegen.forus.io/provider/#!/](https://nijmegen.forus.io/provider/#!/) of naar [https://nijmegen.forus.io/](https://nijmegen.forus.io/), scroll helemaal naar beneden en klik op de zin: _"Bent u een aanbieder en wilt u meer informatie?"._ U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
+1.  Maak een .CSV bestand met de klantnummers van de inwoners die recht hebben op de Meedoen-regeling. U kunt een voorbeeld bestand downloaden door op **_Download upload voorbeeld_** te klikken.
 
-2.  Klik op "**_Aanmelden_**".
-3.  Maak een keuze om in te loggen via het e-mailadres of door gebruik te maken van de QR-code scanner van de **_Me-app_**.
+2.  Wanneer u het .CSV bestand klaar hebt klikt u op **_Upload .csv bestand_**. Het bestand wordt nu geupload en de activatiecodes worden aan de klantnummers gekoppeld.
 
-    a.   **Log in via e-mail**: Er wordt een link naar het e-mailadres toegestuurd, klik op de link in deze e-mail om in te loggen.
-
-    b.  **Log in via QR-code (Me app)**: Open de Me-app, ga naar het tabblad "_**QR**_" en scan de QR-code om in te loggen.
-
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-inloggen.png" alt="inloggen">
-<br>&nbsp;
+3. De nieuwe klantnummers en activatiecodes zijn toegevoegd aan de lijst. En kunnen naar de inwoners worden verstuurd.
 
 
-### Hoe kan ik mijn organisatie gegevens bekijken of aanpassen ?
+## Overzicht aanvragers**
 
-
-
-1.  Klik rechts bovenaan op "**_Organisatie_**".
+1. Op de pagina **_Aanvragers_** ziet u een overzicht van alle aanvragers die zijn toegevoegd. Het klantnummer en de daaraan gekoppelde activatiecode zijn inzichtelijk.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
 
-1.  Een wordt een nieuw venster geopend. In dit venster kunt u de gegevens zien van de organisatie.
-1.  Het aanpassen van de gegevens kan ook in dit venster. Klik zodra u de aanpassingen heeft ingevoerd op de knop "**_Bevestig_**".
+2. In het overzicht is te zien welke activatiecodes zijn geactiveerd en geexporteerd.
+
+3. Zoeken op klantnummer of activatiecode kan rechtsbovenaan via het zoekveld.
+
+4. De lijst met aanvragers filteren kan door rechts bovenaan op het filter icoon te klikken. De lijst kan op geactiveerd, geëxporteerd en datum worden gefilterd.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
     &nbsp;
+5. De lijst kan geëxporteerd worden door onderaan de lijst op **_Exporteer alles_** te klikken of door op het filter icoon te klikken, een filter in te stellen en op **_Exporteer selectie_** te klikken.
