@@ -13,24 +13,26 @@ Inwoners die recht hebben op de Meedoen-regeling kunt u met een klantnummer aan 
 ## Aanvragers toevoegen
 
 1.  Maak een .CSV bestand met de klantnummers van de inwoners die recht hebben op de Meedoen-regeling. U kunt een voorbeeld bestand downloaden door op **_Download upload voorbeeld_** te klikken.
-
+<br />&nbsp;
 2.  Wanneer u het .CSV bestand klaar hebt klikt u op **_Upload .csv bestand_**. Het bestand wordt nu geupload en de activatiecodes worden aan de klantnummers gekoppeld.
-
+<br />&nbsp;
 3. De nieuwe klantnummers en activatiecodes zijn toegevoegd aan de lijst. En kunnen naar de inwoners worden verstuurd.
-
+<br />&nbsp;
 
 ## Overzicht aanvragers**
 
 1. Op de pagina **_Aanvragers_** ziet u een overzicht van alle aanvragers die zijn toegevoegd. Het klantnummer en de daaraan gekoppelde activatiecode zijn inzichtelijk.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
-
+    <br />&nbsp;
 2. In het overzicht is te zien welke activatiecodes zijn geactiveerd en geexporteerd.
-
+<br />&nbsp;
 3. Zoeken op klantnummer of activatiecode kan rechtsbovenaan via het zoekveld.
-
+<br />&nbsp;
 4. De lijst met aanvragers filteren kan door rechts bovenaan op het filter icoon te klikken. De lijst kan op geactiveerd, geëxporteerd en datum worden gefilterd.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
-    &nbsp;
+    <br />&nbsp;
+
 5. De lijst kan geëxporteerd worden door onderaan de lijst op **_Exporteer alles_** te klikken of door op het filter icoon te klikken, een filter in te stellen en op **_Exporteer selectie_** te klikken.
+<br />&nbsp;
