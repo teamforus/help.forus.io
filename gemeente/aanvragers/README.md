@@ -27,12 +27,15 @@ alt="CSV upload">
 
 1. Op de pagina **_Aanvragers_** ziet u een overzicht van alle aanvragers die zijn toegevoegd. Het klantnummer en de daaraan gekoppelde activatiecode zijn inzichtelijk.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-overzicht.png" alt="organisatie">
     <br />&nbsp;
 2. In het overzicht is te zien welke activatiecodes zijn geactiveerd en geexporteerd.
 <br />&nbsp;
+
 3. Zoeken op klantnummer of activatiecode kan rechtsbovenaan via het zoekveld.
-<br />&nbsp;
+      <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manuals-gemeente-aanvragers-zoek.png" alt="organisatie" style="max-width:300px;">
+      <br />&nbsp;
+
 4. De lijst met aanvragers filteren kan door rechts bovenaan op het filter icoon te klikken. De lijst kan op geactiveerd, geëxporteerd en datum worden gefilterd.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-filter.png" alt="organisatie aanpassen">
