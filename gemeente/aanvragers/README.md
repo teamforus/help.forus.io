@@ -3,16 +3,20 @@
 Inwoners die recht hebben op de Meedoen-regeling kunt u met een klantnummer aan het systeem toevoegen. Het systeem genereert automatisch een persoonlijke activatiecode per inwoner.
 
 1. Klik links in het menu op **_Aanvragers_**.
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-menu.png" alt="Aanvragers" style="max-width:300px">
 &nbsp;
 
 2. U bent nu op de pagina waar u de lijst met aanvragers kunt zien en nieuwe aanvragers kan toevoegen.
 &nbsp;
-
+<img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-csvupload.png"
+alt="CSV upload">
 
 ## Aanvragers toevoegen
 
 1.  Maak een .CSV bestand met de klantnummers van de inwoners die recht hebben op de Meedoen-regeling. U kunt een voorbeeld bestand downloaden door op **_Download upload voorbeeld_** te klikken.
+
+      <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-voorbeeld.png"
+       alt="Voorbeeld CSV bestand" style="max-width:200px">
 <br />&nbsp;
 2.  Wanneer u het .CSV bestand klaar hebt klikt u op **_Upload .csv bestand_**. Het bestand wordt nu geupload en de activatiecodes worden aan de klantnummers gekoppeld.
 <br />&nbsp;
@@ -31,8 +35,10 @@ Inwoners die recht hebben op de Meedoen-regeling kunt u met een klantnummer aan 
 <br />&nbsp;
 4. De lijst met aanvragers filteren kan door rechts bovenaan op het filter icoon te klikken. De lijst kan op geactiveerd, geëxporteerd en datum worden gefilterd.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatieaanpassen.png" alt="organisatie aanpassen">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-filter.png" alt="organisatie aanpassen">
     <br />&nbsp;
 
 5. De lijst kan geëxporteerd worden door onderaan de lijst op **_Exporteer alles_** te klikken of door op het filter icoon te klikken, een filter in te stellen en op **_Exporteer selectie_** te klikken.
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvrager-exporteer.png" alt="Exporteer alles" style="max-width:200px;">
+<br />&nbsp;
 <br />&nbsp;
