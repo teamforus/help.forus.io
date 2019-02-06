@@ -1,6 +1,6 @@
 # Fondsen
 
-Via **_Fondsen_** kunt u de Meedoen-regeling instellen.
+Op de **_Fondsen_** pagina kunt u de Meedoen-regeling instellen.
 
 ## Overzicht fonds
 
