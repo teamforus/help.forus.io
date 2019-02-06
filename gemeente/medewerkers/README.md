@@ -120,5 +120,5 @@ Bekijk hieronder de tabel voor een overzicht van de verschillende rollen en rech
 4.  Kies een rol voor de desbetreffende medewerker en klik op **_Bevestig_**.
 <br />&nbsp;
 
-5. De medewerker is nu toegevoegd en kan inloggen met het e-mailadres dat zojuist is ingevuld.
+5. De medewerker is nu toegevoegd en kan inloggen met het e-mailadres dat bij stap 3 is ingevuld.
 <br />&nbsp;
