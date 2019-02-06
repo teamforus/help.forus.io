@@ -8,8 +8,8 @@ Op de **_Fondsen_** pagina kunt u de Meedoen-regeling instellen.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-fondsen.png" alt="fondsen" style="max-width:300px">
     <br />&nbsp;
 
-2.  Er wordt een nieuw venster geopend waar u het overzicht ziet van de fondsen (Meedoen-regeling). U heeft inzicht in:
-<br />
+2.  Er opent een pagina met waarop een overzicht van het fonds staat. In dit geval de Meedoen-regeling. U heeft inzicht in:
+<br />&nbsp;
     - Soort regeling
     - Categorieën
     - Aantal medewerkers, aanbieders en aanvragers
@@ -23,7 +23,13 @@ Op de **_Fondsen_** pagina kunt u de Meedoen-regeling instellen.
 1. Klik op **_Instellingen_**.
 <br />&nbsp;
 
-2. U komt op de pagina waarop u de naam van het fonds, een afbeelding, de aanvul herinnering grens van het budget, het soort aanbod en de categorieën kunt instellen.
+2. U komt op de pagina waar u de regeling kunt aanpassen. De volgende informatie kunt u aanpassen:
+<br />&nbsp;
+    - Naam
+    - Afbeelding
+    - Aanvul grens van het budget
+    - Soort aanbod
+    - Categorieën
 <br />&nbsp;
 
 ### Fonds toevoegen
