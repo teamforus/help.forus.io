@@ -1,7 +1,7 @@
 - nijmegen:
   - Aanbieder:
     - Algemeen
-    - Me-app
+    - Meapp
     - Gebruikersomgeving
     - Organisatie
     - Vestigingen
@@ -12,7 +12,7 @@
     - Medewerkers
   - Gemeente:
     - Algemeen
-    - Me-app
+    - Meapp
     - Gebruikersomgeving
     - Fonds
     - Transactieoverzicht
@@ -22,4 +22,4 @@
     - Aanvragers
   - Inwoner:
     - Instructies
-    - Me-app
+    - Meapp

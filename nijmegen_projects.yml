@@ -5,7 +5,7 @@
   path: /nijmegen/aanbieder
   pages:
     Algemeen: /algemeen
-    Me-app: /me
+    Meapp: /me
     Gebruikersomgeving: /gebruikersomgeving
     Organisatie: /organisatie
     Vestigingen: /vestigingen
@@ -21,7 +21,7 @@
   path: /nijmegen/gemeente
   pages:
     Algemeen: /algemeen
-    Me-app: /me
+    Meapp: /me
     Gebruikersomgeving: /gebruikersomgeving
     Fonds: /fonds
     Transactieoverzicht: /transactieoverzicht
@@ -36,4 +36,4 @@
   path: /nijmegen/inwoner
   pages:
     Instructies: /instructies
-    Me-app: /me
+    Meapp: /me
