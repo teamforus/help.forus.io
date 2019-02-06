@@ -1,10 +1,10 @@
 # Financiën
 
-Via het financiële dashboard kunt u alle transacties inzien.
+Via het financiële dashboard kunt u verschillende statistieken en alle transacties inzien.
 &nbsp;
 
-De volgende statistieken kunt u in zien:<br />
-- Overzicht uitgave budget (Per kwartaal, maand, week en totaal)
+De volgende statistieken kunt u inzien:<br />
+- Overzicht uitgave budget (per kwartaal, maand, week en totaal)
 - Huidig saldo
 - Totaal uitgegeven
 - Statistieken en transacties per aanbieder
