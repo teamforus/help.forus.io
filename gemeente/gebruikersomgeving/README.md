@@ -3,7 +3,7 @@
 De meedoen-regeling kunt u beheren via de gebruikersomgeving (dashboard) voor de gemeente:
 **[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**.
 
-## Functionaliteiten systeem
+## Functionaliteiten
 
 Wanneer u een account heeft kunt u inloggen op de gebruikersomgeving.
 &nbsp;
