@@ -14,7 +14,7 @@ U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht.png" alt="Transactieoverzicht">
     <br />&nbsp;
 
-3.  Rechtsboven in kunnen de resultaten worden gefilterd op bedrag, status en datum.
+3.  Rechtsboven de lijst met transacties kan er via het zoekvenster op transacties worden gezocht. Daarnaast kunnen de resultaten worden gefilterd op bedrag, status en datum.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-transactieoverzicht.png" alt="Transactieoverzicht">
     <br />&nbsp;
