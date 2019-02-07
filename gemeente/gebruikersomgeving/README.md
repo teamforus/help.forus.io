@@ -29,6 +29,7 @@ Om de Meedoen-regeling te kunnen beheren moet u als medewerker worden toegevoegd
 <br />&nbsp;
 
 2. Klik rechts bovenaan de pagina op **_Inloggen_** en log in met uw e-mailadres of via de Me app.
+
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-dashboard-inloggen.png" alt="Transactieoverzicht" style="max-width:300px">
     <br />&nbsp;
 
