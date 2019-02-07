@@ -18,6 +18,7 @@ De volgende statistieken kunt u inzien:<br />
     <br />&nbsp;
 
 2. Het financiële dashboard opent. U ziet de financiële statistieken van het fonds.
+
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-financien-statistieken.png" alt="Medewerker toevoegen" style="max-width:500px">
     <br />&nbsp;
 
