@@ -16,10 +16,10 @@ Alle transacties die hebben plaatsgevonden zijn inzichtelijk.
 
 3.  Rechtsboven de lijst met transacties kan er via het zoekvenster op transacties worden gezocht. Daarnaast kunnen de resultaten worden gefilterd op bedrag, status en datum.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-zoek.png" alt="Transactieoverzicht">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-zoek.png" alt="Transactieoverzicht" style="max-width:300px">
     <br />&nbsp;
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-filter.png" alt="Transactieoverzicht">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-filter.png" alt="Transactieoverzicht" style="max-width:300px">
     <br />&nbsp;
 
 
