@@ -24,7 +24,7 @@ Aanbieders die zich aanmelden voor de Meedoen-regeling moeten door de gemeente w
 
 3. Rechts bovenaan de lijst met aanbieders kan u via het zoekvenster op aanbieders zoeken.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanbieders-filter.png" alt="aanbiedingen"  style="max-width:500px">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanbieders-filter.png" alt="aanbiedingen"  style="max-width:300px">
     <br />&nbsp;
 
 4. U kunt filteren op de status van aanbieders. Klik op het filter icoon rechts bovenaan de zoekresultaten (naast het zoekveld). U kunt de resultaten filteren op: geaccepteerd, geweigerd of wachtend.
