@@ -6,11 +6,13 @@ Aanbieders die zich aanmelden voor de Meedoen-regeling moeten door de gemeente w
 
 1.  Klik links in het menu op **_Aanbieders_**.
 
-    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen"  style="max-width:300px">
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanbieders-menu.png" alt="aanbiedingen"  style="max-width:300px">
     <br />&nbsp;
 
 2.  U ziet een lijst met aanbieders. Bovenaan de lijst staan de aanbieders die nog moeten worden geaccepteerd of geweigerd. Controleer of de aanbieder geschikt is voor de regeling. Klik hierna op **_Weigeren_** of **_Accepteren_**.
-<br />&nbsp;
+
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanbieders-menu.png" alt="aanbiedingen"  style="max-width:300px">
+    <br />&nbsp;
 
 ## Overzicht aanbieders
 
