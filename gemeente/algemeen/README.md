@@ -15,7 +15,7 @@ Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus 
 
 ## Hoe werkt het?
 **Inwoners** <br />
-Inwoners die recht hebben op de Meedoen-regeling kunnen de activatiecode op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** activeren. Ze klikken op start en kunnen vervolgens alle stappen doorlopen. Zodra de activatie gelukt is kunnen zij zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen.
+Inwoners in de gemeente Nijmegen kunnen de Meedoen-regeling aanvragen. Inwoners die recht hebben op de Meedoen-regeling ontvangen van de gemeente een activatiecode. Ze kunnen deze code activeren op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Wanneer de inwoner op **_Start_** klikt wordt de activatie gestart. Zodra de activatie gelukt is kunnen zij zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen.
 &nbsp;
 
 **Aanbieder** <br />
