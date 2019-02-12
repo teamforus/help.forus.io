@@ -1,0 +1,26 @@
+- nijmegen:
+  - Aanbieder:
+    - Algemeen
+    - Me
+    - Gebruikersomgeving
+    - Organisatie
+    - Vestigingen
+    - Fonds
+    - Aanbiedingen
+    - Betalingen
+    - Transactieoverzicht
+    - Medewerkers
+  - Gemeente:
+    - Algemeen
+    - Me
+    - Gebruikersomgeving
+    - Fonds
+    - Transactieoverzicht
+    - Financien
+    - Medewerkers
+    - Aanbieders
+    - Aanvragers
+  - Inwoner:
+    - Activatie
+    - Algemeen
+    - Me
