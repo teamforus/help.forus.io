@@ -1,8 +1,8 @@
-# Activeren Meedoen-regeling zonder e-mailadres
+# Activatie Meedoen-regeling zonder e-mailadres
 
-**_Tip: Vraag de inwoner of ze iemand kennen met een e-mailadres en of ze die persoon vertrouwen. Zo ja, dan kan de inwoner via het e-mailadres van deze persoon de activatiecode activeren, het resterende budget inzien en kan er indien van verlies van de QR-code weer opnieuw toegang worden verkregen.
+**_Tip: Vraag de inwoner of ze iemand kennen met een e-mailadres en of ze die persoon vertrouwen. Zo ja, dan kan de inwoner via het e-mailadres van deze persoon de activatiecode activeren, het resterende budget inzien en kan er indien van verlies van de QR-code weer opnieuw toegang worden verkregen._**
 
-De QR-code die aangemaakt wordt met onderstaande stappen kan niet opnieuw worden aangemaakt. Adviseer de inwoner om er zuinig op te zijn en deze niet dubbel te vouwen. Print dit eventueel vaker dan 1 keer uit._**
+**_De QR-code die aangemaakt wordt met onderstaande stappen kan niet opnieuw worden aangemaakt. Adviseer de inwoner om er zuinig op te zijn en deze niet dubbel te vouwen. Print dit eventueel vaker dan 1 keer uit._**
 
 ## Stappenplan:
 
