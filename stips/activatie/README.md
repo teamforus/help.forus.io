@@ -11,8 +11,8 @@ De QR-code die aangemaakt wordt met onderstaande stappen kan niet opnieuw worden
 
 2. Kopieer het tijdelijke e-mailadres dat bovenin de balk verschijnt.
 
-
-[IMAGE]
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-emailadres.png" alt="E-mailadres" style="max-width:300px">
+    <br />&nbsp;
 
 3. Open een nieuwe pagina in je browser en ga naar [https://nijmegen.forus.io](https://nijmegen.forus.io)
 
@@ -30,10 +30,12 @@ De QR-code die aangemaakt wordt met onderstaande stappen kan niet opnieuw worden
 
 10. Verwijder de e-mail uit de tijdelijke mailbox door rechtsboven op **_Verwijder_** te klikken.
 
-[IMAGE]
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-mail-verwijderen.png" alt="E-mail verwijderen" style="max-width:300px">
+    <br />&nbsp;
 
 11. Verwijder het e-mailadres door op **_Verwijder_** te klikken in het linkermenu.
 
-[IMAGE]
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-verwijder-emailadres.png" alt="E-mailadres verwijderen" style="max-width:300px">
+    <br />&nbsp;
 
 12. Geef de QR-code aan de inwoner en laat diegene tekenen voor ontvangst.
