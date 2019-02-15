@@ -38,3 +38,12 @@
     Activatie: /activatie
     Algemeen: /algemeen
     Me: /me
+-
+  name: Stips
+  icon: support
+  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling
+  path: /nijmegen/stips
+  pages:
+    Activatie: /activatie
+    Algemeen: /algemeen
+    Me: /me
