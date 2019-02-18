@@ -12,7 +12,7 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 ## Activatie zonder e-mailadres
 
 1. Ga in de internetbrowser naar: **[www.temp-mail.org/](http://www.temp-mail.org/nl)**
-    **Let op:** Sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6).
+    **Let op:** Sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6.
     <br />&nbsp;
 
 2. Kopieer het tijdelijke e-mailadres dat bovenin de balk verschijnt.
@@ -20,7 +20,7 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-emailadres.png" alt="E-mailadres" style="max-width:500px">
     <br />&nbsp;
 
-3. Open een nieuwe pagina in je browser en ga naar [https://nijmegen.forus.io](https://nijmegen.forus.io).
+3. Open een nieuwe pagina in je browser en ga naar **[https://nijmegen.forus.io](https://nijmegen.forus.io)**.
 <br />&nbsp;
 
 4. Klik op de **_Start_** knop onder de welkomsttekst om het activatieproces te beginnen.
