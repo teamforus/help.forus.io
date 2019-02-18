@@ -1,13 +1,20 @@
-# Activatie Meedoen-regeling zonder e-mailadres
+# Activatie Meedoen-regeling
 
-**_Tip:_** _Vraag de inwoner of ze iemand kennen met een e-mailadres en of ze die persoon vertrouwen. Zo ja, dan kan de inwoner via het e-mailadres van deze persoon de activatiecode activeren, het resterende budget inzien en kan er indien van verlies van de QR-code weer opnieuw toegang worden verkregen._
+Voor het activeren van de code heeft de inwoner een computer en een e-mailadres nodig.
 
-De QR-code die aangemaakt wordt via onderstaande stappen kan niet opnieuw worden aangemaakt. Adviseer de inwoner om er zuinig op te zijn en deze niet dubbel te vouwen. Print dit eventueel vaker dan één keer uit.
+## Inwoner zonder e-mailadres
 
-## Stappenplan:
+1. Als een inwoner geen e-mailadres heeft kan je vragen of ze iemand kennen met een e-mailadres en of ze die persoon vertrouwen. Zo ja, dan kan de inwoner via het e-mailadres van deze persoon de code activeren, het resterende budget inzien en kan er indien van verlies van de QR-code weer opnieuw toegang worden verkregen.
 
+2. Kan er niet van een alternatief e-mailadres gebruik worden gemaakt, dan kan er van een tijdelijk e-mailadres gebruik worden gemaakt.
 
-1. Ga in je internet browser naar **[www.temp-mail.org/](http://www.temp-mail.org/nl) (let op, sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6)**.
+**Let op:** De QR-code die aangemaakt wordt via onderstaande stappen kan niet opnieuw worden aangemaakt. Adviseer de inwoner om er zuinig op te zijn en deze niet dubbel te vouwen. Print dit eventueel vaker dan één keer uit.
+
+## Activatie zonder e-mailadres
+
+1. Ga in de internetbrowser naar: **[www.temp-mail.org/](http://www.temp-mail.org/nl)**
+
+**Let op:** Sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6)**.
 
 2. Kopieer het tijdelijke e-mailadres dat bovenin de balk verschijnt.
 
