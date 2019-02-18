@@ -6,9 +6,7 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 
 1. Als een inwoner geen e-mailadres heeft kan je vragen of ze iemand kennen met een e-mailadres en of ze die persoon vertrouwen. Zo ja, dan kan de inwoner via het e-mailadres van deze persoon de code activeren, het resterende budget inzien en kan er indien van verlies van de QR-code weer opnieuw toegang worden verkregen.<br />&nbsp;
 
-2. Kan er niet van een alternatief e-mailadres gebruik worden gemaakt, dan kan er van een tijdelijk e-mailadres gebruik worden gemaakt.<br />&nbsp;
-
-**Let op:** De QR-code die aangemaakt wordt via onderstaande stappen kan niet opnieuw worden aangemaakt. Adviseer de inwoner om er zuinig op te zijn en deze niet dubbel te vouwen. Print dit eventueel vaker dan één keer uit.
+2. Als een inwoner niet van een ander e-mailadres gebruik kan maken, dan kan er van een tijdelijk e-mailadres gebruik worden gemaakt. **Let op:** De QR-code die aangemaakt wordt via onderstaande stappen kan niet opnieuw worden aangemaakt. Adviseer de inwoner om er zuinig op te zijn en deze niet dubbel te vouwen. Print dit eventueel vaker dan één keer uit. <br />&nbsp;
 
 ## Activatie zonder e-mailadres
 
