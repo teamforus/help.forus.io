@@ -1,40 +1,22 @@
-# Me app
+# Vragen
 
-Uw profiel voor de Meedoen-regeling van de gemeente Nijmegen kunt u veilig beheren in de mobiele applicatie **Me**.
-&nbsp;
+Lees hieronder de veelgestelde vragen of neem contact op met de helpdesk.
 
-## Wat is het?
+## Veelgestelde vragen
+- **Hoe kan ik de Meedoen-regeling activeren?**
+Stap 1: Klik op de start knop om uw activatiecode in te vullen.
 
-De mobiele applicatie **Me** is een app die u kunt downloaden op uw telefoon.
-De app is kunt u downloaden via de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen.
-&nbsp;
+Stap 2: Vul uw eigen e-mailadres in om een bevestigingsmail te ontvangen. Bevestig dat u toegang heeft tot dit e-mailadres door op de knop in de mail te klikken.
 
+Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd.
 
-## Waarvoor heb ik het nodig?
+Let op:U kunt één activatiecode per e-mailadres gebruiken.
 
-Wanneer u recht heeft op de Meedoen-regeling ontvangt u van de gemeente een acticatiecode. Deze code kan op de website van de Meedoen-regeling activeren. Vervolgens kunt u uw profiel beheren via de app **Me** en kan u de app gebruiken om in te loggen op de website. Via de app kunt u uw profiel beheren, uw vouchers beheren en veilig betalen.
-&nbsp;
+- **Ik ben mijn activatiecode kwijt. Wat kan ik doen?**
+Neem contact op met de gemeente Nijmegen. Wij kunnen de brief opnieuw versturen met daarin de activatiecode of de code aan de telefoon doorgeven.
 
-De app **Me** heeft de volgende functionaliteiten:
+-
 
-* Een account aanmaken
-* Inloggen op de webshop via de Me app
-* Vouchers beheren
-* Betalen met uw vouchers
-<br />&nbsp;
-
-## Hoe werkt het?
-
-1. Indien u de Meedoen-regeling al heeft geactiveerd kan u gebruik maken van de app **Me**.
-<br />
-**_Let op:_** _Heeft u de activatiecode nog niet geactiveerd ga dan naar: [https://nijmegen.forus.io/](https://nijmegen.forus.io/) en klik op_ **_Start_**.
-<br />&nbsp;
-
-2. Ga naar **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
-<br />&nbsp;
-
-3. Klik op de knop **_Download Me_**<br />
-<br />&nbsp;
-
-3. Koppel uw profiel aan **Me** door op de website rechts bovenaan in het menu op **_Autoriseer apparaat_** te klikken.
-<br />&nbsp;
+## Vraag en antwoord
+Komt u er niet uit? Neem dan contact op met de helpdesk.
+U kunt rechtsonder in beeld op **_Vraag en antwoord_** klikken of een e-mailbericht sturen naar: **[support@forus.io](mailto:support@forus.io)**.
