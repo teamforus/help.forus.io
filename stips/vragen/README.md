@@ -23,12 +23,12 @@ Klik links bovenaan op **_Aanbiedingen_** en maak uw keuze. Om een aanbieding te
 ## Vraag en antwoord
 Komt u er niet uit? Neem dan contact op met de helpdesk.
 
-**Chatvenster:** <br />
+**Chatvenster** <br />
 Stel uw vraag via het chatvenster. U kunt rechtsonder in beeld op het rode venster met **_Vraag en antwoord_** klikken.
 
-**E-mail:** <br />
+**E-mail** <br />
 U kunt uw vraag sturen naar: **[support@forus.io](mailto:support@forus.io)**.
 
-**Telefoon:** <br />
+**Telefoon** <br />
 Op werkdagen tussen 09.00 en 17.00 uur kunt u telefonisch contact opnemen.
 We zijn bereikbaar op het telefoonnummer: 06 36 26 12 31.
