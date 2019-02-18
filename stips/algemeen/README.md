@@ -1,20 +1,15 @@
 # Algemeen
 
-Algemene informatie over de Meedoen-regeling en het systeem.
+Meer informatie over de Meedoen-regeling en de werkwijze.
 
-## Wat is het?
-De Meedoen-regeling maakt gebruik van een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie.
-&nbsp;
+## Hoe werkt het?
+Organisaties die een passend aanbod hebben, kunnen zich opgeven voor de Meedoen-regeling. Inwoners die in aanmerking komen voor de regeling kunnen zich aanmelden via [https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/](https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/ )
 
-**Inwoners** <br />
-Inwoners die recht hebben op de Meedoen-regeling kunnen de activatiecode op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** activeren. Ze klikken op start en kunnen vervolgens alle stappen doorlopen. Zodra de activatie gelukt is kunnen zij zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen.
-&nbsp;
+De inwoner krijgt in de toekenningsbrief een activatiecode. Deze code voert de inwoner online in op de website: [https://nijmegen.forus.io/](https://nijmegen.forus.io/). Volg de stappen die in de brief staan onder het kopje 'Aanmelden'. Komt een inwoner er niet uit? Dan kan Stip verder helpen.
 
-**Aanbieder** <br />
-Een aanbieder (organisatie) kan deelnemen aan de Meedoen-regeling. Zij kunnen zich middels deze link:
-**[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)** aanmelden voor de regeling. Zodra de aanbieder is aangemeld kunnen ze maximaal twee aanbiedingen in de webshop plaatsen. Verder maken ze gebruik van de app Me waarmee ze QR-codes van de inwoners kunnen scannen en hiermee betalingen kunnen verrichten.
-&nbsp;
+Wanneer de activatie is afgerond ontvangt de inwoner een voucher in de vorm van een QR-code.
+De inwoner koopt een aanbieding via de webshop of toont de QR-code aan een medewerker van de organisatie. De inwoner betaalt de activiteit door de QR-code te laten scannen.
 
-**Gemeente** <br />
-De gemeente maakt de regeling, bepaalt welke organisaties mogen deelnemen, keurt aanbiedingen goed en verstuurd activatiecodes naar inwoners die recht hebben op de Meedoen-regeling.
-&nbsp;
+
+## Activatie
+Voor het activeren van de code heeft de inwoner een computer en een e-mailadres nodig. Mocht een inwoner dit niet hebben dan kan diegene contact opnemen met Stip Nijmegen. Een medewerker van Stip helpt de inwoner met het activeren van de code. Dit werkt als volgt: [Start activatie](https://help.forus.io/nijmegen/stips/activatie/).
