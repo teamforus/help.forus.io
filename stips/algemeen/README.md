@@ -1,6 +1,6 @@
 # Algemeen
 
-Meer informatie over de Meedoen-regeling en de werkwijze.
+Informatie over de Meedoen-regeling.
 
 ## Hoe werkt het?
 Organisaties die een passend aanbod hebben, kunnen zich opgeven voor de Meedoen-regeling. Inwoners die in aanmerking komen voor de regeling kunnen zich aanmelden via [https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/](https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/ )
