@@ -14,6 +14,7 @@
     Betalingen: /betalingen
     Transactieoverzicht: /transactieoverzicht
     Medewerkers: /medewerkers
+    Vragen: /vragen
 -
   name: Gemeente
   icon: support
@@ -29,6 +30,7 @@
     Medewerkers: /medewerkers
     Aanbieders: /aanbieders
     Aanvragers: /aanvragers
+    Vragen: /vragen
 -
   name: Inwoner
   icon: support
