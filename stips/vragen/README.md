@@ -30,5 +30,7 @@ Stel uw vraag via het chatvenster. U kunt rechtsonder in beeld op het venster me
 U kunt uw vraag sturen naar: **[support@forus.io](mailto:support@forus.io)**.
 
 **Telefoon** <br />
-Op werkdagen tussen 09.00 en 17.00 uur kunt u telefonisch contact opnemen.
-We zijn bereikbaar op het telefoonnummer: 06 36 26 12 31.
+U kunt telefonisch contact opnemen. We zijn bereikbaar op het telefoonnummer: 06 36 26 12 31.
+<br />&nbsp;
+
+**_We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur._**
