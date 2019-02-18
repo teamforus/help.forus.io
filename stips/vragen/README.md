@@ -16,7 +16,9 @@ Lees hieronder de veelgestelde vragen of neem contact op met de helpdesk.
 2. **Ik ben mijn activatiecode kwijt. Wat kan ik doen?**<br />
     Neem contact op met de gemeente Nijmegen. Wij kunnen de brief opnieuw versturen met daarin de activatiecode of de code aan de telefoon doorgeven.
     <br />&nbsp;
-3.
+
+3. **Hoe kan ik mij aanmelden voor een activiteit of cursus**<br />
+Klik links bovenaan op **_Aanbiedingen_** en maak uw keuze. Om een aanbieding te kopen dient u ingelogd te zijn.
 
 ## Vraag en antwoord
 Komt u er niet uit? Neem dan contact op met de helpdesk.
@@ -28,4 +30,5 @@ Stel uw vraag via het chatvenster. U kunt rechtsonder in beeld op het rode venst
 U kunt uw vraag sturen naar: **[support@forus.io](mailto:support@forus.io)**.
 
 **Telefoon:** <br />
-Op werkdagen tussen 09.00 en 17.00 uur kunt u uw vraag telefonisch stellen. U kunt ons bereiken op het telefoonnummer: 06 36 26 12 31.
+Op werkdagen tussen 09.00 en 17.00 uur kunt u telefonisch contact opnemen.
+We zijn bereikbaar op het telefoonnummer: 06 36 26 12 31.
