@@ -13,26 +13,34 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 
 1. Ga in de internetbrowser naar: **[www.temp-mail.org/](http://www.temp-mail.org/nl)**
 
-  **Let op:** Sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6)**.
+  **Let op:** Sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6).
+  <br />&nbsp;
 
 2. Kopieer het tijdelijke e-mailadres dat bovenin de balk verschijnt.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-emailadres.png" alt="E-mailadres" style="max-width:500px">
     <br />&nbsp;
 
-3. Open een nieuwe pagina in je browser en ga naar [https://nijmegen.forus.io](https://nijmegen.forus.io)
+3. Open een nieuwe pagina in je browser en ga naar [https://nijmegen.forus.io](https://nijmegen.forus.io).
+<br />&nbsp;
 
 4. Klik op de **_Start_** knop onder de welkomsttekst om het activatieproces te beginnen.
+<br />&nbsp;
 
 5. Vul tweemaal het e-mailadres in en klik op **_Volgende_**.Er wordt een link naar het e-mailadres gestuurd.
+<br />&nbsp;
 
 6. Open opnieuw de internetbrowser en open de mailbox die aangemaakt is bij **stap 1**.
+<br />&nbsp;
 
 7. Open de mail die is binnengekomen op het tijdelijk e-mailadres en klik op de **link** of op de knop **GA NAAR STAP 3**.
+<br />&nbsp;
 
 8. Er opent zich een popup met een invoerveld om de activatiecode in te vullen. Vul de activatiecode in en de Meedoenregeling voucher wordt toegekend.
+<br />&nbsp;
 
 9. Print de voucher (QR-code/blokjescode) uit voor de inwoner.
+<br />&nbsp;
 
 10. Verwijder de e-mail uit de tijdelijke mailbox door rechtsboven op **_Verwijder_** te klikken.
 
@@ -45,3 +53,4 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
     <br />&nbsp;
 
 12. Geef de QR-code aan de inwoner en laat diegene tekenen voor ontvangst.
+<br />&nbsp;
