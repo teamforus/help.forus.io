@@ -24,7 +24,7 @@ Klik links bovenaan op **_Aanbiedingen_** en maak uw keuze. Om een aanbieding te
 Komt u er niet uit? Neem dan contact op met de helpdesk.
 
 **Chatvenster** <br />
-Stel uw vraag via het chatvenster **_Vraag en antwoord_** rechts onderin op de pagina.
+Stel uw vraag via het chatvenster **_Vraag en antwoord_** rechts onderaan op de pagina.
 
 **E-mail** <br />
 Mail uw vraag naar: **[support@forus.io](mailto:support@forus.io)**.
