@@ -1,6 +1,7 @@
 # Vragen
 
-Lees hieronder de veelgestelde vragen of neem contact op met de helpdesk.
+Komt u er niet uit? Of heeft u vragen? Misschien staat uw antwoord hieronder tussen de veelgestelde vragen.
+U kunt uw vraag ook direct telefonisch, via de mail of chatfunctie stellen aan een medewerker.
 
 ## Veelgestelde vragen
 1. **Hoe kan ik de Meedoen-regeling activeren?**<br />
