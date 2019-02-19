@@ -31,7 +31,9 @@ De _Me_ app heeft de volgende functionaliteiten:
 <br />&nbsp;
 
 5. Vul de code die op uw telefoon in _Me_ verschijnt in op de webpagina en klik op .....
+<br />&nbsp;
 
 6. Controleer of de _Me_ app goed aan uw account is gekoppeld door...
+<br />&nbsp;
 
 ## Inloggen

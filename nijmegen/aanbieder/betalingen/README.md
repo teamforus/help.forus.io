@@ -1,6 +1,6 @@
 # Betalingen
 
-De klant krijgt van de eigenaar van het fonds een voucher in de vorm van een QR-code. Dit is te vergelijken met een waardebon. De klant laat u de QR-code zien, deze kan u vervolgens scannen met de **_Me-app_**. Zodra u na het scannen de transactie bevestigd, wordt het geld overgemaakt naar het rekeningnummer die u heeft opgegeven bij het aanmaken van uw organisatie.
+De klant krijgt van de eigenaar van het fonds een voucher in de vorm van een QR-code. Dit is te vergelijken met een waardebon. De klant laat u de QR-code zien, deze kan u vervolgens scannen met de _Me_ app. Zodra u na het scannen de transactie bevestigd, wordt het geld overgemaakt naar het rekeningnummer die u heeft opgegeven bij het aanmaken van uw organisatie.
 
 De klant kan u de QR-code op de volgende manieren laten zien:
 
@@ -15,7 +15,7 @@ De klant kan u de QR-code op de volgende manieren laten zien:
 1.  De klant laat de QR-code zien.
 <br />&nbsp;
 
-2.  Open de **_Me-app_** en druk op **_QR_** om de scanner te openen.
+2.  Open de _Me_ app en druk op **_QR_** om de scanner te openen.
 <br />&nbsp;
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-meapp-qr.png" alt="Me app QR-code scanner" style="max-width:300px">
     <br />&nbsp;
