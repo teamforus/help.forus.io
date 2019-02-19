@@ -1,6 +1,6 @@
 # Vragen
 
-Lees hieronder de veelgestelde vragen of neem contact op met de helpdesk.
+Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt uw vraag ook telefonisch, via de mail of chatfunctie stellen aan een medewerker.
 
 ## Veelgestelde vragen
 1. **Vraag 1**
@@ -15,7 +15,7 @@ Stel uw vraag via het chatvenster **_Vraag en antwoord_** rechts onderaan op de 
 Mail uw vraag naar: **[support@forus.io](mailto:support@forus.io)**.
 
 **Telefoon** <br />
-Stel uw vraag telefonisch. Bel naar telefoonnummer: 06 36 26 12 31.
+Stel uw vraag telefonisch door te bellen naar naar het telefoonnummer: 06 36 26 12 31.
 <br />&nbsp;
 
-**_We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur._**
+We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur.

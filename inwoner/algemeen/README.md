@@ -3,18 +3,24 @@
 Algemene informatie over de Meedoen-regeling en het systeem.
 
 ## Wat is het?
+Met de Meedoen-regeling kunnen mensen met een laag inkomen voor maximaal € 150,- een cursus of activiteit doen. Bijvoorbeeld zwemmen, zangles, yoga, taalles of naar het theater. Indien u recht heeft op de regeling krijgt u een voucher in de vorm van een QR-code. U laat de QR-code scannen door de organisatie en betaalt daarmee de activiteit.
+
+## Hoe werkt het?
 De Meedoen-regeling maakt gebruik van een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie.
 &nbsp;
 
-**Inwoners** <br />
-Inwoners die recht hebben op de Meedoen-regeling kunnen de activatiecode op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)** activeren. Ze klikken op start en kunnen vervolgens alle stappen doorlopen. Zodra de activatie gelukt is kunnen zij zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen.
-&nbsp;
+**Aanmelden** <br />
+Als u in aanmerking komt voor de Meedoen-regeling kunt u zich aanmelden via: **[https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/](https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/)**
+<br />&nbsp;
 
-**Aanbieder** <br />
-Een aanbieder (organisatie) kan deelnemen aan de Meedoen-regeling. Zij kunnen zich middels deze link:
-**[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)** aanmelden voor de regeling. Zodra de aanbieder is aangemeld kunnen ze maximaal twee aanbiedingen in de webshop plaatsen. Verder maken ze gebruik van de app Me waarmee ze QR-codes van de inwoners kunnen scannen en hiermee betalingen kunnen verrichten.
-&nbsp;
+**Activatiecode** <br />
+In de toekenningsbrief van de gemeente staat een activatiecode. Deze code kan u online invoeren op de website: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Volg de stappen die in de brief staan onder het kopje 'Aanmelden'. Komt u er niet uit? Dan kan Stip u verder helpen.
+<br />&nbsp;
 
-**Gemeente** <br />
-De gemeente maakt de regeling, bepaalt welke organisaties mogen deelnemen, keurt aanbiedingen goed en verstuurd activatiecodes naar inwoners die recht hebben op de Meedoen-regeling.
-&nbsp;
+**Aanbieding kopen en betalen** <br />
+Wanneer de activatie is afgerond krijgt u een voucher in de vorm van een QR-code.
+U kan in de webshop een aanbieding kopen, maar u kan ook de Meedoen-regeling QR-code aan een medewerker van de organisatie tonen. U betaalt de activiteit door de QR-code te laten scannen. Het bedrag wordt automatisch van uw voucher afgeschreven en op de rekening van de organisatie bijgeschreven.
+<br />&nbsp;
+
+## Hulp bij activatie
+Voor het activeren van de code heeft de u een computer en een e-mailadres nodig. Mocht u dit niet hebben dan kan u contact opnemen met Stip Nijmegen. Een medewerker van Stip helpt u graag met het activeren van de code.
