@@ -23,4 +23,4 @@ U kan in de webshop een aanbieding kopen, maar u kan ook de Meedoen-regeling QR-
 <br />&nbsp;
 
 ## Hulp bij activatie
-Voor het activeren van de code heeft de u een computer en een e-mailadres nodig. Mocht u dit niet hebben dan kan u contact opnemen met Stip Nijmegen. Een medewerker van Stip helpt u graag met het activeren van de code.
+Voor het activeren van de code heeft u een computer en een e-mailadres nodig. Mocht u dit niet hebben dan kan u contact opnemen met **[Stip Nijmegen](https://www.stipnijmegen.nl/contact/)**. Een medewerker van Stip helpt u graag met het activeren van de code.
