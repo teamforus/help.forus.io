@@ -1,35 +1,42 @@
-# Gebruikersomgeving & de Me app
+# Gebruikersomgeving
 
-De gebruikersomgeving en de mobiele applicatie van de Meedoen-regeling Nijmegen.
+De gebruikersomgeving van de Meedoen-regeling Nijmegen.
 &nbsp;
 
 ## Wat is het?
 
-U heeft zich aangemeld voor de Meedoen-regeling van de gemeente Nijmegen. Met de Meedoen-regeling kunnen mensen met een laag inkomen een cursus of activiteit doen. De uitgifte van deze regeling wordt gedaan via het systeem waarop u bent ingelogd. Dit systeem bestaat uit een website (met webshop), diverse gebruikersomgevingen en een app.
+De gebruikersomgeving van de Meedoen-regeling is een website waarop u kunt inloggen en uw bedrijfsinformatie kunt beheren.
+Wanneer u een account heeft kunt u inloggen op de gebruikersomgeving.
+
+**Via de [gebruikersomgeving](https://help.forus.io/nijmegen/aanbieder/gebruikersomgeving/) kunt u:**
+
+* Een **[vestigingen toevoegen](https://help.forus.io/nijmegen/aanbieder/vestigingen/)**
+* Bedrijfsinformatie toevoegen
+* **[Medewerkers toevoegen](https://help.forus.io/nijmegen/aanbieder/medewerkers/)**
+* Een **[financieel overzicht](https://help.forus.io/nijmegen/aanbieder/transactieoverzicht/)** inzien.
+* Aanmelden voor een **[fonds](https://help.forus.io/nijmegen/aanbieder/fonds/)**
+* **[Aanbiedingen plaatsen](https://help.forus.io/nijmegen/aanbieder/aanbiedingen/)**
 &nbsp;
 
 
-## Waarvoor heb ik het nodig?
+## Inloggen
 
-Om deel te nemen aan de Meedoen-regeling heeft u de Me App nodig (beschikbaar voor iOS & Android) en een website die u kan bezoeken via uw webbrowser. Wanneer u bent aangemeld als organisatie kunt u betalingen van mensen die gebruik maken van de Meedoen-regeling ontvangen. Via de Me app kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling.
-&nbsp;
-
-## Wat kan ik ermee?
-
-Wanneer u een account heeft kunt u inloggen via de Me app en op de gebruikersomgeving.
-
-De Me app heeft de volgende functionaliteiten:
-
-* Een account aanmaken
-* Inloggen op de gebruikersomgeving
-* Een QR-code scanner voor het ontvangen van betalingen
+1. Ga naar **[https://nijmegen.forus.io/provider/](https://nijmegen.forus.io/provider/)**. en
 <br />&nbsp;
 
-Via de gebruikersomgeving kunt u:
+2. Klik rechtsboven in beeld op **_Login_**.
+<br />&nbsp;
 
-* Een vestiging toevoegen
-* Bedrijfsinformatie toevoegen
-* Een financieel overzicht inzien.
-* Aanmelden voor een fonds
-* Aanbiedingen plaatsen
-&nbsp;
+3.  Maak een keuze om in te loggen via het e-mailadres of door gebruik te maken van de QR-code scanner van de **_Me-app_**.
+
+    a.   **Log in via e-mail**<br />
+    Er wordt een link naar het e-mailadres toegestuurd, klik op de link in deze e-mail om in te loggen.
+
+    b.  **Log in via QR-code (Me app)** <br />
+    Open de Me-app, ga naar het tabblad **_QR_** en scan de QR-code om in te loggen.
+
+    <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-inloggen.png" alt="inloggen">
+<br />&nbsp;
+
+4. U bent nu ingelogd op de gebruikersomgeving.
+<br />&nbsp;
