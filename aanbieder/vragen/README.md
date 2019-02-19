@@ -1,7 +1,6 @@
 # Vragen
 
-Heeft u verder nog vragen? Hieronder staan antwoorden op de veelgestelde vragen.
-U kunt uw vraag ook telefonisch, via de mail of chatfunctie stellen aan een medewerker.
+Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt uw vraag ook telefonisch, via de mail of chatfunctie stellen aan een medewerker.
 
 ## Veelgestelde vragen
 1. **Vraag 1**
