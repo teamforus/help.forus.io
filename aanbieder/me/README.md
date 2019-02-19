@@ -17,18 +17,22 @@ De **Me** app heeft de volgende functionaliteiten:
 
 ## Hoe werkt het?
 
-1. Indien u zich heeft aangemeld voor de Meedoen-regeling kan u gebruik maken van de app **Me**.
+1. Indien u zich heeft aangemeld voor de Meedoen-regeling kan u gebruik maken van de app **Me**. U kunt alleen betalingen ontvangen als de **Me** app aan uw account is gekoppeld.
 <br />
-**_Let op:_** _Heeft u zich via het aanmeldformulier aangemeld? Dan heeft u de_ **_Me_** _app al gedownload. Heeft u zich nog niet aangemeld? Meld u dan eerst aan via:_ [https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up).
+**_Let op:_** _Heeft u zich via het aanmeldformulier aangemeld? Dan heeft u de_ **_Me_** _app al gedownload. Heeft u zich nog niet aangemeld? Meld u dan eerst aan via:_ **[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)**.
 <br />&nbsp;
 
 2. Wilt u alleen de **Me** app downloaden? Ga dan naar **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
 <br />&nbsp;
 
-3. Klik op de knop **_Download Me_**<br />
+3. Klik op de knop **_Download Me_**.
 <br />&nbsp;
 
-3. Koppel uw profiel aan **Me** door op de website rechts bovenaan in het menu op **_Autoriseer apparaat_** te klikken.
+4. Koppel uw profiel aan **Me** door op de website rechts bovenaan in het menu op **_Autoriseer apparaat_** te klikken.
 <br />&nbsp;
+
+5. Vul de code die op uw telefoon in **Me** verschijnt in op de webpagina en klik op .....
+
+6. Controleer of de **Me** app goed aan uw account is gekoppeld door...
 
 ## Inloggen

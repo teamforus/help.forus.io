@@ -27,8 +27,8 @@ Wanneer u een account heeft kunt u inloggen via de Me app en op de gebruikersomg
 
 **Via de [gebruikersomgeving](https://help.forus.io/nijmegen/aanbieder/gebruikersomgeving/) kunt u:**
 
+* **[Bedrijfsinformatie](https://help.forus.io/nijmegen/aanbieder/organisatie/)** toevoegen.
 * Een **[vestigingen toevoegen](https://help.forus.io/nijmegen/aanbieder/vestigingen/)**
-* Bedrijfsinformatie toevoegen
 * **[Medewerkers toevoegen](https://help.forus.io/nijmegen/aanbieder/medewerkers/)**
 * Een **[financieel overzicht](https://help.forus.io/nijmegen/aanbieder/transactieoverzicht/)** inzien.
 * Aanmelden voor een **[fonds](https://help.forus.io/nijmegen/aanbieder/fonds/)**
