@@ -14,7 +14,6 @@ De _Me_ app heeft de volgende functionaliteiten:
 * Een QR-code scanner voor het ontvangen van betalingen
 <br />&nbsp;
 
-
 ## Hoe werkt het?
 
 1. Indien u zich heeft aangemeld voor de Meedoen-regeling kan u gebruik maken van de app _Me_. U kunt alleen betalingen ontvangen als de _Me_ app aan uw account is gekoppeld.
