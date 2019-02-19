@@ -2,7 +2,7 @@
 
 Via het dashboard kunt u aanbiedingen op de webshop plaatsen. U kunt maximaal twee aanbiedingen plaatsen.
 
-## Aanbieding plaatsen of bewerken?
+## Aanbieding plaatsen
 
 1.  Klik links bovenaan op **_Aanbiedingen_**.
 
@@ -29,7 +29,7 @@ Klik op **_Voeg een aanbieding toe_**.
 4.  Klik op **_Bevestig_** om het aanbod te plaatsen of de bewerking te bevestigen.
 <br />&nbsp;
 
-## Aanbieding aanpassen?
+## Aanbieding aanpassen
 
 ### Aanbieding details
 Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details.
