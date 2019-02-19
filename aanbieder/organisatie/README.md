@@ -8,9 +8,8 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 
 ## Hoe kunt u inloggen?
 
-1.  Ga naar **[https://nijmegen.forus.io/provider/#!/](https://nijmegen.forus.io/provider/#!/)** of naar **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**, scroll helemaal naar beneden en klik op de zin:<br />
-**_Bent u een aanbieder en wilt u meer informatie?._** <br />
-U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
+1.  Ga naar **[https://nijmegen.forus.io/provider/#!/](https://nijmegen.forus.io/provider/#!/)** of naar **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**, scroll helemaal naar beneden en klik op de zin:
+**_Bent u een aanbieder en wilt u meer informatie?._** U wordt doorverwezen naar de webpagina waar u kan inloggen als organisatie.
 <br />&nbsp;
 
 2.  Klik op **_Aanmelden_**.
