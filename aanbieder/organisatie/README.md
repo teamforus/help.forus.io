@@ -27,7 +27,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
 <br />&nbsp;
 
 
-## Hoe kan ik mijn organisatie gegevens bekijken of aanpassen?
+## Bedrijfsgegevens bekijken of aanpassen
 
 1.  Klik rechts bovenaan op **_Organisatie_**.
 
