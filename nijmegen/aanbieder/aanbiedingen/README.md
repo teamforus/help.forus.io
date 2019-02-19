@@ -31,15 +31,17 @@ Klik op **_Voeg een aanbieding toe_**.
 
 ## Aanbieding aanpassen
 
+Nadat u een aanbieding heeft geplaatst kunt u deze terugvinden via de gebruikersomgeving.
+Hier kunt u de details van een aanbieding bekijken en de aanbieding bewerken of verwijderen.
+
 ### Aanbieding details
-Nadat u een aanbieding heeft geplaatst kunt u een overzicht terugvinden met meer details.
+U ziet een overzicht met details over de aanbieding.
 Hier ziet u:
 
 * De vervaldatum van het aanbod. U kunt instellen wanneer uw aanbod verloopt. Deze datum kan alleen niet op een later moment dan de einddatum van het fonds eindigen.<br />&nbsp;
-* Nog te koop / Totaal. Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.<br />&nbsp;
+* Nog te koop/Totaal. Het aantal aanbiedingen die op de webshop staan en het totaal geplaatste aanbod.<br />&nbsp;
 * Gereserveerd. Het aantal verkochte aanbiedingen via de webshop. De klant komt het aanbod nog ophalen op locatie  om de betaling af te ronden. Als een aanbieding is gereserveerd wordt er verwacht dat u dit levert.
 <br />&nbsp;
-
 
 ### Aanbieding bewerken of verwijderen
 

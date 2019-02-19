@@ -1,13 +1,11 @@
 # Algemeen
 
-De gebruikersomgeving en de mobiele applicatie van de Meedoen-regeling Nijmegen.
-&nbsp;
+De Meedoen-regeling maakt gebruik van een gebruikersomgeving (website) en een mobiele applicatie.
 
 ## Wat is het?
 
 U heeft zich aangemeld voor de Meedoen-regeling van de gemeente Nijmegen. Met de Meedoen-regeling kunnen mensen met een laag inkomen een cursus of activiteit doen. De uitgifte van deze regeling wordt gedaan via het systeem waarop u bent ingelogd. Dit systeem bestaat uit een website (met webshop), diverse gebruikersomgevingen en een app voor op uw telefoon.
 &nbsp;
-
 
 ## Waarvoor heb ik het nodig?
 

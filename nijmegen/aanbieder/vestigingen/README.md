@@ -1,9 +1,9 @@
 # Vestigingen
 
-U kunt vestigingen van uw organisatie toevoegen, bewerken en verwijderen.
+U kunt een vestiging van uw organisatie toevoegen, bewerken en verwijderen.
 &nbsp;
 
-## Hoe kan ik een vestiging toevoegen of bewerken?
+## Vestiging toevoegen of bewerken
 
 1.  Klik links bovenaan in het menu op **_Vestigingen_**.<br />
 
