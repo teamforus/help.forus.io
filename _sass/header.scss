@@ -23,6 +23,7 @@
 .header__logo img {
   height: 20px;
 }
+
 .header__navs {
   padding-right: 40px;
 }
@@ -295,6 +296,11 @@
 
 .app-header {
     height: 4.3em;
+    align-items: center;
+    display: flex;
+  }
+  .header-logo-img {
+    height: 3em;
   }
 
   .app-header_wrap {

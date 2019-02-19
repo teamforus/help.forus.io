@@ -170,7 +170,7 @@ blockquote {
   }
 
   &.home{
-    width: 65%;
+    width: 75%;
   }
 }
 
@@ -386,7 +386,7 @@ main.home {
 }
 
 .article-toc-wrapper{
-  width: 50%;
+  width: 65%;
   height: fit-content;
   padding-left: 0.5em;
   border-left: 1px solid #ddd;
@@ -394,7 +394,7 @@ main.home {
     display: none;
   }
   .inline_toc {
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 500;
 
     a, a:visited {
@@ -420,8 +420,8 @@ main.home {
 .project-list {
   display: grid;
   grid-template-columns: repeat(2, 0.5fr);
-  grid-gap: 25px;
-  margin: 4em 0;
+  grid-gap: 40px;
+  margin: 2em 0;
 }
 
 .project-card {
