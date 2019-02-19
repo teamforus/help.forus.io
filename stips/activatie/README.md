@@ -26,7 +26,7 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 4. Klik op de **_Start_** knop onder de welkomsttekst om het activatieproces te beginnen.
 <br />&nbsp;
 
-5. Vul tweemaal het e-mailadres in en klik op **_Volgende_**.Er wordt een link naar het e-mailadres gestuurd.
+5. Vul tweemaal het e-mailadres in en klik op **_Volgende_**. Er wordt een link naar het e-mailadres gestuurd.
 <br />&nbsp;
 
 6. Open opnieuw de internetbrowser en open de mailbox die aangemaakt is bij **stap 1**.
@@ -51,5 +51,5 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-verwijder-emailadres.png" alt="E-mailadres verwijderen" style="max-width:500px">
     <br />&nbsp;
 
-12. Geef de QR-code aan de inwoner en laat diegene tekenen voor ontvangst.
+12. Geef de QR-code aan de inwoner. Laat de inwoner tekenen voor ontvangst van de QR-code.
 <br />&nbsp;
