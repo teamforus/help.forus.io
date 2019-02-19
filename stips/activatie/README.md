@@ -32,7 +32,7 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 6. Open opnieuw de internetbrowser en open de mailbox die aangemaakt is bij **stap 1**.
 <br />&nbsp;
 
-7. Open de mail die is binnengekomen op het tijdelijk e-mailadres en klik op de **link** of op de knop **GA NAAR STAP 3**.
+7. Open de mail die is binnengekomen op het tijdelijk e-mailadres en klik op de **_link_** of op de knop **_Ga naar stap 3_**.
 <br />&nbsp;
 
 8. Er opent zich een popup met een invoerveld om de activatiecode in te vullen. Vul de activatiecode in en de Meedoenregeling voucher wordt toegekend.
