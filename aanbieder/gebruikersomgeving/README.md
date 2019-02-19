@@ -8,7 +8,7 @@ De gebruikersomgeving van de Meedoen-regeling Nijmegen.
 De gebruikersomgeving van de Meedoen-regeling is een website waarop u kunt inloggen en uw bedrijfsinformatie kunt beheren.
 Wanneer u een account heeft kunt u inloggen op de gebruikersomgeving.
 
-**Via de [gebruikersomgeving](https://help.forus.io/nijmegen/aanbieder/gebruikersomgeving/) kunt u:**
+**Via de gebruikersomgeving kunt u:**
 
 * Een **[vestigingen toevoegen](https://help.forus.io/nijmegen/aanbieder/vestigingen/)**
 * Bedrijfsinformatie toevoegen
