@@ -1,16 +1,13 @@
 # Me app
 
-De mobiele applicatie van de Meedoen-regeling Nijmegen. De mobiele applicatie **Me** is een app die u kunt downloaden op uw telefoon. De app kunt u downloaden via de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen.
+De **Me** app is de mobiele applicatie van de Meedoen-regeling Nijmegen en kunt u downloaden op uw telefoon. De app kunt u downloaden via de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
 ## Waarvoor heb ik het nodig?
-Om deel te nemen aan de Meedoen-regeling heeft u de **Me** App nodig (beschikbaar voor iOS & Android). Via de **Me** app kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling en betalingen ontvangen.
+Om deel te nemen aan de Meedoen-regeling heeft u de **Me** app nodig. Via **Me** kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling, inloggen op de gebruikersomgeving en betalingen ontvangen.
 &nbsp;
 
-Wanneer u een account heeft kunt u inloggen via de Me app en op de gebruikersomgeving.
-&nbsp;
-
-De Me app heeft de volgende functionaliteiten:
+De **Me** app heeft de volgende functionaliteiten:
 
 * Een account aanmaken
 * Inloggen op de gebruikersomgeving
@@ -35,5 +32,3 @@ De Me app heeft de volgende functionaliteiten:
 <br />&nbsp;
 
 ## Inloggen
-
-## Downloaden
