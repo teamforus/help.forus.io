@@ -1,7 +1,7 @@
 -
   name: Aanbieders
   icon: support
-  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling voor organisaties.
   path: /nijmegen/aanbieder
   pages:
     Algemeen: /algemeen
@@ -18,7 +18,7 @@
 -
   name: Gemeente
   icon: support
-  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling.
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling voor de gemeente.
   path: /nijmegen/gemeente
   pages:
     Algemeen: /algemeen
@@ -34,7 +34,7 @@
 -
   name: Inwoner
   icon: support
-  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling
+  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling voor inwoners.
   path: /nijmegen/inwoner
   pages:
     Algemeen: /algemeen
@@ -44,7 +44,7 @@
 -
   name: Stips
   icon: support
-  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling
+  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling voor Stips.
   path: /nijmegen/stips
   pages:
     Algemeen: /algemeen
