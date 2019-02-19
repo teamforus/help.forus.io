@@ -4,15 +4,15 @@ Informatie over de Meedoen-regeling.
 
 ## Hoe werkt het?
 
-**Aanmelden**
+**Aanmelden** <br />
 Inwoners die in aanmerking komen voor de regeling kunnen zich aanmelden via **[https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/](https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/)**
 <br />&nbsp;
 
-**Activatiecode**
+**Activatiecode** <br />
 De inwoner krijgt in de toekenningsbrief een activatiecode. Deze code voert de inwoner online in op de website: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Volg de stappen die in de brief staan onder het kopje 'Aanmelden'. Komt een inwoner er niet uit? Dan kan Stip verder helpen.
 <br />&nbsp;
 
-**Aanbieding kopen en betalen**
+**Aanbieding kopen en betalen** <br />
 Wanneer de activatie is afgerond ontvangt de inwoner een voucher in de vorm van een QR-code.
 De inwoner koopt een aanbieding via de webshop of toont de QR-code aan een medewerker van de organisatie. De inwoner betaalt de activiteit door de QR-code te laten scannen.
 <br />&nbsp;
