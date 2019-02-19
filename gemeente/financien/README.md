@@ -10,7 +10,7 @@ De volgende statistieken kunt u inzien:<br />
 - Statistieken en transacties per aanbieder
 &nbsp;
 
-## Statistieken en transacties van het fonds
+## Statistieken en transacties fonds
 
 1. Klik linksboven in het menu op **_Financiën_**.
 
@@ -22,7 +22,7 @@ De volgende statistieken kunt u inzien:<br />
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-financien-statistieken.png" alt="Medewerker toevoegen" style="max-width:500px">
     <br />&nbsp;
 
-## Statistieken en transacties per aanbieder
+## Statistieken en transacties aanbieder
 
 1. Onder de kop **_Aanbieders_** staan alle statistieken en transacties per aanbieder.
 

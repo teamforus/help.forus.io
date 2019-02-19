@@ -1,6 +1,6 @@
 # Fondsen
 
-Op de Fondsen pagina kunt u de Meedoen-regeling instellen.
+Op de pagina Fondsen kunt u de Meedoen-regeling instellen.
 
 ## Overzicht fonds
 
@@ -8,7 +8,7 @@ Op de Fondsen pagina kunt u de Meedoen-regeling instellen.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-fondsen-menu.png" alt="fondsen" style="max-width:300px">
     <br />&nbsp;
-    
+
 2. Er opent een pagina met waarop een overzicht van het fonds staat. In dit geval de Meedoen-regeling. U heeft inzicht in:
     <br />
     - Soort regeling
@@ -42,4 +42,10 @@ Op de Fondsen pagina kunt u de Meedoen-regeling instellen.
     <br />&nbsp;
 
 2. Vervolgens kunt u het nieuwe fonds instellen door de naam van het fonds, de aanvul herinnering grens van het budget, het soort aanbod en de categorieën in te vullen. Verder kan er een afbeelding worden geupload.
+<br />&nbsp;
+
+3. Indien u alle gegevens heeft ingevuld en het fonds wilt aanmaken klikt u op **_Bevestig_**.
+<br />&nbsp;
+
+4. Het fonds is nu aangemaakt.
 <br />&nbsp;

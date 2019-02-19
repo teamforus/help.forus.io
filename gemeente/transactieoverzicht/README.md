@@ -1,6 +1,6 @@
 # Transacties
 
-Alle transacties die hebben plaatsgevonden zijn inzichtelijk.
+Alle transacties kunt u inzien op de pagina Transacties.
 
 ## Transactieoverzicht
 
