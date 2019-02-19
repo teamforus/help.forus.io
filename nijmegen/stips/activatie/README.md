@@ -26,13 +26,13 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 4. Klik op de **_Start_** knop onder de welkomsttekst om het activatieproces te beginnen.
 <br />&nbsp;
 
-5. Vul tweemaal het e-mailadres in en klik op **_Volgende_**.Er wordt een link naar het e-mailadres gestuurd.
+5. Vul tweemaal het e-mailadres in en klik op **_Volgende_**. Er wordt een link naar het e-mailadres gestuurd.
 <br />&nbsp;
 
 6. Open opnieuw de internetbrowser en open de mailbox die aangemaakt is bij **stap 1**.
 <br />&nbsp;
 
-7. Open de mail die is binnengekomen op het tijdelijk e-mailadres en klik op de **link** of op de knop **GA NAAR STAP 3**.
+7. Open de mail die is binnengekomen op het tijdelijk e-mailadres en klik op de **_link_** of op de knop **_Ga naar stap 3_**.
 <br />&nbsp;
 
 8. Er opent zich een popup met een invoerveld om de activatiecode in te vullen. Vul de activatiecode in en de Meedoenregeling voucher wordt toegekend.
@@ -51,5 +51,5 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/stips-temp-verwijder-emailadres.png" alt="E-mailadres verwijderen" style="max-width:500px">
     <br />&nbsp;
 
-12. Geef de QR-code aan de inwoner en laat diegene tekenen voor ontvangst.
+12. Geef de QR-code aan de inwoner. Laat de inwoner tekenen voor ontvangst van de QR-code.
 <br />&nbsp;
