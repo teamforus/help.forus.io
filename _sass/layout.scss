@@ -386,7 +386,7 @@ main.home {
 }
 
 .article-toc-wrapper{
-  width: 33%;
+  width: 50%;
   height: fit-content;
   padding-left: 0.5em;
   border-left: 1px solid #ddd;
@@ -680,6 +680,7 @@ td > code {
   }
 
   .wrapper {
+    margin: auto 0;
       &.main{
         padding: 0px;
         flex-direction: column;
