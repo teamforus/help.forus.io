@@ -2,7 +2,7 @@
 
 U kunt alle transacties die hebben plaatsgevonden inzien en exporteren.
 
-## Hoe kan ik alle transacties bijhouden?
+## Transacties inzien
 
 1.  Klik linksboven op **_Transacties_**.
 
