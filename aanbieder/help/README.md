@@ -1,8 +1,9 @@
-# Probleem en oplossing
+# Help
 
-Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt uw vraag ook telefonisch, via de mail of chatfunctie stellen aan een medewerker.
+Krijgt u een foutmelding? Misschien staat uw probleem en oplossing hieronder beschreven.
+Staat uw probleem er niet tussen, neem dan contact op met de helpdesk.
 
-## Foutmeldingen
+## Probleem en oplossing
 1. **Ik kan geen QR-codes scannen**
 
 ## Vraag en antwoord
