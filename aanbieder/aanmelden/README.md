@@ -3,7 +3,11 @@ De gemeente geeft inwoners met een laag inkomen maximaal € 150,- voor culturel
 Aanmelden werkt als volgt:
 <br /> &nbsp;
 
-1. Ga naar de webpagina: <a href="https://nijmegen.forus.io/provider/sign-up" target="_blank">**aanmeldformulier**</a>.
-&nbsp;
+1. Open deze pagina op uw computer <a href="https://nijmegen.forus.io/provider/sign-up" target="_blank">**aanmeldformulier**_</a>.
+<br /> &nbsp;
 
 2. Doorloop de stappen in het aanmeldformulier. Houd hierbij rekening met de volgende punten:
+<br /> &nbsp;
+
+3. Heeft u alle stappen doorlopen? Controleer of de _Me_ app goed is ingesteld door .....
+<br /> &nbsp;
