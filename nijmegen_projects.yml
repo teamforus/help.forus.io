@@ -6,6 +6,7 @@
   pages:
     Algemeen: /algemeen
     Me: /me
+    Aanmelden: /aanmelden
     Gebruikersomgeving: /gebruikersomgeving
     Organisatie: /organisatie
     Vestigingen: /vestigingen
@@ -14,6 +15,7 @@
     Betalingen: /betalingen
     Transactieoverzicht: /transactieoverzicht
     Medewerkers: /medewerkers
+    Help: /help
     Vragen: /vragen
 -
   name: Gemeente
