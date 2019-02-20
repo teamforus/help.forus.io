@@ -1,5 +1,5 @@
 # Aanmelden
-Als uw organisatie een passend aanbod heeft voor de Meedoen-regeling, kunt u zich opgeven.
+De gemeente geeft inwoners met een laag inkomen maximaal € 150,- voor culturele, sportieve en educatieve activiteiten. Als uw organisatie een passend aanbod heeft voor de Meedoen-regeling, kunt u zich opgeven.
 Aanmelden werkt als volgt:
 <br /> &nbsp;
 
