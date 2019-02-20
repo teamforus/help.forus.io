@@ -1,6 +1,5 @@
 # Me app
-
-De _Me_ app is de mobiele applicatie van de Meedoen-regeling Nijmegen en kunt u downloaden op uw telefoon. De app kunt u downloaden via de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen.
+De _Me_ app is de mobiele applicatie van de Meedoen-regeling Nijmege. De app kunt u downloaden op uw telefoon via de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen. Via het aanmeldformulier kunt u uw organisatie eenvoudig aanmelden en de Me app downloaden door de stappen te volgen.
 &nbsp;
 
 ## Waarvoor heb ik het nodig?
@@ -15,11 +14,9 @@ De _Me_ app heeft de volgende functionaliteiten:
 <br />&nbsp;
 
 ## Hoe werkt het?
-
-1. Indien u zich heeft aangemeld voor de Meedoen-regeling kan u gebruik maken van de app _Me_. U kunt alleen betalingen ontvangen als de _Me_ app aan uw account is gekoppeld.
-<br />
-**_Let op:_** _Heeft u zich via het aanmeldformulier aangemeld? Dan heeft u de Me app al gedownload. Heeft u zich nog niet aangemeld? Meld u dan eerst aan via:_ **[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)**.
-<br />&nbsp;
+1. Meld uw organisatie aan voor de Meedoen-regeling. U kan uw organisatie aanmelden via dit **[aanmeldformulier](https://nijmegen.forus.io/provider/sign-up)**.<br />
+**_Let op:_** _Heeft u zich het aanmeldformulier al een keer ingevuld? Dan hoeft u dit niet nog een keer te doen. Mocht u de Me app opnieuw willen downloaden ga dan naar punt 2. U kunt alleen betalingen ontvangen als de Me app aan uw account is gekoppeld._
+<br /> &nbsp;
 
 2. Wilt u alleen de _Me_ app downloaden? Ga dan naar **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
 <br />&nbsp;
@@ -37,3 +34,27 @@ De _Me_ app heeft de volgende functionaliteiten:
 <br />&nbsp;
 
 ## Inloggen
+Heeft u het aanmeldformulier ingevuld? En is uw _Me_ app aan uw account gekoppeld?
+Dan kunt u inloggen op de gebruikersomgeving via _Me_. Dit werkt als volgt:
+<br />&nbsp;
+
+1. Open de internetbrowser op uw computer en ga naar de webpagina: **[https://nijmegen.forus.io/provider](https://nijmegen.forus.io/provider)**.
+<br />&nbsp;
+
+2. Klik rechtsboven in beeld op **_Login_**.
+<br />&nbsp;
+
+3. Klik op **_Login via de Me app_**
+<br />&nbsp;
+
+4. Open de _Me_ app op uw telefoon.
+<br />&nbsp;
+
+5. Klik in de _Me_ app onderin beeld op de optie **_QR_**.
+<br />&nbsp;
+
+6. Scan de QR-code op uw computer met de QR-code scanner op uw telefoon.
+<br />&nbsp;
+
+7. U wordt direct ingelogd.
+<br />&nbsp;
