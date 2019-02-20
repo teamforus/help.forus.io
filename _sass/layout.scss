@@ -1,6 +1,32 @@
 
 // box model
 
+// accordion
+
+.faq_items {
+  display: inline-block;
+}
+
+.accordionButton {	
+	float: left;
+	_float: none;  /* Float works in all browsers but IE6 */
+  margin: 10px 0px 10px 0px;
+  cursor: pointer;
+}
+  
+.accordionContent {	
+	float: left;
+	_float: none; /* Float works in all browsers but IE6 */
+}
+
+.on {
+	background: '';
+	}
+	
+.over {
+	background: '';
+	}
+
 * {
   box-sizing: border-box;
 }
@@ -52,7 +78,6 @@ body {
     margin-bottom: 14px;
     font-weight: bold;
     padding: 0em;
-    display: flex;
   }
   h1 {
     min-height: 1em;
@@ -706,6 +731,7 @@ td > code {
   display: none;
   order: 2;
   margin: 0 10px;
+  float: right;
   img {
     width: 15px;
     height: 15px;
