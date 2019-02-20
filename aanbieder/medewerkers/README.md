@@ -4,7 +4,7 @@ Als beheerder van de organisatie kunt u medewerkers toevoegen. U kunt instellen 
 
 ## Rollen en rechten
 - Beheerder: Alle functionaliteiten <br />
-- Manager: Aanbieding plaatsen, scannen van QR-codes voor het verrichten van betalingen.<br />
+- Manager: Aanbieding plaatsen, QR-codes scannen voor het verrichten van betalingen.<br />
 - Financiën: Transacties en financieel dashboard (statistieken).<br />
 - Kassa: Het scannen van QR-codes voor het verrichten van betalingen via Me app.<br />
 - Validator: Heeft geen rechten voor aanbieders.<br />
