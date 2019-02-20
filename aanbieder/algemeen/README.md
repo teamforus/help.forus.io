@@ -7,8 +7,8 @@ Inwoners krijgen een voucher in de vorm van een QR-code. De inwoner toont u de Q
 &nbsp;
 
 ## Waarvoor heb ik het nodig?
-Om deel te nemen aan de Meedoen-regeling heeft u een telefoom met daarop de _Me_ App nodig (beschikbaar voor iOS & Android) en computer waarop u de gebruikersomgeving van de Meedoen-regeling kunt openen.<br />
-Wanneer u bent aangemeld als organisatie kunt u betalingen van mensen die gebruik maken van de Meedoen-regeling ontvangen.
+Om deel te nemen aan de Meedoen-regeling heeft u een telefoon met daarop de _Me_ App nodig (beschikbaar voor iOS & Android) en een computer waarop u de gebruikersomgeving van de Meedoen-regeling kunt openen.<br />
+Wanneer uw organisatie is aangemeld kunt u betalingen van mensen die gebruik maken van de Meedoen-regeling ontvangen.
 &nbsp;
 
 ## Wat kan ik ermee?
