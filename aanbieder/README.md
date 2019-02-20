@@ -7,7 +7,7 @@ Inwoners krijgen een voucher in de vorm van een QR-code. De inwoner toont u de Q
 
 * **[Informatie over de Meedoen-regeling](https://help.forus.io/nijmegen/aanbieder/algemeen/)**
 * **[Me app](https://help.forus.io/nijmegen/aanbieder/me/)**
-* **[Aanmelden Meedoen-regeling](https://help.forus.io/nijmegen/aanbieder/me/)**
+* **[Aanmelden Meedoen-regeling](https://help.forus.io/nijmegen/aanbieder/aanmelden/)**
 * **[Gebruikersomgeving](https://help.forus.io/nijmegen/aanbieder/gebruikersomgeving/)**
     * **[Organisatie aanmelden](https://help.forus.io/nijmegen/aanbieder/organisatie/)**
     * **[Vestigingen toevoegen](https://help.forus.io/nijmegen/aanbieder/vestigingen/)**
@@ -15,5 +15,5 @@ Inwoners krijgen een voucher in de vorm van een QR-code. De inwoner toont u de Q
     * **[Betalingen](https://help.forus.io/nijmegen/aanbieder/betalingen/)**
     * **[Transactieoverzicht](https://help.forus.io/nijmegen/aanbieder/transactieoverzicht/)**
     * **[Medewerkers toevoegen](https://help.forus.io/nijmegen/aanbieder/medewerkers/)**
-* **[Probleem en oplossing](https://help.forus.io/nijmegen/aanbieder/vragen/)**
-* **[Vragen?](https://help.forus.io/nijmegen/aanbieder/vragen/)**
+* **[Help](https://help.forus.io/nijmegen/aanbieder/help/)**
+* **[Vragen](https://help.forus.io/nijmegen/aanbieder/vragen/)**
