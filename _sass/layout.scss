@@ -7,6 +7,16 @@
 
 // typography
 
+.wrapper {
+  ul {
+    li {
+      ul {
+        text-indent: 20px;
+      }
+    }
+  }
+}
+
 body, label, input, textarea, select {
   font-family: $font-family;
   font-size: $font-size;
@@ -349,7 +359,6 @@ main.home {
 
   ul {
     list-style: disc;
-    margin: 0 0 0 20px;
     padding: 0;
     vertical-align: text-top;
   }
