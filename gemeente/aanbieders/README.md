@@ -1,6 +1,6 @@
 # Aanbieders
 
-De gemeente valideert de aanbieders die zich voor de Meedoen-regeling hebben aangemeld.
+De gemeente valideert de organisaties die zijn aangemeld voor de Meedoen-regeling.
 
 ## Accepteren en weigeren
 

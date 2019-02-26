@@ -14,12 +14,16 @@ Als u in aanmerking komt voor de Meedoen-regeling kunt u zich aanmelden via: **[
 <br />&nbsp;
 
 **Activatiecode** <br />
-In de toekenningsbrief van de gemeente staat een activatiecode. Deze code kan u online invoeren op de website: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Volg de stappen die in de brief staan onder het kopje 'Aanmelden'. Komt u er niet uit? Dan kan Stip u verder helpen.
+In de toekenningsbrief van de gemeente staat een activatiecode. Deze code kan u online invoeren op de website: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Klik op **_Start_**. U kunt ook de stappen volgen die in de brief staan onder het kopje 'Aanmelden'. Komt u er niet uit? Dan kan Stip u verder helpen.
 <br />&nbsp;
 
 **Aanbieding kopen en betalen** <br />
-Wanneer de activatie is afgerond krijgt u een voucher in de vorm van een QR-code.
-U kan in de webshop een aanbieding kopen, maar u kan ook de Meedoen-regeling QR-code aan een medewerker van de organisatie tonen. U betaalt de activiteit door de QR-code te laten scannen. Het bedrag wordt automatisch van uw voucher afgeschreven en op de rekening van de organisatie bijgeschreven.
+Wanneer de activatie is afgerond krijgt u een voucher in de vorm van een QR-code. Dit is de Meedoen voucher.
+De Meedoen voucher kan u op twee manieren besteden.
+<br />&nbsp;
+1.  Op locatie van de aanbieder een activiteit uitkiezen en betalen. U betaalt de activiteit door de Meedoen voucher met QR-code te laten scannen door een medewerker. Het bedrag wordt automatisch van uw Meedoen voucher afgeschreven.
+<br />&nbsp;
+2. Met de Meedoen voucher kan u in de webshop een aanbieding kopen. Als u een aanbieding via de webshop koopt krijgt u een nieuwe voucher die uitsluitend voor de desbetreffende activiteit geldig is. U betaalt de activiteit door de QR-code van de aanbieding voucher te laten scannen door een medewerker van de organisatie waar u de aanbieding van heeft gekocht.
 <br />&nbsp;
 
 ## Hulp bij activatie
