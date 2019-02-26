@@ -1,6 +1,6 @@
 # Gebruikersomgeving
 
-U kunt gebruik maken van de gebruikersomgeving van de Meedoen-regeling Nijmegen voor aanbieders.
+Aanbieders van de Meedoen-regeling Nijmegen kunnen gebruik maken van een gebruikersomgeving.
 Dit is de link naar de gebruikersomgeving: **[https://nijmegen.forus.io/provider/](https://nijmegen.forus.io/provider/)**
 &nbsp;
 
