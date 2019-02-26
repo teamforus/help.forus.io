@@ -9,12 +9,12 @@ Alle transacties kunt u inzien op de pagina Transacties.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-menu.png" alt="Transacties" style="max-width:300px">
     <br />&nbsp;
 
-2.  Er wordt een venster geopend met daarin een overzicht van alle transacties.
+2.  Er opent een venster met daarin een overzicht van alle transacties.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transactie-overzicht.png" alt="Transactieoverzicht">
     <br />&nbsp;
 
-3.  Rechtsboven de lijst met transacties kan er via het zoekvenster op transacties worden gezocht. Daarnaast kunnen de resultaten worden gefilterd op bedrag, status en datum.
+3.  Rechtsboven de lijst met transacties kan staat een zoekvenster op transacties worden gezocht. Daarnaast kunnen de resultaten worden gefilterd op bedrag, status en datum.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-zoek.png" alt="Transactieoverzicht" style="max-width:300px">
     <br />&nbsp;
