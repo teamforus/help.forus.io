@@ -17,14 +17,16 @@ Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus 
 
 ## Hoe werkt het?
 **Inwoners** <br />
-Inwoners in de gemeente Nijmegen kunnen de Meedoen-regeling aanvragen. Inwoners die recht hebben op de Meedoen-regeling ontvangen van de gemeente een activatiecode. Ze kunnen deze code activeren op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Wanneer de inwoner op **_Start_** klikt wordt de activatie gestart. Na de activatie krijgen ze een voucher in de vorm van een QR-code. De inwoner kan zowel via de webshop als bij de organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen. De inwoner toont de QR-code vervolgens aan de organisatie. De organisatie scant met de mobiele applicatie _Me_ de QR-code. De inwoner betaalt op deze manier de activiteit en het bedrag wordt op de rekening van de organisatie bijgeschreven.
+Inwoners in de gemeente Nijmegen kunnen de Meedoen-regeling aanvragen. Inwoners die recht hebben op de Meedoen-regeling ontvangen van de gemeente een brief met daarin een activatiecode. Ze kunnen deze code activeren op **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Als de inwoner op **_Start_** klikt wordt de activatie gestart.
+<br /><br />
+Na de activatie krijgt de inwoner een voucher in de vorm van een QR-code. De inwoner kan zowel via de webshop als bij de aangemelde organisaties activiteiten kopen. Ze krijgen een Meedoen-voucher en/of een aanbiedingvoucher met een QR-code waarmee ze kunnen betalen. De inwoner toont de QR-code vervolgens aan de organisatie. De organisatie scant met de mobiele applicatie _Me_ de QR-code. De inwoner betaalt op deze manier de activiteit en het bedrag wordt automatisch op de rekening van de organisatie bijgeschreven.
 &nbsp;
 
 **Aanbieder** <br />
-Een aanbieder (organisatie) kan deelnemen aan de Meedoen-regeling. Zij kunnen zich middels deze link:
-**[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)** aanmelden voor de regeling. Zodra de aanbieder is aangemeld kunnen ze maximaal twee aanbiedingen in de webshop plaatsen. Verder maken ze gebruik van de app Me waarmee ze QR-codes van de inwoners kunnen scannen en hiermee betalingen kunnen verrichten.
+Een aanbieder (organisatie) kan deelnemen aan de Meedoen-regeling. Een organisatie kan zich middels deze link:
+**[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)** aanmelden voor de regeling. Zodra de aanbieder is aangemeld kunnen er maximaal twee aanbiedingen in de webshop worden geplaatst. Verder maakt een organisatie gebruik van de app _Me_ waarmee ze betalingen kunnen verrichten door QR-codes van inwoners te scannen. Vervolgens wordt het bedrag automatisch op de rekening van de organisatie bijgeschreven.
 &nbsp;
 
 **Gemeente** <br />
-De gemeente maakt de regeling, bepaalt welke organisaties mogen deelnemen, keurt aanbiedingen goed en verstuurd activatiecodes naar inwoners die recht hebben op de Meedoen-regeling.
+De gemeente maakt de regeling, bepaalt welke organisaties mogen deelnemen, keurt aanbiedingen goed en verstuurt activatiecodes naar inwoners die recht hebben op de Meedoen-regeling.
 &nbsp;

@@ -6,7 +6,7 @@ Dit is de link naar de gebruikersomgeving:
 
 ## Functionaliteiten
 
-Wanneer u een account heeft kunt u inloggen op de gebruikersomgeving.
+Als u een account heeft kunt u inloggen op de gebruikersomgeving.
 &nbsp;
 
 Via de gebruikersomgeving (dashboard) kunt u, afhankelijk van de rol die u toegewezen heeft gekregen, een aantal acties uitvoeren:
