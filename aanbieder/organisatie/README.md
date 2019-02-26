@@ -1,7 +1,9 @@
 # Organisatie
 
-Als aanbieder kunt u deelnemen aan de Meedoen-regeling door een organisatie aan te maken en u vervolgens aan te melden voor het fonds.
-
+Uw organisatie kunt u aanmelden voor de Meedoen-regeling. Hoe dit werkt wordt op de pagina **[aanmelden](http://help.forus.io/nijmegen/aanbieder/aanmelden/)** uitgelegd.
+<br /><br />
+Als u bent aangemeld kan u uw activiteit aanbieden.
+<br />
 Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-mailadres dat gebruikt is tijdens het aanmelden wordt gezien als het hoofdaccount en vertegenwoordigt de 'beheerder' rol. De beheerder heeft de mogelijkheid om gebruik te maken van alle functionaliteiten van het dashboard.
 &nbsp;
 
