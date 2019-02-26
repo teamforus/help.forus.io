@@ -1,7 +1,7 @@
 # Help
 
-Loopt u tegen problemen aan? Krijgt u een foutmelding? Dan vindt u hier mogelijk het antwoord.
-Komt u er alsnog niet uit? Of staat uw probleem er niet tussen? Neem dan contact op met de helpdesk.
+Loopt u tegen problemen aan of krijgt u een foutmelding? Mogelijk vindt u hier het antwoord.
+U kunt ook contact opnemen met de helpdesk.
 
 ## Probleem en oplossing
 1. **Ik kan geen QR-codes scannen**

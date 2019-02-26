@@ -1,6 +1,6 @@
 # Medewerkers
 
-Als beheerder van de organisatie kunt u medewerkers toevoegen. U kunt instellen welke rol en rechten de medewerkers hebben.
+Als beheerder van de organisatie kunt u medewerkers toevoegen. Medewerkers kunnen verschillende rollen hebben.
 
 ## Rollen en rechten
 - Beheerder: Alle functionaliteiten <br />

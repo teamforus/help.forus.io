@@ -1,6 +1,6 @@
 # Vragen
 
-Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt uw vraag ook telefonisch, via de mail of chatfunctie stellen aan een medewerker.
+Heeft u een vraag? Hieronder vindt u antwoorden op veelgestelde vragen. U kunt uw vraag ook telefonisch, via de mail of chatfunctie stellen aan een medewerker.
 
 ## Veelgestelde vragen
 1. **Wat zijn de technische vereisten om mee te doen?**
