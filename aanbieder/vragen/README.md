@@ -41,4 +41,4 @@ Stel uw vraag telefonisch door te bellen naar naar het telefoonnummer: 06 36 26 
 <br />&nbsp;
 
 We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur.
-</div>
+
