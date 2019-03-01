@@ -4,7 +4,55 @@ Loopt u tegen problemen aan of krijgt u een foutmelding? Mogelijk vindt u hier h
 U kunt ook contact opnemen met de helpdesk.
 
 ## Probleem en oplossing
-1. **Ik kan geen QR-codes scannen**
+<div class="panel-container">
+    <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                    Vraag 1
+                    </a>
+                </h4>
+            </div>
+        <div id="collapseOne" class="panel-collapse collapse">
+            <div class="panel-body">
+                Antwoord 1
+            </div>
+        </div>
+    </div>
+    <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    Vraag 2
+                    </a>
+                </h4>
+            </div>
+        <div id="collapseTwo" class="panel-collapse collapse">
+            <div class="panel-body">
+                Antwoord 2
+            </div>
+        </div>
+    </div>
+    <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                    Vraag 3
+                    </a>
+                </h4>
+            </div>
+        <div id="collapseThree" class="panel-collapse collapse">
+            <div class="panel-body">
+                Antwoord 3
+            </div>
+        </div>
+    </div>
+</div>
+
+<div markdown="1" class="faq-footer">
 
 ## Vraag en antwoord
 Komt u er niet uit? Neem dan contact op met de helpdesk.
