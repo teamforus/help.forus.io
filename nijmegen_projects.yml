@@ -32,6 +32,7 @@
     Medewerkers: /medewerkers
     Aanbieders: /aanbieders
     Aanvragers: /aanvragers
+    Probleemoplossing: /probleemoplossing
     Vragen: /vragen
 -
   name: Inwoner
@@ -42,6 +43,7 @@
     Algemeen: /algemeen
     Activatie: /activatie
     Me: /me
+    Probleemoplossing: /probleemoplossing
     Vragen: /vragen
 -
   name: Stips
