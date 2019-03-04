@@ -68,7 +68,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 </div>
 
 <div markdown="1" class="faq-footer">
-### Vraag en antwoord
+## Vraag en antwoord
 Komt u er niet uit? Neem dan contact op met de helpdesk.
 
 **Chatvenster** <br />
