@@ -10,13 +10,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                    Vraag 1
+                    Wat zijn de technische vereisten om mee te doen?
                     </a>
                 </h4>
             </div>
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
-                Antwoord 1
+            Een smartphone op de locatie van uw organisatie. Android verreist: 4.3 en hoger. iOS vereist: 10.0 en hoger. Een computer met een willekeurige internet browser. Internet Explorer: 10 of hoger.
             </div>
         </div>
     </div>
@@ -25,13 +25,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                    Vraag 2
+                    Hoe gaat het met uitbetalen?
                     </a>
                 </h4>
             </div>
         <div id="collapseTwo" class="panel-collapse collapse">
             <div class="panel-body">
-                Antwoord 2
+            Als eerste scan de QR-code van de inwoner. Ten tweede vul het bedrag van de betaling in en eventueel een omschrijving. Als laatste bevestig de betaling in de app. Het geld wordt binnen drie werkdagen op de rekening bijgeschreven.
             </div>
         </div>
     </div>
@@ -40,13 +40,28 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                    Vraag 3
+                    Wat voor organisatie moet ik zijn om mee te doen?
                     </a>
                 </h4>
             </div>
         <div id="collapseThree" class="panel-collapse collapse">
             <div class="panel-body">
-                Antwoord 3
+            Uw organisatie heeft culturele, educatieve of sportieve activiteiten. Bijvoorbeeld abonnementen, sportlessen, workshops en cursussen. Het is niet de bedoeling dat deelnemers met het Meedoenbedrag kleding, materiaal, eten en drinken bij uw organisatie kopen. Maar als dit bij uw activiteit hoort, kan in overleg een uitzondering worden gemaakt.
+            </div>
+        </div>
+    </div>
+    <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                    Hoe gaat het met uitbetalen?
+                    </a>
+                </h4>
+            </div>
+        <div id="collapseFour" class="panel-collapse collapse">
+            <div class="panel-body">
+            Naast de mobiele applicatie kunt u ook gebruik maken van de gebruikersomgeving voor organisaties. Hier kunt u het profiel van de organisatie beheren, transacties bijhouden en aanbiedingen op de webshop plaatsen. Het gebruik maken van de gebruikersomgeving is optioneel.
             </div>
         </div>
     </div>
