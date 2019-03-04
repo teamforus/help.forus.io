@@ -16,11 +16,11 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
-            Stap 1: Klik op de start knop om uw activatiecode in te vullen.
+            Stap 1: Klik op de start knop om uw activatiecode in te vullen. <br /><br />
 
-            Stap 2: Vul uw eigen e-mailadres in om een bevestigingsmail te ontvangen. Bevestig dat u toegang heeft tot dit e-mailadres door op de knop in de mail te klikken.
+            Stap 2: Vul uw eigen e-mailadres in om een bevestigingsmail te ontvangen. Bevestig dat u toegang heeft tot dit e-mailadres door op de knop in de mail te klikken. <br /><br />
 
-            Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd.
+            Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd. <br /><br />
 
             Let op:U kunt één activatiecode per e-mailadres gebruiken.
             </div>
