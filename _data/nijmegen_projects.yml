@@ -1,0 +1,57 @@
+-
+  name: Aanbieders
+  icon: support
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling voor organisaties.
+  path: /nijmegen/aanbieder
+  pages:
+    Algemeen: /algemeen
+    Me: /me
+    Aanmelden: /aanmelden
+    Gebruikersomgeving: /gebruikersomgeving
+    Organisatie: /organisatie
+    Vestigingen: /vestigingen
+    Fonds: /fonds
+    Aanbiedingen: /aanbiedingen
+    Betalingen: /betalingen
+    Transactieoverzicht: /transactieoverzicht
+    Medewerkers: /medewerkers
+    Help: /help
+    Vragen: /vragen
+-
+  name: Gemeente
+  icon: support
+  description: Handleiding voor het gebruik van het dashboard van de Meedoen-regeling voor de gemeente.
+  path: /nijmegen/gemeente
+  pages:
+    Algemeen: /algemeen
+    Me: /me
+    Gebruikersomgeving: /gebruikersomgeving
+    Fonds: /fonds
+    Transactieoverzicht: /transactieoverzicht
+    Financien: /financien
+    Medewerkers: /medewerkers
+    Aanbieders: /aanbieders
+    Aanvragers: /aanvragers
+    Probleemoplossing: /probleemoplossing
+    Vragen: /vragen
+-
+  name: Inwoner
+  icon: support
+  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling voor inwoners.
+  path: /nijmegen/inwoner
+  pages:
+    Algemeen: /algemeen
+    Activatie: /activatie
+    Me: /me
+    Probleemoplossing: /probleemoplossing
+    Vragen: /vragen
+-
+  name: Stips
+  icon: support
+  description: Handleiding voor het gebruik van de webshop van de Meedoen-regeling voor Stips.
+  path: /nijmegen/stips
+  pages:
+    Algemeen: /algemeen
+    Activatie: /activatie
+    Probleemoplossing: /probleemoplossing
+    Vragen: /vragen
