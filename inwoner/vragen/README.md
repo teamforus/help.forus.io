@@ -16,13 +16,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
-            Stap 1: Klik op de start knop om uw activatiecode in te vullen. <br /><br />
-
-            Stap 2: Vul uw eigen e-mailadres in om een bevestigingsmail te ontvangen. Bevestig dat u toegang heeft tot dit e-mailadres door op de knop in de mail te klikken. <br /><br />
-
-            Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd. <br /><br />
-
-            Let op: U kunt maar één activatiecode per e-mailadres gebruiken.
+                <ul>
+                    <li>Stap 1: Klik op de start knop om uw activatiecode in te vullen.</li>
+                    <li>Stap 2: Vul uw eigen e-mailadres in om een bevestigingsmail te ontvangen. Bevestig dat u toegang heeft tot dit </li>
+                    <li>Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd.</li>
+                    Let op: U kunt maar een activatiecode per e-mailadres gebruiken.
+                </ul>
             </div>
         </div>
     </div>
@@ -211,7 +210,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                    Kan ik de voucher van €150 aan iemand anders geven?
+                    Kan ik de voucher van ï¿½150 aan iemand anders geven?
                     </a>
                 </h4>
             </div>
