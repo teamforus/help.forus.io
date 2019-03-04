@@ -22,7 +22,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 
             Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd. <br /><br />
 
-            Let op: U kunt Ã©Ã©n activatiecode per e-mailadres gebruiken.
+            Let op: U kunt maar één activatiecode per e-mailadres gebruiken.
             </div>
         </div>
     </div>
@@ -65,7 +65,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseFour" class="panel-collapse collapse">
             <div class="panel-body">
                 Klik rechts bovenaan op 'Inloggen'. Kies voor 'log in via e-mail'. Vul het e-mailadres in die u ook tijdens de activatie hebt gebruikt en klik op 'Versturen'. Open uw e-mail en klik op de link die u heeft ontvangen om in te loggen.
             </div>
@@ -80,7 +80,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseFive" class="panel-collapse collapse">
             <div class="panel-body">
                 U kunt een overzicht van alle organisaties terugvinden op de webshop. Ga naar 'Overzicht van alle organisaties.
             </div>
@@ -95,7 +95,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseSix" class="panel-collapse collapse">
             <div class="panel-body">
                 U kunt uw voucher altijd terugvinden door in te loggen op de webshop. Ga naar 'Log in' rechts bovenaan en log in met uw e-mailadres. Vervolgens kunt u de voucher uitprinten, naar uw e-mail sturen of altijd bij de hand hebben door gebruikt te maken de app Me op uw telefoon.
             </div>
@@ -105,12 +105,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
                     Hoe kan ik zien hoeveel tegoed ik nog over heb?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseSeven" class="panel-collapse collapse">
             <div class="panel-body">
                 Na elke betaling wordt er een e-mail toegestuurd met het huidige tegoed, U kunt daarnaast uw tegoed inzien door in te loggen op de webshop of door gebruik te maken van de app Me op uw telefoon.
             </div>
@@ -120,12 +120,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
                     Kan ik een aanmelding voor een cursus of activiteit annuleren?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseEight" class="panel-collapse collapse">
             <div class="panel-body">
                 In de webshop kunt u een activiteit of cursus niet meer anulleren om het bedrag voor iets anders te gebruiken. U kunt wel bij de organisatie vragen of u een activiteit of cursus kunt ruilen voor iets anders.
             </div>
