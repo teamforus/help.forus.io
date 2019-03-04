@@ -31,13 +31,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                    Vraag 2
+                    Ik ben mijn activatiecode kwijt. Wat kan ik doen?
                     </a>
                 </h4>
             </div>
         <div id="collapseTwo" class="panel-collapse collapse">
             <div class="panel-body">
-                Antwoord 2
+                Neem contact op met de gemeente Nijmegen. Wij kunnen de brief opnieuw versturen met daarin de activatiecode of de code aan de telefoon doorgeven.
             </div>
         </div>
     </div>
@@ -46,13 +46,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                    Vraag 3
+                    Hoe kan ik mij aanmelden voor een activiteit of cursus?
                     </a>
                 </h4>
             </div>
         <div id="collapseThree" class="panel-collapse collapse">
             <div class="panel-body">
-                Antwoord 3
+                Klik links bovenaan op 'Aanbiedingen' en maak uw keuze. Om een aanbieding te kopen dient u ingelogd te zijn.
             </div>
         </div>
     </div>
