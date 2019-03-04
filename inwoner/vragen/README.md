@@ -210,7 +210,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen">
-                    Kan ik de voucher van �150 aan iemand anders geven?
+                    Kan ik de voucher van &euro;150 aan iemand anders geven?
                     </a>
                 </h4>
             </div>
