@@ -134,12 +134,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
                     Moet het tegoed in een keer besteed worden?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseNine" class="panel-collapse collapse">
             <div class="panel-body">
                 Nee, u hoeft het tegoed niet in een keer te besteden.
             </div>
@@ -149,12 +149,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
                     Hoe lang is de Meedoen-voucher geldig?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseTen" class="panel-collapse collapse">
             <div class="panel-body">
                 De voucher geldig tot en met 31 december 2019. De cursus of activiteit mag doorlopen in 2020.
             </div>
@@ -164,12 +164,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">
                     Kan ik de Meedoen-voucher omruilen voor contant geld?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseEleven" class="panel-collapse collapse">
             <div class="panel-body">
                 Nee, de waarde van de voucher krijgt u niet in contact geld uitbetaald.
             </div>
@@ -179,12 +179,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve">
                     Kan ik iets doen bij een andere organisatie die niet op de webshop staat?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseTwelve" class="panel-collapse collapse">
             <div class="panel-body">
                 Het tegoed kan alleen uitgegeven worden bij de organisaties die zich hebben aangemeld voor de Meedoen-regeling en op de webshop staan. U kunt wel een organisatie vragen deel te nemen. Een organisatie kan zich het hele jaar door aanmelden.
             </div>
@@ -194,12 +194,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen">
                     Hoe kom ik in aanmerking voor de Meedoen-regeling?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseThirteen" class="panel-collapse collapse">
             <div class="panel-body">
                 U doet een aanvraag bij de gemeente Nijmegen. De voorwaarden om mee te doen en deel te nemen doet u <a href="https://www.nijmegen.nl/diensten/uitkering-schulden-laag-inkomen/meedoen-regeling/">hier</a>.
             </div>
@@ -209,12 +209,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen">
                     Kan ik de voucher van �150 aan iemand anders geven?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseFourteen" class="panel-collapse collapse">
             <div class="panel-body">
                 Nee, de voucher is strikt persoonlijk. U mag de voucher niet aan iemand anders geven.
             </div>
@@ -224,12 +224,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen">
                     Kan ik me ook aanmelden voor een activiteit bij de balie van een organisatie of kan het alleen in de webshop?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseFifteen" class="panel-collapse collapse">
             <div class="panel-body">
                 U kunt zich ook aanmelden voor een cursus of activiteit bij de organisatie zelf. U heeft dan wel de QR-code nodig die u in de webshop kunt downloaden en/of uitprinten. U betaalt met de QR-code.
             </div>
@@ -239,12 +239,12 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen">
                     Ik krijg een foutmelding als ik de activatiecode invul, wat moet ik doen ?
                     </a>
                 </h4>
             </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
+        <div id="collapseSixteen" class="panel-collapse collapse">
             <div class="panel-body">
             Neem contact op met de gemeente Nijmegen. Wij gaan het voor u nakijken en een passende oplossing bieden.
             </div>
