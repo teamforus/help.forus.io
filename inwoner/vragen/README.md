@@ -51,7 +51,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         <div id="collapseThree" class="panel-collapse collapse">
             <div class="panel-body">
-                Klik links bovenaan op 'Aanbiedingen' en maak uw keuze. Om een aanbieding te kopen dient u ingelogd te zijn.
+              Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a>  Klik links bovenaan op 'Aanbiedingen' en maak uw keuze. Om een aanbieding te kopen dient u ingelogd te zijn.
             </div>
         </div>
     </div>
@@ -66,7 +66,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         <div id="collapseFour" class="panel-collapse collapse">
             <div class="panel-body">
-                Klik rechts bovenaan op 'Inloggen'. Kies voor 'log in via e-mail'. Vul het e-mailadres in die u ook tijdens de activatie hebt gebruikt en klik op 'Versturen'. Open uw e-mail en klik op de link die u heeft ontvangen om in te loggen.
+                Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a> Klik rechts bovenaan op 'Inloggen'. Kies voor 'log in via e-mail'. Vul het e-mailadres in die u ook tijdens de activatie hebt gebruikt en klik op 'Versturen'. Open uw e-mail en klik op de link die u heeft ontvangen om in te loggen.
             </div>
         </div>
     </div>
