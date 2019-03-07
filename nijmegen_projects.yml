@@ -15,7 +15,6 @@
     Betalingen: /betalingen
     Transactieoverzicht: /transactieoverzicht
     Medewerkers: /medewerkers
-    Help: /help
     Vragen: /vragen
 -
   name: Gemeente
@@ -32,7 +31,6 @@
     Medewerkers: /medewerkers
     Aanbieders: /aanbieders
     Aanvragers: /aanvragers
-    Probleemoplossing: /probleemoplossing
     Vragen: /vragen
 -
   name: Inwoner
@@ -43,7 +41,6 @@
     Algemeen: /algemeen
     Activatie: /activatie
     Me: /me
-    Probleemoplossing: /probleemoplossing
     Vragen: /vragen
 -
   name: Stips
@@ -53,5 +50,4 @@
   pages:
     Algemeen: /algemeen
     Activatie: /activatie
-    Probleemoplossing: /probleemoplossing
     Vragen: /vragen
