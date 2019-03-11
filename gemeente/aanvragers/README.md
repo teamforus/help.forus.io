@@ -42,7 +42,7 @@ alt="CSV upload">
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-filter.png" alt="organisatie aanpassen">
     <br />&nbsp;
 
-5. De lijst kan geëxporteerd worden door onderaan de lijst op **_Exporteer alles_** te klikken of door op het filter icoon te klikken, een filter in te stellen en op **_Exporteer selectie_** te klikken.
+5. De lijst kan geëxporteerd worden door onderaan de lijst op **_Exporteer alles_** of op het filter icoon te klikken, een filter in te stellen en op **_Exporteer selectie_** te klikken.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvrager-exporteer.png" alt="Exporteer alles" style="max-width:200px;">
 <br />&nbsp;
 <br />&nbsp;
