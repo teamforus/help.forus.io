@@ -32,4 +32,4 @@ Wanneer u bent aangemeld voor de Meedoen-regeling kunt u inloggen op de app en o
 &nbsp;
 
 ## Vragen?
-Komt u er niet uit of heeft u een vraag? Misschien staat het antwoord dat u zoekt tussen **[veelgestelde vragen](http://help.forus.io/nijmegen/aanbieder/vragen/)**. U kunt ook contact met ons opnemen.
+Komt u er niet uit of heeft u een vraag? Misschien staat het antwoord dat u zoekt tussen de **[veelgestelde vragen](http://help.forus.io/nijmegen/aanbieder/vragen/)**. U kunt ook **[contact](http://help.forus.io/nijmegen/aanbieder/vragen/)** met ons opnemen.
