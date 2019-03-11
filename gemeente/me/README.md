@@ -1,11 +1,11 @@
 # Me app
 
-Medewerkers van de gemeente kunnen voor het inloggen op de gebruikersomgeving gebruik maken van de mobiele applicatie _Me_.
+Voor het inloggen op de gebruikersomgeving kunnen medewerkers van de gemeente gebruikmaken van de mobiele applicatie _Me_.
 &nbsp;
 
 ## Wat is het?
 
-De mobiele applicatie _Me_ is een app die u kunt downloaden op uw telefoon. Pak uw telefoon en open deze link: **[http://about.forus.io/DL/](http://about.forus.io/DL/)** in een internetbrowser.
+De mobiele applicatie _Me_ is een app die u kunt downloaden op uw telefoon. Pak uw telefoon en open de link: **[http://about.forus.io/DL/](http://about.forus.io/DL/)** in een internetbrowser.
 De app is te downloaden uit de App Store en de Google Play store. _Me_ is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
