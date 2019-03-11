@@ -15,5 +15,4 @@ Inwoners krijgen een voucher in de vorm van een QR-code. De inwoner toont u de Q
     * **[Betalingen](https://help.forus.io/nijmegen/aanbieder/betalingen/)**
     * **[Transactieoverzicht](https://help.forus.io/nijmegen/aanbieder/transactieoverzicht/)**
     * **[Medewerkers toevoegen](https://help.forus.io/nijmegen/aanbieder/medewerkers/)**
-* **[Help](https://help.forus.io/nijmegen/aanbieder/help/)**
 * **[Vragen](https://help.forus.io/nijmegen/aanbieder/vragen/)**
