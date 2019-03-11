@@ -35,7 +35,7 @@ Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-maila
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-organisatie.png" alt="organisatie" style="max-width:300px">
     <br />&nbsp;&nbsp;
 
-2.  Een wordt een nieuw venster geopend. In dit venster kunt u de gegevens zien van de organisatie.
+2.  Een nieuw venster opent. In dit venster kunt u de gegevens zien van de organisatie.
 <br />&nbsp;
 
 3.  Het aanpassen van de gegevens kan ook in dit venster. Klik zodra u de aanpassingen heeft ingevoerd op de knop **_Bevestig_**.
