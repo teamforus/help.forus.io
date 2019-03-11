@@ -9,7 +9,7 @@ Op de pagina Fondsen kunt u de Meedoen-regeling instellen.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-fondsen-menu.png" alt="fondsen" style="max-width:300px">
     <br />&nbsp;
 
-2. Er opent een pagina met waarop een overzicht van het fonds staat. In dit geval de Meedoen-regeling. U heeft inzicht in:
+2. Er opent een pagina waarop een overzicht van de Meedoen-regeling staat. U heeft inzicht in:
     <br />
     - Soort regeling
     - Categorieën

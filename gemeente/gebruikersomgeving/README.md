@@ -9,7 +9,7 @@ Dit is de link naar de gebruikersomgeving:
 Als u een account heeft kunt u inloggen op de gebruikersomgeving.
 &nbsp;
 
-Via de gebruikersomgeving (dashboard) kunt u, afhankelijk van de rol die u toegewezen heeft gekregen, een aantal acties uitvoeren:
+Via de gebruikersomgeving kunt u, afhankelijk van de rol die u toegewezen heeft gekregen, een aantal acties uitvoeren:
 &nbsp;
 - Een regeling opzetten
 - Budget toevoegen en inzien
