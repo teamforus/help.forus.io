@@ -14,8 +14,8 @@ De _Me_ app heeft de volgende functionaliteiten:
 <br />&nbsp;
 
 ## Hoe werkt het?
-1. Meld uw organisatie aan voor de Meedoen-regeling. U kan uw organisatie aanmelden via dit **[aanmeldformulier](https://nijmegen.forus.io/provider/sign-up)**.<br />
-**_Let op:_** _Heeft u zich het aanmeldformulier al een keer ingevuld? Dan hoeft u dit niet nog een keer te doen. Mocht u de Me app opnieuw willen downloaden ga dan naar punt 2. U kunt alleen betalingen ontvangen als de Me app aan uw account is gekoppeld._
+1. Meld uw organisatie aan voor de Meedoen-regeling. U kan uw organisatie aanmelden via dit **[aanmeldformulier](https://nijmegen.forus.io/provider/sign-up)**.<br /><br />
+    **_Let op:_** _Heeft u zich het aanmeldformulier al een keer ingevuld? Dan hoeft u dit niet nog een keer te doen. Mocht u de Me app opnieuw willen downloaden ga dan naar punt 2. U kunt alleen betalingen ontvangen als de Me app aan uw account is gekoppeld._
 <br /> &nbsp;
 
 2. Wilt u alleen de _Me_ app downloaden? Ga dan naar **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
