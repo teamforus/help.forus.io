@@ -3,7 +3,7 @@ Informatie over de Meedoen-regeling voor organisaties.
 
 ## Wat is het?
 De gemeente geeft inwoners met een laag inkomen maximaal € 150,- voor culturele, sportieve en educatieve activiteiten. Dit heet de Meedoen-regeling. Als uw organisatie een passend aanbod heeft, kunt u zich opgeven.
-Inwoners krijgen een voucher in de vorm van een QR-code. De inwoner toont u de QR-code die u vervolgens kunt scannen en betaalt daarmee de activiteit. De Meedoen-regeling maakt gebruik van een gebruikersomgeving (website) en een mobiele applicatie.
+Inwoners krijgen een voucher in de vorm van een QR-code. De inwoner toont u de QR-code. U scant de QR-code en de inwoner betaalt daarmee de activiteit. De Meedoen-regeling maakt gebruik van een gebruikersomgeving (website) en een mobiele applicatie.
 &nbsp;
 
 ## Waarvoor heb ik het nodig?
@@ -30,3 +30,6 @@ Wanneer u bent aangemeld voor de Meedoen-regeling kunt u inloggen op de app en o
 * Aanmelden voor een **[fonds](https://help.forus.io/nijmegen/aanbieder/fonds/)**
 * **[Aanbiedingen plaatsen](https://help.forus.io/nijmegen/aanbieder/aanbiedingen/)**
 &nbsp;
+
+## Vragen?
+Komt u er niet uit of heeft u een vraag? Misschien staat het antwoord dat u zoekt tussen **[veelgestelde vragen](http://help.forus.io/nijmegen/aanbieder/vragen/)**. U kunt ook contact met ons opnemen.
