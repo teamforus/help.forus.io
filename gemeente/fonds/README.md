@@ -26,7 +26,7 @@ Op de pagina Fondsen kunt u de Meedoen-regeling instellen.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-fonds-instellingen.png" alt="fondsen" style="max-width:500">
     <br />&nbsp;
 
-2. U komt op de pagina waar u de regeling kunt aanpassen. De volgende informatie kunt u aanpassen:
+2. De pagina waarop u de regeling kunt aanpassen opent. De volgende informatie kunt u aanpassen:
 <br />
     - Naam
     - Afbeelding
