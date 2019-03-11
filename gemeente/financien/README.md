@@ -1,6 +1,6 @@
 # Financiën
 
-Via het financiële dashboard kunt u verschillende statistieken en alle transacties inzien.
+Via het financiële dashboard kunt u alle transacties en verschillende statistieken inzien.
 &nbsp;
 
 De volgende statistieken kunt u inzien:<br />
