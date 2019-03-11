@@ -9,13 +9,13 @@ Via het dashboard kunt u aanbiedingen op de webshop plaatsen. U kunt maximaal tw
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbiedingen.png" alt="aanbiedingen"  style="max-width:300px">
     <br />&nbsp;
 
-2.  Er wordt een nieuw venster geopend met het overzicht van al uw aanbiedingen.<br>
+2.  Een pagina met het overzicht van al uw aanbiedingen opent.<br>
 Klik op **_Voeg een aanbieding toe_**.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-aanbieding-toevoegen.png" alt="aanbieding toevoegen" style="max-width:500px">
     <br />&nbsp;
 
-3.  Er wordt een nieuw venster geopend waar u de aanbieding kan aanmaken of bewerken. Bij het plaatsen of bewerken van een aanbod kunt u:
+3.  Er opent een nieuw venster. Hier kan u de aanbieding aanmaken of bewerken. Bij het plaatsen of bewerken van het aanbod kunt u:
 &nbsp;
     * Een afbeelding van het aanbod plaatsen (optioneel).    
     * Een titel aanmaken.
@@ -32,7 +32,7 @@ Klik op **_Voeg een aanbieding toe_**.
 ## Aanbieding aanpassen
 
 Nadat u een aanbieding heeft geplaatst kunt u deze terugvinden via de gebruikersomgeving.
-Hier kunt u de details van een aanbieding bekijken en de aanbieding bewerken of verwijderen.
+U kunt de details van een aanbieding bekijken en de aanbieding bewerken of verwijderen.
 
 ### Aanbieding details
 U ziet een overzicht met details over de aanbieding.
