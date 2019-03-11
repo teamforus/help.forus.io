@@ -4,7 +4,7 @@ Uw organisatie kunt u aanmelden voor de Meedoen-regeling. Hoe dit werkt wordt op
 <br /><br />
 Als u bent aangemeld kan u een activiteit aanbieden.
 <br />
-Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-mailadres dat gebruikt is tijdens het aanmelden wordt gezien als het hoofdaccount en vertegenwoordigt de 'beheerder' rol. De beheerder kan van alle functionaliteiten in het dashboard gebruikmaken.
+Het aanmaken van de organisatie is tijdens het aanmelden al gebeurd. Het e-mailadres dat gebruikt is tijdens het aanmelden wordt gezien als het hoofdaccount en vertegenwoordigt de 'beheerder' rol. De beheerder kan gebruikmaken van alle functionaliteiten in het dashboard .
 &nbsp;
 
 ## Inloggen
