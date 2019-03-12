@@ -11,9 +11,80 @@
   color: grey;         /* adjust as needed */
 }
 
+.content {
+  table {
+    tbody {
+      td {
+        text-align: left !important;
+      }
+      .button_ticket {
+        text-align: center !important;
+      }
+    }
+  }
+}
+
+input[type=checkbox], input[type=radio] {
+  appearance: checkbox;
+  -webkit-appearance: checkbox;
+}
+
+#Priority {
+  appearance: menulist-button !important;
+  -webkit-appearance: menulist-button !important;
+}
+
+.button_ticket {
+  text-align: center !important;
+}
+
+.content table tbody tr:nth-child(odd) td {
+  background: #f6f6f6 !important;
+}
+
+textarea {
+  resize: both !important;
+  min-width: 280px !important;
+}
+.content table tbody td {
+  font-size: 1em !important;
+}
+
 .panel-heading .accordion-toggle.collapsed:after {
   /* symbol for "collapsed" panels */
   content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+
+input[type=reset], html input[type=button], html input[type=submit] {
+  box-sizing: border-box;
+  appearance: none;
+  background-color: transparent;
+  border: 0.5px solid #157c68;
+  border-radius: 0em;
+  color: #157c68;
+  cursor: pointer;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 20px;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+
+  &:hover,
+  &:focus {
+    color: #a80a2d;
+    border: 0.5px solid #a80a2d;
+    outline: 0 
+  }
+}
+
+#zohoSupportWebToCase input[type='text'], #zohoSupportWebToCase textarea, #zohoSupportWebToCase select {
+  float: right !important;
 }
 
 .faq_items {
@@ -42,6 +113,8 @@ body, label, input, textarea, select {
   line-height: $line-height;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  -webkit-appearance: auto !important;
+  appearance: auto !important;
 }
 // structure
 
