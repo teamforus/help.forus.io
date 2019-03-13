@@ -17,7 +17,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
             <strong>Mogelijkheid 1: Met een eigen e-mailadres</strong><br />
-            Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a>.
+            Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/ target="_blank"</a>.
                 <ul>
                     <li>Stap 1: Klik op de start knop om uw activatiecode in te vullen.</li>
                     <li>Stap 2: Vul uw eigen e-mailadres in om een bevestigingsmail te ontvangen. Bevestig dat u toegang heeft tot dit </li>
@@ -71,7 +71,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         <div id="collapseFour" class="panel-collapse collapse">
             <div class="panel-body">
                 Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a> Klik rechts bovenaan op 'Inloggen'. Kies voor 'log in via e-mail'. Vul het e-mailadres in die u ook tijdens de activatie hebt gebruikt en klik op 'Versturen'. Open uw e-mail en klik op de link die u heeft ontvangen om in te loggen.<br />
-                **Let op: Indien een inwoner gebruik heeft gemaakt van een tijdelijk e-mailadres kan er niet meer op de webshop worden ingelogd.**
+                <strong>Let op: Indien een inwoner gebruik heeft gemaakt van een tijdelijk e-mailadres kan er niet meer op de webshop worden ingelogd.</strong>
             </div>
         </div>
     </div>
@@ -80,13 +80,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-                    Bij welke organisaties kan ik mij aanmelden voor een activiteit of cursus?
+                    Bij welke organisaties kan een inwoner zich aanmelden voor een activiteit of cursus?
                     </a>
                 </h4>
             </div>
         <div id="collapseFive" class="panel-collapse collapse">
             <div class="panel-body">
-                U kunt een overzicht van alle organisaties terugvinden op de webshop. Ga naar 'Overzicht van alle organisaties.
+                U kunt een overzicht van alle organisaties terugvinden op de webshop. Ga naar 'Overzicht van alle organisaties'.
             </div>
         </div>
     </div>
@@ -95,13 +95,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
-                    Ik ben mijn voucher kwijt. Wat moet ik doen?
+                    De inwoner is de voucher kwijt. Wat kan de inwoner doen?
                     </a>
                 </h4>
             </div>
         <div id="collapseSix" class="panel-collapse collapse">
             <div class="panel-body">
-                Indien u uw activatiecode bij een Stip hebt geactiveerd kunt u de QR-code niet opnieuw verkrijgen.
+                Indien de activatiecode bij een Stip met een tijdelijk e-mailadres is geactiveerd kunt u de QR-code niet opnieuw verkrijgen.
             </div>
         </div>
     </div>
@@ -110,13 +110,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-                    Kan ik een aanmelding voor een cursus of activiteit annuleren?
+                    Kan een inwoner een aanmelding voor een cursus of activiteit annuleren?
                     </a>
                 </h4>
             </div>
         <div id="collapseSeven" class="panel-collapse collapse">
             <div class="panel-body">
-                In de webshop kunt u een activiteit of cursus niet meer anulleren om het bedrag voor iets anders te gebruiken. U kunt wel bij de organisatie vragen of u een activiteit of cursus kunt ruilen voor iets anders.
+                In de webshop kunt u een activiteit of cursus niet meer annuleren om het bedrag voor iets anders te gebruiken. U kunt wel bij de organisatie vragen of u een activiteit of cursus kunt ruilen voor iets anders.
             </div>
         </div>
     </div>
@@ -125,13 +125,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
-                    Moet het tegoed in een keer besteed worden?
+                    Moet het tegoed van de inwoner in een keer worden besteed?
                     </a>
                 </h4>
             </div>
         <div id="collapseEight" class="panel-collapse collapse">
             <div class="panel-body">
-                Nee, u hoeft het tegoed niet in een keer te besteden.
+                Nee, het tegoed hoeft niet in een keer te worden besteden.
             </div>
         </div>
     </div>
@@ -146,7 +146,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         <div id="collapseNine" class="panel-collapse collapse">
             <div class="panel-body">
-                De voucher geldig tot en met 31 december 2019. De cursus of activiteit mag doorlopen in 2020.
+                De voucher is geldig tot en met 31 december 2019. De cursus of activiteit mag doorlopen in 2020.
             </div>
         </div>
     </div>
@@ -155,13 +155,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
-                    Kan ik de Meedoen-voucher omruilen voor contant geld?
+                    Kan de inwoner de Meedoen-voucher omruilen voor contant geld?
                     </a>
                 </h4>
             </div>
         <div id="collapseTen" class="panel-collapse collapse">
             <div class="panel-body">
-                Nee, de waarde van de voucher krijgt u niet in contact geld uitbetaald.
+                Nee, de waarde van de voucher wordt niet in contant geld uitbetaald.
             </div>
         </div>
     </div>
@@ -170,13 +170,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">
-                    Kan ik iets doen bij een andere organisatie die niet op de webshop staat?
+                    Kan de inwoner iets doen bij een andere organisatie die niet op de webshop staat?
                     </a>
                 </h4>
             </div>
         <div id="collapseEleven" class="panel-collapse collapse">
             <div class="panel-body">
-                Het tegoed kan alleen uitgegeven worden bij de organisaties die zich hebben aangemeld voor de Meedoen-regeling en op de webshop staan. U kunt wel een organisatie vragen deel te nemen. Een organisatie kan zich het hele jaar door aanmelden.
+                Het tegoed kan alleen worden uitgegeven bij de organisaties die zich hebben aangemeld voor de Meedoen-regeling en op de webshop staan. U kunt wel een organisatie vragen deel te nemen. Een organisatie kan zich het hele jaar door aanmelden.
             </div>
         </div>
     </div>
@@ -185,13 +185,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve">
-                    Hoe kom ik in aanmerking voor de Meedoen-regeling?
+                    Hoe komt een inwoner in aanmerking voor de Meedoen-regeling?
                     </a>
                 </h4>
             </div>
         <div id="collapseTwelve" class="panel-collapse collapse">
             <div class="panel-body">
-                U doet een aanvraag bij de gemeente Nijmegen. De voorwaarden om mee te doen en deel te nemen doet u <a href="https://www.nijmegen.nl/diensten/uitkering-schulden-laag-inkomen/meedoen-regeling/">hier</a>.
+                De inwoner kan een aanvraag indienen bij de gemeente Nijmegen. De voorwaarden om mee te doen en deel te nemen staan op deze <a href="https://www.nijmegen.nl/diensten/uitkering-schulden-laag-inkomen/meedoen-regeling/">pagina</a>.
             </div>
         </div>
     </div>
@@ -200,13 +200,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen">
-                    Kan ik de voucher van &euro;150 aan iemand anders geven?
+                    Kan de inwoner de voucher van &euro;150 aan iemand anders geven?
                     </a>
                 </h4>
             </div>
         <div id="collapseThirteen" class="panel-collapse collapse">
             <div class="panel-body">
-                Nee, de voucher is strikt persoonlijk. U mag de voucher niet aan iemand anders geven.
+                Nee, de voucher is strikt persoonlijk. De voucher mag NIET aan iemand anders worden gegeven.
             </div>
         </div>
     </div>
@@ -215,13 +215,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen">
-                    Kan ik me ook aanmelden voor een activiteit bij de balie van een organisatie of kan het alleen in de webshop?
+                    Kan een inwoner zich ook aanmelden voor een activiteit bij de balie van een organisatie of kan het alleen in de webshop?
                     </a>
                 </h4>
             </div>
         <div id="collapseFourteen" class="panel-collapse collapse">
             <div class="panel-body">
-                U kunt zich ook aanmelden voor een cursus of activiteit bij de organisatie zelf. U heeft dan wel de QR-code nodig die u in de webshop kunt downloaden en/of uitprinten. U betaalt met de QR-code.
+                De inwoner kan zich ook aanmelden voor een cursus of activiteit bij de organisatie zelf. De inwoner heeft dan wel de QR-code nodig die u in de webshop kunt downloaden en/of uitprinten. De inwoner betaalt met de QR-code.
             </div>
         </div>
     </div>
@@ -230,7 +230,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen">
-                    Ik krijg een foutmelding als ik de activatiecode invul, wat moet ik doen ?
+                    De inwoner krijgt een foutmelding als de activatiecode wordt invuld. Wat kan de inwoner doen?
                     </a>
                 </h4>
             </div>
@@ -241,6 +241,8 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
         </div>
     </div>
 </div>
+&nbsp;
+&nbsp;
 
 <div class="faq-footer" style="text-align: left">
 <h3> Vraag en antwoord </h3>
@@ -257,7 +259,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 <p>We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur.</p>
 
 <h4>Ticket</h4>
-<p>Dien een ticket bij onze helpdesk in. Vul de gevraagde gegevens en klik op <strong>Verstuur</strong>.</p>
+<p>Dien een ticket in bij onze helpdesk. Vul de gevraagde gegevens in en klik op <strong>Verstuur</strong>.</p>
 
 {% include ticket.html %}
 
