@@ -10,12 +10,13 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                    Hoe kan ik de Meedoen-regeling activeren?
+                    Hoe kan een inwoner de Meedoen-regeling activeren?
                     </a>
                 </h4>
             </div>
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
+            **Mogelijkheid 1: Met een eigen e-mailadres**
             Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a>.
                 <ul>
                     <li>Stap 1: Klik op de start knop om uw activatiecode in te vullen.</li>
@@ -23,6 +24,8 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
                     <li>Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd.</li>
                     Let op: U kunt maar een activatiecode per e-mailadres gebruiken.
                 </ul>
+            **Mogelijkheid 2: Zonder eigen e-mailadres**
+            Lees meer over deze mogelijkheid: <a href="https://help.forus.io/nijmegen/stips/activatie/">https://help.forus.io/nijmegen/stips/activatie/ target="blank"</a>
             </div>
         </div>
     </div>
@@ -31,7 +34,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                    Ik ben mijn activatiecode kwijt. Wat kan ik doen?
+                    De inwoner is de activatiecode kwijt. Wat kan de inwoner doen?
                     </a>
                 </h4>
             </div>
@@ -46,7 +49,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                    Hoe kan ik mij aanmelden voor een activiteit of cursus?
+                    Hoe kan een inwoner zich aanmelden voor een activiteit of cursus?
                     </a>
                 </h4>
             </div>
@@ -61,13 +64,14 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-                    Hoe kan ik inloggen op de webshop?
+                    Hoe kan een inwoner inloggen op de webshop?
                     </a>
                 </h4>
             </div>
         <div id="collapseFour" class="panel-collapse collapse">
             <div class="panel-body">
-                Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a> Klik rechts bovenaan op 'Inloggen'. Kies voor 'log in via e-mail'. Vul het e-mailadres in die u ook tijdens de activatie hebt gebruikt en klik op 'Versturen'. Open uw e-mail en klik op de link die u heeft ontvangen om in te loggen.
+                Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a> Klik rechts bovenaan op 'Inloggen'. Kies voor 'log in via e-mail'. Vul het e-mailadres in die u ook tijdens de activatie hebt gebruikt en klik op 'Versturen'. Open uw e-mail en klik op de link die u heeft ontvangen om in te loggen.<br />
+                **Let op: Indien een inwoner gebruik heeft gemaakt van een tijdelijk e-mailadres kan er niet meer op de webshop worden ingelogd.**
             </div>
         </div>
     </div>
