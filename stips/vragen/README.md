@@ -16,7 +16,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
-            <strong>Mogelijkheid 1: Met een eigen e-mailadres</strong>
+            <strong>Mogelijkheid 1: Met een eigen e-mailadres</strong><br />
             Ga naar: <a href="https://nijmegen.forus.io/">https://nijmegen.forus.io/</a>.
                 <ul>
                     <li>Stap 1: Klik op de start knop om uw activatiecode in te vullen.</li>
@@ -24,8 +24,8 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
                     <li>Stap 3: Vul uw activatiecode in om de Meedoen-regeling te activeren en klik vervolgens op 'Volgende'. Uw profiel is aangemaakt en uw Meedoen-regeling is geactiveerd.</li>
                     Let op: U kunt maar een activatiecode per e-mailadres gebruiken.
                 </ul>
-            <strong>Mogelijkheid 2: Zonder eigen e-mailadres</strong>
-            Lees meer over deze mogelijkheid: <a href="https://help.forus.io/nijmegen/stips/activatie/">https://help.forus.io/nijmegen/stips/activatie/ target="blank"</a>
+            <strong>Mogelijkheid 2: Zonder eigen e-mailadres</strong><br />
+            Lees meer over deze mogelijkheid: <a href="https://help.forus.io/nijmegen/stips/activatie/">https://help.forus.io/nijmegen/stips/activatie/ target="_blank"</a>
             </div>
         </div>
     </div>
