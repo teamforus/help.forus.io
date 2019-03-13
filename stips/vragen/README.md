@@ -250,7 +250,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 <p>Stel uw vraag via het chatvenster <strong>Vraag en antwoord</strong> rechts onderaan op de pagina.</p>
 
 <h4>E-mail</h4>
-<p>Mail uw vraag naar: <a href="mailto:support@forus.io">support@forus.io</a></p>
+<p>Mail uw vraag naar: <a href="mailto:support@forus.io"><strong>support@forus.io</strong></a></p>
 
 <h4>Telefoon </h4>
 <p>Stel uw vraag telefonisch door te bellen naar naar het telefoonnummer: 06 36 26 12 31.</p>
