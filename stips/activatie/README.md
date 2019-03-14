@@ -11,7 +11,7 @@ Voor het activeren van de code heeft de inwoner een computer en een e-mailadres 
 
 ## Activatie zonder e-mailadres
 
-1. Ga in de internetbrowser naar: **[www.temp-mail.org/](http://www.temp-mail.org/nl)** <br />
+1. Ga in de internetbrowser naar: **[www.temp-mail.org/](http://www.temp-mail.org/nl)** <br /><br />
     **Let op:** Sluit deze pagina nog niet. U heeft deze pagina weer nodig bij stap 6.
     <br />&nbsp;
 
