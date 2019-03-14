@@ -230,7 +230,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen">
-                    De inwoner krijgt een foutmelding als de activatiecode wordt invuld. Wat kan de inwoner doen?
+                    De inwoner krijgt een foutmelding als de activatiecode wordt ingevuld. Wat kan de inwoner doen?
                     </a>
                 </h4>
             </div>
@@ -250,7 +250,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 <p>Stel uw vraag via het chatvenster <strong>Vraag en antwoord</strong> rechts onderaan op de pagina.</p>
 
 <h4>E-mail</h4>
-<p>Mail uw vraag naar: <a href="mailto:support@forus.io"><strong>support@forus.io</strong></a></p>
+<p>Mail uw vraag naar: <strong><a href="mailto:support@forus.io">support@forus.io</a></strong></p>
 
 <h4>Telefoon </h4>
 <p>Stel uw vraag telefonisch door te bellen naar naar het telefoonnummer: 06 36 26 12 31.</p>
