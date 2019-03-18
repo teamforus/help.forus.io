@@ -68,7 +68,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 </div>
 
 <div class="faq-footer" style="text-align: left">
-<h3> Vraag en antwoord </h3>
+<h2> Vraag en antwoord </h2>
 <p>Komt u er niet uit? Neem dan contact op met de helpdesk</p>
 <p>Stel uw vraag via het chatvenster <strong>Vraag en antwoord</strong> rechts onderaan op de pagina.</p>
 
