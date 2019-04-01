@@ -9,7 +9,7 @@ U hebt een brief ontvangen van de gemeente. In de brief staat een activatiecode.
 
 ## Stap 2: Meedoen-regeling activeren
 
-Ga naar: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Klik op de **_startknop_**, volg de stappen die in beeld verschijnen en vul uw activatiecode in.
+Ga naar: **<a href="https://nijmegen.forus.io/" target="_blank">https://nijmegen.forus.io/</a>**. Klik op de **_startknop_**, volg de stappen die in beeld verschijnen en vul uw activatiecode in.
 
 <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-inwoner-startknop.png" alt="Medewerker toevoegen" style="max-width:500px">
 <br />&nbsp;
@@ -17,7 +17,7 @@ Ga naar: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Klik op d
 
 ## Stap 3: Aanbiedingen en voucher
 
-Klik daarna op **_Aanbiedingen_** of op deze link: **[https://nijmegen.forus.io/products](https://nijmegen.forus.io/products)**. Hier vindt u alle activiteiten en cursussen. Ook kunt u uw tegoed zien. De voucher met het tegoed vindt u terug door bovenaan op **_Mijn vouchers_** te klikken.
+Klik daarna op **_Aanbiedingen_** of op deze link: **<a href="https://nijmegen.forus.io/products" target="_blank">https://nijmegen.forus.io/products</a>**. Hier vindt u alle activiteiten en cursussen. Ook kunt u uw tegoed zien. De voucher met het tegoed vindt u terug door bovenaan op **_Mijn vouchers_** te klikken.
 
 <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-inwoner-anbiedingen.png" alt="aanbiedingen"  style="max-width:500px">
 <br />&nbsp;
