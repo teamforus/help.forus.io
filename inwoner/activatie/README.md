@@ -32,7 +32,7 @@ Bij **_Mijn vouchers_** staat de Meedoen-regeling voucher die u zojuist heeft ge
 
 ## Stap 5: Voucher besteden
 
-Ga naar **_Aanbiedingen_** of naar het overzicht van alle organisaties om te zien waar de voucher te besteden is of om een aanbieding te kopen. U kunt naar de aanbieder gaan en op locatie uw Meedoen-regeling voucher laten scannen voor een activiteit. U kunt ook een aanbieding via de webshop kopen. Het bedrag wordt van uw Meedoen-regeling afgeschreven en u krijgt een nieuwe voucher voor de aanbieding die u heeft gekocht. Ga naar de organisatie en laat de QR-code van de aanbieding zien om uw activiteit te kunnen doen.
+Ga naar **_Aanbiedingen_** of naar het overzicht van alle organisaties om te zien waar u de voucher kan besteden of om een aanbieding te kopen. U kunt naar de aanbieder gaan en op locatie uw Meedoen-regeling voucher laten scannen voor een activiteit. U kunt ook een aanbieding via de webshop kopen. Het bedrag wordt van uw Meedoen-regeling afgeschreven en u krijgt een nieuwe voucher met QR-code voor de aanbieding die u heeft gekocht. Ga naar de organisatie en laat de QR-code van de aanbieding zien om uw activiteit te kunnen doen.
 
 <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-inwoner-overzicht%20organisaties.png" alt="aanbiedingen"  style="max-width:500px">
 <br />&nbsp;
