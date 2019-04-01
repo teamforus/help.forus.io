@@ -65,7 +65,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
             </div>
         </div>
     </div>
-</div>
+</div><br /><br />
 
 <div class="faq-footer" style="text-align: left">
 <h2> Vraag en antwoord </h2>
@@ -76,8 +76,8 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 <p>Mail uw vraag naar: <strong><a href="mailto:support@forus.io">support@forus.io</a></strong></p><br />
 
 <h4>Telefoon </h4>
-<p>Stel uw vraag telefonisch door te bellen naar naar het telefoonnummer: 06 36 26 12 31.</p><br />
-<p>We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur.</p>
+<p>Stel uw vraag telefonisch door te bellen naar naar het telefoonnummer: 06 36 26 12 31.</p>
+<p>We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur.</p><br />
 
 <h4>Ticket</h4>
 <p>Dien een ticket bij onze helpdesk in. Vul de gevraagde gegevens en klik op <strong>Verstuur</strong>.</p><br />
