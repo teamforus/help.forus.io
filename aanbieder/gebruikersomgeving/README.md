@@ -20,7 +20,7 @@ De gebruikersomgeving van de Meedoen-regeling is een website waarop uw bedrijfsi
 
 ## Inloggen
 
-1. Ga naar **[https://nijmegen.forus.io/provider/](https://nijmegen.forus.io/provider/)**.
+1. Ga naar **<a href="https://nijmegen.forus.io/provider/" target="_blank">https://nijmegen.forus.io/provider/</a>**.
 <br />&nbsp;
 
 2. Klik rechtsboven in beeld op **_Login_**.
