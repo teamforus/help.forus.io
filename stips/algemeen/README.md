@@ -5,11 +5,11 @@ Informatie over de Meedoen-regeling.
 ## Hoe werkt het?
 
 **Aanmelden** <br />
-Inwoners die in aanmerking komen voor de regeling kunnen zich aanmelden via **[https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/](https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/)**
+Inwoners die in aanmerking komen voor de regeling kunnen zich aanmelden via **<a href="https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/" target="_blank"><https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/</a>**
 <br />&nbsp;
 
 **Activatiecode** <br />
-De inwoner krijgt in de toekenningsbrief een activatiecode. Deze code voert de inwoner online in op de website: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Volg de stappen die in de brief staan onder het kopje 'Aanmelden'. Komt een inwoner er niet uit? Dan kan Stip verder helpen.
+De inwoner krijgt in de toekenningsbrief een activatiecode. Deze code voert de inwoner online in op de website: **<a href="https://nijmegen.forus.io/" target="_blank"><https://nijmegen.forus.io/</a>**. Volg de stappen die in de brief staan onder het kopje 'Aanmelden'. Komt een inwoner er niet uit? Dan kan Stip verder helpen.
 <br />&nbsp;
 
 **Aanbieding kopen en betalen** <br />
