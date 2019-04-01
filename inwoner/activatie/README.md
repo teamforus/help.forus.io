@@ -25,7 +25,7 @@ Klik daarna op **_Aanbiedingen_** of op deze link: **[https://nijmegen.forus.io/
 
 ## Stap 4: Mijn voucher
 
-Bij **_Mijn vouchers_** staat de Meedoen-regeling voucher die u zojuist heeft geactiveerd. Dit is uw persoonlijke QR-code en daarmee betaalt u de organisatie waar u een activiteit wilt doen. De QR-code kunt u uitprinten, naar uzelf mailen of altijd op uw telefoon hebben door in te loggen op de app _Me_. _Me_ kunt u downloaden via de Google Playstore en de App Store.
+Bij **_Mijn vouchers_** staat de Meedoen-regeling voucher die u zojuist heeft geactiveerd. Dit is uw persoonlijke QR-code en daarmee betaalt u de organisatie waar u een activiteit wilt doen. De QR-code kunt u uitprinten, naar uzelf mailen of altijd op uw telefoon hebben door in te loggen op de app _Me_. _Me_ kunt u downloaden op uw telefoon. Lees meer over de: **<a href="http://help.forus.io/nijmegen/inwoner/me/">Me app</a>**.
 
 <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-inwoner-vouchers.png" alt="aanbiedingen"  style="max-width:500px">
 <br />&nbsp;
