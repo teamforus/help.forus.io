@@ -13,4 +13,4 @@ De gemeente geeft inwoners met een laag inkomen maximaal € 150,- voor culturel
     * **[Medewerkers toevoegen](https://help.forus.io/nijmegen/gemeente/medewerkers/)**
     * **[Aanbieders valideren](https://help.forus.io/nijmegen/gemeente/aanbieders/)**
     * **[Aanvragers toevoegen](https://help.forus.io/nijmegen/gemeente/aanvragers/)**
-* **[Vragen?](http://help.forus.io/nijmegen/aanbieder/vragen/)**
+* **[Vragen](http://help.forus.io/nijmegen/aanbieder/vragen/)**
