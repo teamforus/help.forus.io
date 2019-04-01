@@ -10,11 +10,11 @@ De Meedoen-regeling maakt gebruik van een website (webshop), diverse gebruikerso
 &nbsp;
 
 **Aanmelden** <br />
-Als u in aanmerking komt voor de Meedoen-regeling kunt u zich aanmelden via: **[https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/](https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/)**
+Als u in aanmerking komt voor de Meedoen-regeling kunt u zich aanmelden via: **<a href="https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/" target="_blank">https://www.nijmegen.nl/diensten/uitkering-schulden-en-laag-inkomen/meedoen-regeling/</a>**
 <br />&nbsp;
 
 **Activatiecode** <br />
-In de toekenningsbrief van de gemeente staat een activatiecode. Deze code kan u online invoeren op de website: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**. Klik op **_Start_**. U kunt ook de stappen volgen die in de brief staan onder het kopje 'Aanmelden'. Komt u er niet uit? Dan kan Stip u verder helpen.
+In de toekenningsbrief van de gemeente staat een activatiecode. Deze code kan u online invoeren op de website: **<a href="https://nijmegen.forus.io/" target="_blank">https://nijmegen.forus.io/</a>**. Klik op **_Start_**. U kunt ook de stappen volgen die in de brief staan onder het kopje 'Aanmelden'. Komt u er niet uit? Dan kan Stip u verder helpen.
 <br />&nbsp;
 
 **Aanbieding kopen en betalen** <br />
@@ -27,4 +27,4 @@ De Meedoen voucher kan u op twee manieren besteden.
 <br />&nbsp;
 
 ## Hulp bij activatie
-Voor het activeren van de code heeft u een computer en een e-mailadres nodig. Mocht u dit niet hebben dan kan u contact opnemen met **[Stip Nijmegen](https://www.stipnijmegen.nl/contact/)**. Een medewerker van Stip helpt u graag met het activeren van de code.
+Voor het activeren van de code heeft u een computer en een e-mailadres nodig. Mocht u dit niet hebben dan kan u contact opnemen met **<a href="https://www.stipnijmegen.nl/contact/" target="_blank">Stip Nijmegen</a>**. Een medewerker van Stip helpt u graag met het activeren van de code.
