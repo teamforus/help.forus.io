@@ -8,7 +8,7 @@ U kunt uw organisatie aanmelden voor het fonds: de Meedoen-regeling.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-aanbieder-fondsen.png" alt="fondsen" style="max-width:300px">
     <br />&nbsp;
 
-2.  Er wordt een nieuw venster geopend waar u het overzicht ziet van de fondsen (Meedoen-regeling) waar u zich voor kan aanmelden.
+2.  Er opent een nieuw venster. U ziet een overzicht van de fondsen (Meedoen-regeling) waar u zich voor kan aanmelden.
 <br />
 
     <span style="font-style:italic;font-weight:bold">LET OP!</span> <span style="font-style:italic">Ziet u hier niks ? Controleer dan of u bij uw organisatie een categorie heeft toegevoegd.</span>

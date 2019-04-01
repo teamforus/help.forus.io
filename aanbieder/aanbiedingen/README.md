@@ -52,7 +52,7 @@ Hier ziet u:
 
 2.  Klik op **_Bewerk_** om uw aanbieding aan te passen. U kunt de prijs wijzigen en het aantal aanbiedingen aanvullen.
 
-    **LET OP!** _Als u de prijs wijzigt terwijl er aanbiedingen gereserveerd stonden, dient u deze te leveren tegen de prijs die u voor de prijswijziging had ingesteld._
+    **LET OP!** _Als u de prijs wijzigt terwijl er aanbiedingen zijn gereserveerd, dient u deze te leveren tegen de prijs die u voor de prijswijziging heeft ingesteld._
     <br />&nbsp;
 
 3.  Klik op **_Verwijderen_** naast de knop **_Bewerken_**.

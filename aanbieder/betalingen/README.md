@@ -1,12 +1,12 @@
 # Betalingen
 
-De inwoner krijgt van de gemeente een voucher in de vorm van een QR-code. Dit is te vergelijken met een waardebon. De inwoner laat u de QR-code zien en deze kan u vervolgens scannen met de _Me_ app. Volg de stappen op de _Me_ app. Zodra u de transactie heeft bevestigd, wordt het geld overgemaakt naar het rekeningnummer die u heeft opgegeven bij het aanmaken van uw organisatie.
+De inwoner krijgt van de gemeente een voucher in de vorm van een QR-code. Dit is te vergelijken met een waardebon. De inwoner laat u de QR-code zien. De QR-code kan uscannen met de _Me_ app. Volg de stappen op de _Me_ app. Zodra u de transactie heeft bevestigd, wordt het geld overgemaakt naar het rekeningnummer dat u heeft opgegeven bij het aanmaken van uw organisatie.
 
 De inwoner kan u de QR-code op de volgende manieren laten zien:
 
 *   Een uitgeprinte versie op papier
 *   Een digitale versie op de mobiele telefoon
-*   Een digitale versie via de Me-app op de mobiele telefoon
+*   Een digitale versie via de _Me_ app op de mobiele telefoon
 <br />&nbsp;
 
 ## Twee soorten vouchers
@@ -14,11 +14,11 @@ De inwoner kan u de QR-code op de volgende manieren laten zien:
 Een inwoner kan twee verschillende vouchers aan u aanbieden.
 
 1. Meedoen voucher
-Iedere inwoner die recht heeft op de Meedoen-regeling ontvangt een Meedoen voucher. Deze voucher is €150,- waard. Hiermee kan de inwoner op locatie van de organisatie een activiteit kopen. De inwoner kan de QR-code die op de voucher staat laten scannen. Hiermee koopt de inwoner een activiteit. Daarnaast kan met de meedoen voucher een aanbieding die op de webshop staat worden gekocht. Het bedrag op de Meedoen voucher wordt in mindering gebracht en de inwoner ontvangt een aanbieding voucher.
+Iedere inwoner die recht heeft op de Meedoen-regeling ontvangt een Meedoen voucher. Deze voucher is €150,- waard. Hiermee kan de inwoner op locatie van de organisatie een activiteit kopen. De inwoner kan de QR-code die op de voucher staat laten scannen door een organisatie. Hiermee koopt de inwoner een activiteit. Daarnaast kan met de meedoen voucher een aanbieding die op de webshop staat worden gekocht. Het bedrag op de Meedoen voucher wordt in mindering gebracht en de inwoner ontvangt een aanbieding voucher.
 <br />&nbsp;
 
 2. Aanbieding voucher
-De aanbieding voucher is een voucher met QR-code die de inwoner krijgt zodra diegene een aanbieding op de webshop heeft gekocht. De inwoner krijgt hiervan een aparte voucher met QR-code die alleen voor de desbetreffende aanbieding kan worden gebruikt. De QR-code op de voucher kan op de locatie van de organisatie worden gescand. Hiermee betaalt de inwoner de aanbieding.
+De aanbieding voucher is een voucher met een QR-code die de inwoner krijgt zodra diegene een aanbieding op de webshop heeft gekocht. De inwoner krijgt hiervan een aparte voucher met QR-code die alleen voor de desbetreffende aanbieding kan worden gebruikt. De QR-code op de voucher kan op de locatie van de organisatie worden gescand. Hiermee betaalt de inwoner de aanbieding.
 <br />&nbsp;
 
 ## QR-code scannen

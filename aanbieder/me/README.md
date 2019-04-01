@@ -1,11 +1,10 @@
 # Me app
-De _Me_ app is de mobiele applicatie van de Meedoen-regeling Nijmegen. De app kunt u downloaden op uw telefoon en is beschikbaar voor Android en iOS besturingssystemen. <br /> Via het **[aanmeldformulier](https://nijmegen.forus.io/provider/sign-up)** kunt u uw organisatie eenvoudig aanmelden en de Me app downloaden door de stappen te volgen.<br />
-U kan de Me app ook downloaden via deze link: **[https://forus.io/DL](https://forus.io/DL)**.
+De _Me_ app is de mobiele applicatie van de Meedoen-regeling Nijmegen. De app kunt u downloaden op uw telefoon en is beschikbaar voor Android en iOS besturingssystemen. <br /> Via het **[aanmeldformulier](https://nijmegen.forus.io/provider/sign-up)** kunt u uw organisatie eenvoudig aanmelden. U kan de _Me_ app downloaden door de stappen in het aanmeldformulier te volgen. Als u uw organisatie al heeft aangemeld kan u de _Me_ app downloaden via deze link: **[https://forus.io/DL](https://forus.io/DL)**.
 Open de link via internet op uw telefoon en u wordt direct doorverwezen naar de downloadpagina.
 &nbsp;
 
 ## Waarvoor heb ik het nodig?
-Om deel te nemen aan de Meedoen-regeling heeft u de _Me_ app nodig. Via _Me_ kunt u een account aanmaken. Wanneer u een account heeft aangemaakt kunt u zich aanmelden voor de Meedoen-regeling, inloggen op de gebruikersomgeving en betalingen ontvangen.
+Om deel te nemen aan de Meedoen-regeling heeft u de _Me_ app nodig. Met _Me_ kan u inloggen op de gebruikersomgeving en betalingen ontvangen.
 &nbsp;
 
 De _Me_ app heeft de volgende functionaliteiten:
@@ -29,10 +28,10 @@ De _Me_ app heeft de volgende functionaliteiten:
 4. Koppel uw profiel aan _Me_ door op de website rechts bovenaan in het menu op **_Autoriseer apparaat_** te klikken.
 <br />&nbsp;
 
-5. Vul de code die op uw telefoon in _Me_ verschijnt in op de webpagina en klik op .....
+5. Open de _Me_ app en klik op **_Ik heb een profiel_**. Vul de code die op uw telefoon in _Me_ verschijnt in op de webpagina en klik op **_Autoriseer apparaat_**.
 <br />&nbsp;
 
-6. Controleer of de _Me_ app goed aan uw account is gekoppeld door...
+6. Controleer of de _Me_ app goed aan uw account is gekoppeld. Open de _Me_ app en klik op het tabblad profiel. Als uw e-mailadres op deze pagina staat is de _Me_ app aan uw account gekoppeld.
 <br />&nbsp;
 
 ## Inloggen
