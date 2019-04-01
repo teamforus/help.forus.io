@@ -7,7 +7,7 @@ Algemene informatie over de Meedoen-regeling en het systeem.
 Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus platform. Dit is een systeem dat bestaat uit een website (webshop), diverse gebruikersomgevingen en een mobiele applicatie. Via het systeem kunnen gemeentelijke regelingen worden uitgegeven.
 <br />&nbsp;
 
-**Belangrijke links:**
+**Belangrijke pagina's:**
 - De webshop: **<a href="https://nijmegen.forus.io/" target="_blank">https://nijmegen.forus.io/</a>**
 - Aanmeldformulier voor aanbieders: **<a href="https://nijmegen.forus.io/provider/sign-up" target="_blank">https://nijmegen.forus.io/provider/sign-up</a>**
 - Gebruikersomgeving voor de aanbieder: **<a href="https://nijmegen.forus.io/provider/" target="_blank">https://nijmegen.forus.io/provider/</a>**
