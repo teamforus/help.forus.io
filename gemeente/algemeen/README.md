@@ -8,11 +8,11 @@ Voor de uitgifte van de Meedoen-regeling wordt er gebruik gemaakt van het Forus 
 <br />&nbsp;
 
 **Belangrijke links:**
-- De webshop: **[https://nijmegen.forus.io/](https://nijmegen.forus.io/)**
+- De webshop: **<a href="https://nijmegen.forus.io/" target="_blank">https://nijmegen.forus.io/</a>**
 - Aanmeldformulier voor aanbieders: **[https://nijmegen.forus.io/provider/sign-up](https://nijmegen.forus.io/provider/sign-up)**
 - Gebruikersomgeving voor de aanbieder: **[https://nijmegen.forus.io/provider/](https://nijmegen.forus.io/provider/)**
 - Gebruikersomgeving voor de gemeente: **[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**
-- Informatie over de Me app: **[https://nijmegen.forus.io/me/#!/](https://nijmegen.forus.io/me/#!/)**
+- Informatie over de Me app: **[https://nijmegen.forus.io/me](https://nijmegen.forus.io/me)**
 <br />&nbsp;
 
 ## Hoe werkt het?
