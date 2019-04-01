@@ -6,7 +6,7 @@ Uw profiel voor de Meedoen-regeling van de gemeente Nijmegen kunt u veilig beher
 ## Wat is het?
 
 De mobiele applicatie _Me_ is een app die u kunt downloaden op uw telefoon.
-De app is kunt u downloaden via de **[App Store](https://itunes.apple.com/nl/app/me-forus/id1422610676)** en de **[Google Play](https://play.google.com/store/apps/details?id=io.forus.me)** store en is beschikbaar voor Android en iOS besturingssystemen.
+Pak uw telefoon en open in een internetbrowser de link: **[http://about.forus.io/DL/](http://about.forus.io/DL/)**. De app is te downloaden uit de App Store en de Google Play store. Me is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
 ## Waarvoor heb ik het nodig?
