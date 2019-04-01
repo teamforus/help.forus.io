@@ -2,7 +2,7 @@
 
 De meedoen-regeling kunt u beheren via de gebruikersomgeving (dashboard) voor de gemeente.
 Dit is de link naar de gebruikersomgeving:
-**[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**.
+**<a href="https://nijmegen.forus.io/sponsor/" target="_blank">https://nijmegen.forus.io/sponsor/</a>**.
 
 ## Functionaliteiten
 
@@ -26,7 +26,7 @@ Via de gebruikersomgeving kunt u, afhankelijk van de rol die u toegewezen heeft 
 Om de Meedoen-regeling te kunnen beheren moet u als medewerker worden toegevoegd door de beheerder van de regeling. U krijgt hierbij een rol toegewezen: beheerder, manager, financiën of validator.
 &nbsp;
 
-1. Ga naar **[https://nijmegen.forus.io/sponsor/](https://nijmegen.forus.io/sponsor/)**
+1. Ga naar **<a href="https://nijmegen.forus.io/sponsor/" target="_blank">https://nijmegen.forus.io/sponsor/</a>**
 <br />&nbsp;
 
 2. Klik rechts bovenaan de pagina op **_Login_** en log in met uw e-mailadres of via de _Me_ app.
