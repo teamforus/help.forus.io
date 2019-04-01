@@ -80,7 +80,7 @@ Heeft u een vraag? Hieronder staan antwoorden op de veelgestelde vragen. U kunt 
 We zijn bereikbaar op werkdagen van 09.00 tot 17.00 uur.</p>
 
 <h4>Ticket</h4>
-<p>Dien een ticket bij onze helpdesk in. Vul de gevraagde gegevens en klik op <strong>Verstuur</strong>.</p><br />
+<p>Dien een ticket bij onze helpdesk in. Vul de gevraagde gegevens en klik op <strong>Verstuur</strong>.</p>
 
 {% include ticket.html %}
 
