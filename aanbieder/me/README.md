@@ -28,7 +28,7 @@ De _Me_ app heeft de volgende functionaliteiten:
 4. Koppel uw profiel aan _Me_ door op de website rechts bovenaan in het menu op **_Autoriseer apparaat_** te klikken.
 <br />&nbsp;
 
-5. Open de _Me_ app en klik op **_Ik heb een profiel_**. Vul de code die op uw telefoon in _Me_ verschijnt in op de webpagina en klik op **_Autoriseer apparaat_**.
+5. Open de _Me_ app en klik op **_Ik heb een profiel_**. Vul de code die in _Me_ op uw telefoon  verschijnt in op de webpagina en klik op **_Autoriseer apparaat_**.
 <br />&nbsp;
 
 6. Controleer of de _Me_ app goed aan uw account is gekoppeld. Open de _Me_ app en klik op het tabblad profiel. Als uw e-mailadres op deze pagina staat is de _Me_ app aan uw account gekoppeld.
