@@ -21,7 +21,7 @@ alt="CSV upload">
 <br />&nbsp;
 2.  Wanneer u het .CSV bestand klaar hebt klikt u op **_Upload .csv bestand_**. Het bestand wordt nu geupload en de activatiecodes worden aan de klantnummers gekoppeld.
 <br />&nbsp;
-3. De nieuwe klantnummers en activatiecodes zijn toegevoegd aan de lijst. En kunnen naar de inwoners worden verstuurd.
+3. De nieuwe klantnummers en activatiecodes zijn toegevoegd aan de lijst en kunnen naar de inwoners worden verstuurd.
 <br />&nbsp;
 
 ## Overzicht aanvragers
@@ -30,7 +30,7 @@ alt="CSV upload">
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-aanvragers-overzicht.png" alt="organisatie">
     <br />&nbsp;
-2. In het overzicht is te zien welke activatiecodes zijn geactiveerd en geexporteerd.
+2. In het overzicht is te zien welke activatiecodes zijn geactiveerd en geëxporteerd.
 <br />&nbsp;
 
 3. Zoeken op klantnummer of activatiecode kan rechtsbovenaan via het zoekveld.

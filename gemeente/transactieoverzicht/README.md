@@ -14,7 +14,7 @@ Alle transacties kunt u inzien op de pagina Transacties.
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transactie-overzicht.png" alt="Transactieoverzicht">
     <br />&nbsp;
 
-3.  Rechtsboven de lijst met transacties staat een zoekveld en een filter icoon. Via het zoekvenster kan u zoeken op transacties. Daarnaast kan u de transacties door te klikken op het icoon filteren op bedrag, status en datum.
+3.  U kunt op transacties zoeken of een filter toepassen. Rechtsboven de lijst met transacties staat een zoekveld en een filter icoon. Via het zoekvenster kan u zoeken op transacties. Door te klikken op het filtericoon kan u de transacties filteren op bedrag, status en datum.
 
     <img src="https://raw.githubusercontent.com/teamforus/manuals/master/img/manual-gemeente-transacties-zoek.png" alt="Transactieoverzicht" style="max-width:300px">
     <br />&nbsp;
