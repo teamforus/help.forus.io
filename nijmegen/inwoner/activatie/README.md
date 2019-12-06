@@ -1,4 +1,4 @@
-# Activativeren Meedoen-regeling
+# Activatie Meedoen-regeling
 Heeft u van de gemeente een toekenning voor de Meedoen-regeling gekregen? Dan kunt u via de webshop het aanbod van activiteiten en cursussen zien en het geld dat u kunt besteden. U kunt de Meedoen-regeling activeren door de volgende stappen te doorlopen.
 
 
