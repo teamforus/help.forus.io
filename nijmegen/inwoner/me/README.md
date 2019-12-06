@@ -9,6 +9,8 @@ De mobiele applicatie _Me_ is een app die u kunt downloaden op uw telefoon.
 Pak uw telefoon en open in een internetbrowser de link: **[http://about.forus.io/DL/](http://about.forus.io/DL/)**. De app is te downloaden uit de App Store en de Google Play store. Me is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
+*Let op!* Wilt u de app installeren via de PlayStore of Appstore, gebruik dan de zoekopdracht: **"Me - Forus"**
+
 ## Waarvoor heb ik het nodig?
 
 Wanneer u recht heeft op de Meedoen-regeling ontvangt u van de gemeente een acticatiecode. Deze code kan u op de website van de Meedoen-regeling activeren. Vervolgens kunt u uw profiel beheren in de app _Me_ en kan u de app gebruiken om in te loggen op de website. Via de app kunt u uw profiel beheren, uw vouchers beheren en veilig betalen.
