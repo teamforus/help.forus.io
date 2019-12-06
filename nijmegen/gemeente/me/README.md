@@ -9,6 +9,8 @@ De mobiele applicatie _Me_ is een app die u kunt downloaden op uw telefoon. Pak 
 De app is te downloaden uit de App Store en de Google Play store. _Me_ is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
+*Let op!* Wilt u de app installeren via de PlayStore of App Store, gebruik dan de zoekopdracht: **"Me - Forus"**
+
 ## Waarvoor heb ik het nodig?
 
 Medewerkers van de gemeente werken met een gebruikersomgeving. De _Me_ app is een extra functionaliteit.
