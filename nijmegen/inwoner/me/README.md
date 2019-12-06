@@ -9,7 +9,7 @@ De mobiele applicatie _Me_ is een app die u kunt downloaden op uw telefoon.
 Pak uw telefoon en open in een internetbrowser de link: **[http://about.forus.io/DL/](http://about.forus.io/DL/)**. De app is te downloaden uit de App Store en de Google Play store. Me is beschikbaar voor Android en iOS besturingssystemen.
 &nbsp;
 
-*Let op!* Wilt u de app installeren via de PlayStore of Appstore, gebruik dan de zoekopdracht: **"Me - Forus"**
+*Let op!* Wilt u de app installeren via de PlayStore of App Store, gebruik dan de zoekopdracht: **"Me - Forus"**
 
 ## Waarvoor heb ik het nodig?
 
