@@ -3,6 +3,8 @@ De _Me_ app is de mobiele applicatie van de Meedoen-regeling Nijmegen. De app ku
 Open de link via internet op uw telefoon en u wordt direct doorverwezen naar de downloadpagina.
 &nbsp;
 
+*Let op!* Wilt u de app installeren via de PlayStore of Appstore, gebruik dan de zoekopdracht: **"Me - Forus"**
+
 ## Waarvoor heb ik het nodig?
 Om deel te nemen aan de Meedoen-regeling heeft u de _Me_ app nodig. Met _Me_ kan u inloggen op de gebruikersomgeving en betalingen ontvangen.
 &nbsp;
